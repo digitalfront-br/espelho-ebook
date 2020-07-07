@@ -8,13 +8,13 @@
         style="background-image: url('/img/bg-indice.jpeg') ">  
     <div class="uk-card uk-card-body uk-card-default uk-width-medium">
       <ul class="uk-nav">
-        <li class="uk-h3 uk-text-uppercase uk-text-bold">Marketing Digital</li>
+        <li class="uk-h3 uk-text-uppercase uk-text-bold">Marketing de Relacionamento</li>
         <hr>
-        <li> <router-link to="/marketing-digital/modulo1">Modulo I</router-link></li>
-        <li> <router-link to="/marketing-digital/modulo2">Modulo II</router-link></li>
-        <li> <router-link to="/marketing-digital/modulo3">Modulo III</router-link></li>
-        <li> <router-link to="/marketing-digital/modulo4">Modulo IV</router-link></li>
-        <li> <router-link to="/marketing-digital/modulo5">Modulo V</router-link></li>
+        <li> <router-link to="/marketing-relacionamento/modulo1">Modulo I</router-link></li>
+        <li> <router-link to="/marketing-relacionamento/modulo2">Modulo II</router-link></li>
+        <li> <router-link to="/marketing-relacionamento/modulo3">Modulo III</router-link></li>
+        <li> <router-link to="/marketing-relacionamento/modulo4">Modulo IV</router-link></li>
+        <li> <router-link to="/marketing-relacionamento/modulo5">Modulo V</router-link></li>
       </ul>
     </div>
     </div>

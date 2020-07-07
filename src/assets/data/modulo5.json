@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÉTRICAS PARA O MARKETING DE RELACIONAMENTO",
+        "texto": "",
+        "img": "MKTRS01.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO ",
+        "texto": "<p>Iniciaremos agora o módulo 5. Aqui serão apresentadas as métricas expressas para o marketing de relacionamento.</p><p>É fundamental acompanhar os resultados das estratégias alinhadas e aplicadas. A partir de dados unificados, padronizados e enriquecidos, com informações adicionais, é possível definir um foco estratégico para maximizar a lealdade do cliente.</p>",
+        "img": "MKTRS02.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM ",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Conhecer as principais métricas para medir o relacionamento com o cliente.</li><li>- Desenhar os resultados a partir das métricas de relacionamento.</li><li>- Monitorar as estratégias definidas para a gestão de relacionamento com clientes.</li></ul>",
+        "img": "MKTRS03.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "TAXA DE RETENÇÃO DE CLIENTES",
+        "texto": "",
+        "img": "MKTRS04.png",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Manter um cliente é muito mais vantajoso para uma empresa do que investir em prospecção.</p><p>Embora a retenção de clientes seja de extrema valia, muitos gestores ainda dão pouca atenção para a nutrição da sua base de consumidores.</p>" 
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Aumentar as taxas de retenção de clientes em 5% aumenta lucros de 25% a 95%, segundo estudos da Harvard Business School.</p><p>A retenção de clientes não está ligada a descontos financeiros, mas sim, na relação de confiança desenvolvida, de forma que o cliente sinta-se valorizado.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Taxa de retenção é uma “métrica que mede a retenção de usuários em um determinado conteúdo, e é muito útil para analisar a qualidade desse conteúdo, especialmente elementos que aumentam a rejeição interna”.</p><p>Objetivo:  analisar seu conteúdo em detalhes, para entender as partes do seu conteúdo que retêm e as partes que perdem os leitores.</p>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Net Promoter Score – NPS",
+        "texto": "<p>O Net Promoter Score, NPS é uma métrica derivada de uma pergunta relacionada com a lealdade comportamental do cliente, e que mede a intenção deste recomendar a empresa.</p><p>Consiste na diferença entre a percentagem de clientes que recomendariam a empresa (promotores) e a percentagem de clientes que não recomendariam (detratores).</p>",
+        "img": "MKTRS06.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "Valor do ciclo de vida do cliente (Life Time Value - LTV) ",
+        "texto": "<ul><li>- É o lucro gerado por um cliente durante seu ciclo de vida na empresa. Consiste, basicamente, na coleta de informações dos clientes e da interação desses com as ações desenvolvidas para retê-los.</li><li>- O LTV é importante, principalmente, porque ele fornecerá a ideia de quanto pode-se esperar de um cliente. O que direciona a decisão sobre o quanto investir para mantê-lo.</li></ul>",
+        "img": "MKTRS08.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "SÍNTESE ",
+        "texto": "<ul><li>- A real vantagem competitiva de uma empresa consiste em ter informação sobre seus clientes que a concorrência não tem e ser capaz de transformar rapidamente esse conhecimento em ação.</li><li>- Ganha quem consegue estabelecer relacionamentos dominantes em seu mercado. Cada organização deve procurar entender as suas estratégias, processos que envolvem a adoção e acompanhar os resultados obtidos.</li></ul>",
+        "img": "MKTRS09.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns, você chegou ao final curso!</h3><p>Espero que você tenha aprendido a importância das  métricas para o marketing de relacionamento. Você teve alguma dúvida ao assistir às videoaulas? Se sim, pergunte ao seu tutor.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do seu tutor.<p>",
+        "img": "MKTRS10.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+] 

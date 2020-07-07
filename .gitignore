@@ -11,7 +11,7 @@ src/assets/img/modulo2/
 src/assets/img/modulo3/
 src/assets/img/modulo4/
 src/assets/img/modulo5/
-src/assets/data/
+# src/assets/data/
 # local env files
 .env.local
 .env.*.local

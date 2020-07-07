@@ -1,6 +1,6 @@
 <template>
     <div>
-        <header-component :modulo="modulo" titulo="Marketing Digital" /> 
+        <header-component :modulo="modulo" titulo="Marketing de Relacionamento" /> 
         <section v-for="item in dados" :key="item.id" > 
             <Capa v-if="item.tipo == 'capa'" :dados="item" :modulo="url"   />
             <Left v-if="item.tipo == 'left'" :dados="item" :modulo="url" />

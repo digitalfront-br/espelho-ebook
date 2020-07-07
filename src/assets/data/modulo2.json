@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "titulo": "A IMPORTÂNCIA DA IDENTIFICAÇÃO DE CLIENTES NO MERCADO",
+        "texto": "",
+        "img": "MKTRS01.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Vamos iniciar o módulo 2. Aqui discutiremos: o foco no cliente, na evolução do marketing de segmentos, na análise de mercado e nas ações de marketing, além dos benefícios adicionados aos produtos e serviços, diferenciando-os pela agregação de valor</p>",
+        "img": "MKTRS02.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Compreender como o consumidor se comporta.</li><li>- Identificar oportunidades de consumo no mercado.</li><li>- Propor soluções para que o seu público-alvo prefira a sua marca.</li></ul>",
+        "img": "MKTRS03.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "Market Share",
+        "texto": "<p>É a “participação de uma determinada empresa no mercado em que ela está inserida. Também é chamada de quota de mercado, fatia de mercado, porção de mercado, participação no mercado, entre outros”</p>",
+        "img": "MKTRS04.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": null,
+        "texto": "<p>O Market Share possui uma série de vertentes:</p><ul><li>- Por meio de número de usuários</li><li>- Volume de vendas</li><li>- Valor da marca.</li><li>- Tamanho da operação.</li></ul><p>Analisar o negócio, sob esse aspecto, é uma forma de entender como está o seu desempenho, levando em consideração o ecossistema de outras empresas.</p>",
+        "img": "MKTRS05.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "Mercado-alvo",
+        "texto": "<p>O mercado-alvo é um grupo de pessoas ou organizações para as quais uma empresa cria, implementa e mantém um mix de marketing destinado a atender às necessidades desse grupo, resultando trocas mutuamente satisfatórias.</p><p>Como a maioria dos mercados inclui clientes com diferentes características, estilos de vida, experiências e níveis de renda, é improvável que um único mix de marketing seduza todos os segmentos de mercado.</p>",
+        "img": "MKTRS06.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "Segmentação de Mercado ",
+        "texto": "",
+        "img": "MKTRS07.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Segmento de mercado é um subgrupo de pessoas ou organizações que compartilham, uma ou mais características, que os fazem a ter necessidades de produtos semelhantes.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Os profissionais de marketing usam bases de segmentação ou variáveis para realizar essa divisão, que são características de indivíduos, grupos ou organizações.</p><p>Existem quatro tipos de segmentações:</p><ul><li>- Geográfica.</li><li>- Demográfica.</li><li>- Psicográfica.</li><li>- Comportamental.</li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "COMPORTAMENTO DO CONSUMIDOR",
+        "texto": "",
+        "img": "MKTRS08.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Pode-se dizer que o consumo teve origem na ciência econômica da segunda metade do século XVIII, mais especificamente nos trabalhos de economistas clássicos, como Adam Smith.</p><p>Esses trabalhos caracterizaram a escola do pensamento tradicional, cujos princípios, como o da racionalidade, ainda são utilizados até hoje: “[...] as decisões do consumidor são vistas como racionais, baseadas na avaliação da utilidade dos produtos” (LIMEIRA, 2008, p. 13). </p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Na década de 1950, estudiosos do consumo procuraram explicar não só os estímulos racionais na decisão de compra, mas também estímulos simbólicos.</p><p>A partir desse interesse, teorias e conceitos da Psicologia começaram a trazer grandes contribuições a respeito do consumo.</p>"
+            } 
+        ]
+    },
+    {
+        "id":  9,
+        "titulo": "Fatores que contribuíram para o surgimento da Sociedade de Consumo atual:",
+        "texto": "<p>Descrevem os processos: como o consumidor se baseia para tomar decisões de compra, bem como para usar bens e serviços adquiridos e dispor deles. Também inclui fatores que influenciam na decisão de compra e no uso de produtos.</p><p>educavam as pessoas sobre os benefícios de</p><p>Novos produtos vendidos nas lojas</p>",
+        "img": "MKTRS09.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Produção industrial em larga escala -> possibilitou a expansão do -> Consumo de bens padronizados</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Distribuição em Massa de produtos industrializados -> garantiu o -> Acesso da população aos diversos tipos de bens</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Oferta de crédito ao consumidor -> viabilizou a -> Aquisição dos bens de consumo.</p>"
+            },
+            {
+                "id": 4,
+                "tituulo": 4,
+                "texto": "<p>Consumo de produtos industrializados pela população -> fomentado pela -> Influência das mensagens publicitárias.</p>"
+            }
+        ]
+    },
+    {
+        "id":  10,
+        "titulo": "FATORES QUE INFLUENCIAM O COMPORTAMENTO DO CONSUMIDOR",
+        "texto": "<p>O consumidor é submetido às influências internas e influências externas.<p> ",
+        "img": "MKTRS10.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Influências Internas",
+                "texto": "<p>Ocorrem dentro da mente (fatores cognitivos) e do coração (fatores emocionais) do consumidor. Pode-se relacionar para ilustrar a aprendizagem, percepção, memória, atitudes.<p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": "Influências  Externas",
+                "texto": "<p>Incluem aspectos sociais e culturais da vida do consumidor, que expressam crenças coletivas. A cultura é uma das mais importantes influências da sociedade sobre os indivíduos (um conjunto de valores, crenças, preferências e gostos passados de uma geração para outra).<p>"
+            } 
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "PROCESSO DE DECISÃO DE COMPRA ",
+        "texto": "<p>O processo de tomada de decisão do consumidor envolve cinco etapas de aquisição de bens e serviços por parte do consumidor. Fatores culturais, sociais, individuais psicológicos que afetam todas as etapas desse processo.</p><ul><li>- Reconhecimento do problema</li><li>- Busca de informações</li><li>- Avaliações de alternativas</li><li>- Decisão de compra</li><li>- Comportamento pós-compra</li></ul>",
+        "img": "MKTRS13.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 12,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 2. Esperamos que tenha aprendido os principais conceitos aqui abordados.</p><p>Teve alguma dúvida?  Pergunte ao seu tutor no fórum de dúvidas e, não se  esqueça, de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "MKTRS14.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+] 

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "titulo": "ESTRATÉGIAS DE MARKETING DE RELACIONAMENTO",
+        "texto": "",
+        "img": "MKTRS01.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Neste quarto módulo serão apresentadas:</p><ul><li>- As estratégias de marketing de relacionamento.</li><li>- As abordagens para entender e atender as necessidades dos clientes em suas especificidades.</li><li>- As ações para fidelização do cliente que a empresa pode utilizar de acordo com o negócio.</li></ul>",
+        "img": "MKTRS02.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Conhecer as estratégias de relacionamento com o cliente.</li><li>- Prover uma visão de como as ferramentas de marketing de relacionamento são utilizadas para criar valor superior para os clientes e alcançar os objetivos organizacionais.</li><li>- Aplicar as ferramentas de marketing de relacionamento no contexto organizacional.</li></ul>",
+        "img": "MKTRS03.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "ESTRATÉGIAS DE MARKETING DE RELACIONAMENTO",
+        "texto": "<p>São as iniciativas dirigidas a públicos específicos que podem ser conjuntos de clientes ativos ou clientes potenciais.</p><p>A interação, momento em  que o cliente e o representante de uma empresa trocam informações e desenvolvem relações de aprendizagem  é a base sobre a qual as ações serão desenvolvidas.</p>",
+        "img": "MKTRS04.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": "O que é CRM?",
+        "texto": "<p>Gestão de Relacionamento com o cliente: CRM (customer relantionship management) – sistemas e softwares</p>",
+        "img": "MKTRS05.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O CRM é o gerenciamento de relacionamento com o cliente. É uma estratégia corporativa projetada para otimizar a rentabilidade, a receita e a satisfação do cliente, concentrando-se em grupos de clientes altamente definidos e precisos.<p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Em lugar de dispersar mensagens amplamente, por meio do espectro da mídia de massa, os profissionais de marketing buscam oportunidades para se comunicarem de forma eficiente com cada cliente.</p><p>O atendimento ao cliente é uma pequena fração de uma abordagem total integrada para a construção de relacionamentos com o cliente.</p><p>O CRM pode ser descrito como um sistema fechado, que é contínuo e circular, sem um ponto pré-definido de partida ou final.</p>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "TIPOS DE CRM: CRM ANALÍTICO, CRM OPERACIONAL, CRM SOCIAL",
+        "texto": "<p>O modelo de fluxo do sistema de gestão de relacionamento com o cliente pode ser descrito como: </p>",
+        "img": "MKTRS07.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Identificar os relacionamentos com o cliente.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Capturar dados de clientes com base nessas interações.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Entender as relações com a base atual de clientes.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Armazenar e integrar os dados de clientes usando tecnologias da informação.</p>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "CRM SOCIAL",
+        "texto": "<p>O que é Social CRM?</p>",
+        "img": "MKTRS08.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O CRM Social, também denominado Colaborativo, advindo da internet, se tornou um ambiente que afeta o marketing das empresas de diversas formas, seja na comunicação, na relação com os clientes, na propaganda.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Ao contrário do marketing tradicional, na Internet o controle é do consumidor.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>O CRM Social é uma filosofia e uma estratégia de negócio focada em envolver o cliente,  numa relação de benefício mútuo, utilizando as mídias sociais e tecnologias.</p>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "PROGRAMA FIDELIDADE",
+        "texto": "<p>Se uma empresa identificou seus melhores clientes, ela deve fazer esforços para manter e aumentar a confiança deles.</p><p>Empresas inteligentes traçam metas para reter o cliente, prometendo o que podem oferecer e oferecendo mais do que prometeram. A chave para a conquista e retenção do cliente é equilibrar as expectativas do mesmo, com o desempenho da empresa.</p>",
+        "img": "MKTRS09.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 4. Esperamos que você tenha compreendido os principais conceitos. Caso tenha alguma dúvida acione seu tutor, e não se  esqueça de assistir à videoaula</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "MKTRS10.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+]  

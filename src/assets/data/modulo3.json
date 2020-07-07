@@ -1,0 +1,98 @@
+[
+    {
+        "id":  1,
+        "titulo": "MARKETING DE RELACIONAMENTO",
+        "texto": "",
+        "img": "MKTRS01.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id":  2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Dando continuidade ao nosso curso, neste terceiro módulo serão apresentados os aspectos conceituais de relacionamento com o cliente. Vamos compreender a satisfação e a experiência do consumidor no processo de compra, promovendo os consumidores em promotores da marca.</p>",
+        "img": "MKTRS02.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Conhecer os conceitos de marketing de relacionamento.</li><li>- Compreender a satisfação do consumidor.</li><li>- Entender os aspectos da experiência do consumidor.</li><li>- Entender o conceito de promotor da marca.</li></ul>",
+        "img": "MKTRS03.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "Marketing de Relacionamento",
+        "texto": "<p>O marketing direto foi o precursor, se mostrou eficaz, levando as empresas a apostarem numa forma de fazer marketing menos pulverizado, mais direcionado e cobrindo distâncias.</p><p>Marketing de relacionamento com o cliente tem como objetivo entender o cliente como um indivíduo, e não como parte de um grupo, tornando a comunicação mais estreita.</p>",
+        "img": "MKTRS04.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  5,
+        "titulo": "CONQUISTA, RETENÇÃO E FIDELIZAÇÃO DE CLIENTES DE FORMA EFETIVA",
+        "texto": "<p>Se uma empresa identificou seus melhores clientes, ela deve fazer esforços para manter e aumentar a confiança deles. Empresas inteligentes traçam metas para reter o cliente. Prometendo o que podem oferecer e oferecendo mais do que prometeram. A chave para a conquista e retenção do cliente é equilibrar as expectativas do mesmo com o desempenho da empresa.</p>",
+        "img": "MKTRS05.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  6,
+        "titulo": "Qual é a importância da fidelização de clientes?",
+        "texto": "<p>A fidelidade é um compromisso profundo de comprar repetidamente, de uma mesma empresa, certo produto ou serviço, apesar de influências situacionais e esforços de marketing, potencialmente capazes de causar mudanças comportamentais. Dessa forma o cliente será leal à marca.</p>",
+        "img": "MKTRS06.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  7,
+        "titulo": "SATISFAÇÃO DO CONSUMIDOR",
+        "texto": "<p>Satisfação é a sensação de prazer ou desapontamento resultante da comparação entre o desempenho percebido de um produto ou serviço e as expectativas do comprador.</p><p>Se o desempenho faz jus às expectativas, o comprador fica satisfeito. Excede-se às expectativas, o comprador fica encantado. Clientes satisfeitos repetem suas compras e falam aos outros sobre suas boas experiências com os produtos.</p>",
+        "img": "MKTRS07.png",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  8,
+        "titulo": "EXPERIÊNCIA DO CLIENTE",
+        "texto": "",
+        "img": "MKTRS08.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto":"<p>A experiência do cliente pode ser definida como um conjunto de respostas cognitivas, afetivas, emocionais, sociais e físicas desenvolvidas pelos consumidores a partir do contato direto com determinado varejista.</p><p>Vale lembrar que os consumidores, atualmente vivem a era tecnológica e são exigentes tanto  em lojas físicas quanto em lojas virtuais.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto":"<p>Compras complexas exigem maior envolvimento do que compras habituais, pois abrangem maior necessidade de informação.</p><p>O envolvimento corresponde à maneira como uma pessoa percebe um objeto como sendo pessoalmente importante e pertinente. Por isso, a compra de um carro é mais sedutora do que a compra de chicletes, por exemplo.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto":"<p>Há dois tipos de envolvimento: o afetivo (emocional, vinculado ao nosso “eu”) e o cognitivo (racional, vinculado à utilidade do produto ou serviço a ser comprado). Apesar da aparente simplicidade desses conceitos, devemos nos lembrar de que o ser humano é constituído de emocional + racional. Isso pode significar que, em um envolvimento afetivo haverá uma parcela de envolvimento racional e, em um envolvimento cognitivo, haverá uma parcela de envolvimento emocional.</p>"
+            }
+        ]
+    },
+    {
+        "id":  9,
+        "titulo": "COMO TRANSFORMAR CONSUMIDORES EM PROMOTORES DA MARCA?",
+        "texto": "<p>O consumidor promotor é aquele que apresenta engajamento, divulga a marca de forma espontânea, sem receber nenhum incentivo em troca.</p><p>Pois passou por uma experiência de compra tão satisfatória que tornou propagador da marca, indicando para o seu ciclo de convivência. Para transformar um consumidor em promotor, a marca deve concentrar as estratégias da empresa nos parceiros e clientes.</p>",
+        "img": "MKTRS11.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  10,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 3. Esperamos que tenha aproveitado bastante este estudo. Caso fique com alguma dúvida, acione seu tutor e não se esqueça de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "MKTRS12.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+] 
