@@ -1,0 +1,19 @@
+@import "~uikit/src/scss/variables-theme.scss";
+@import "~uikit/src/scss/mixins-theme.scss"; 
+@import "~uikit/src/scss/uikit-theme.scss";
+html {
+    letter-spacing: .1px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+.tabes{
+    .uk-active a {
+        color: #1e87f0 !important;
+    }
+}
+// p, li { 
+//     font-size:  1.3rem;
+//     line-height: 2rem;
+// }
