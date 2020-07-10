@@ -14,16 +14,18 @@
                     <h2 class="uk-h1 uk-text-bold">{{ dados.titulo }}</h2>
                 </div>
                 <div v-html="dados.texto"></div>
-                <div uk-grid="" class="uk-grid uk-grid-small uk-child-width-1-2@s uk-child-width-expand@m uk-margin-top">
+                <div uk-height-match="target: > div > .painel" uk-grid="" class="uk-grid uk-grid-small uk-child-width-1-2@s uk-child-width-expand@m uk-margin-top">
                     <div 
                         v-for="(item, index) in dados.itens"
                         :key="item.id"
                         uk-scrollspy="cls: uk-animation-scale-down; repeat: true" 
                         class=" uk-scrollspy-inview uk-animation-scale-down uk-margin-bottom" >
+
                         <h4 
                             :uk-toggle="`cls: uk-hidden; animation: uk-animation-slide-bottom; target: #item-${index}`" 
                             class="uk-text-center uk-background-primary uk-text-bold uk-light uk-margin-remove uk-padding-small">{{item.titulo}}</h4>
-                        <div :id="`item-${index}`" class="uk-hidden uk-background-primary uk-light uk-padding-small" v-html="item.texto"> </div>
+                        <div :id="`item-${index}`" class="uk-hidden uk-light painel uk-padding-small uk-background-primary" v-html="item.texto" > </div>
+                        
                     </div>
                 </div>
             </div>

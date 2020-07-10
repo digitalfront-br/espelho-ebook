@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "titulo": "ENTENDENDO OS CONCEITOS E PRINCIPAIS ESTRATÉGIAS DO MARKETING DIGITAL",
+        "texto": null,
+        "img": "MKTD01.jpg",
+        "tipo": "capa",
+        "itens": null 
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Conhecer as estratégias do marketing digital e como aplicá-las ao seu negócio é fundamental para o sucesso na internet. Nos dias de hoje não se pode pensar em estratégia sem pensar no universo virtual.</p><p>Que bom vê-lo(a) novamente! Estamos começando o módulo 2 vamos estudar como podem atuar as estratégias do marketing dentro do cenário virtual. Para isso vamos conhecer os conceitos do marketing digital e como o negócio pode ser pensado dentro desses conceitos.</p>",
+        "img": "MKTD02.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVO DE APRENDIZAGEM",
+        "texto": "<p>O objetivo do módulo 2 é traduzir para o aluno os conceitos mais utilizados quando se fala em marketing digital. Além disso, será apresentado as estratégias de mercado mais conhecidas, a relação com os negócios e a aplicabilidade dessas estratégias nas redes sociais, hoje principal plataforma do marketing digital.</p><p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Reconhecer os principais conceitos do marketing digital.</li><li> Trabalhar a estratégia na rede de acordo com a demanda do negócio.</li><li> Construir a estratégia correta para as redes sociais.<li></ul>",
+        "img": "MKTD03.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    },
+    {
+        "id": 4,
+        "titulo": "PANORAMA GERAL",
+        "texto": "<p>Antes de começar a planejar a presença digital de uma empresa, é preciso definir um objetivo, ou seja, o que se espera do marketing digital. Pode ser melhorar o ranking da empresa quando se faz uma busca no Google, levar mais usuários para visitar o site do negócio, elevar as taxas de conversão, ou seja, fazer com que as pessoas que chegaram até o produto ou serviço concluam a compra, melhorar o relacionamento com o cliente e até estabelecer a empresa no mercado do E-commerce (comércio eletrônico).</p><p>Para cada objetivo, é necessário estratégias em marketing digital específicas. Por isso, é fundamental conhecer os conceitos do Marketing Digital e como cada um deles é importante na hora de colocar a empresa no ambiente da internet.<p>",
+        "img": "MKTD04.jpg",
+        "tipo": "center",
+        "itens": null 
+    },
+    {
+        "id": 5,
+        "titulo": "MARKETING DE CONTEÚDO",
+        "texto": "<p>O marketing de conteúdo é, na atualidade, a principal estratégia para engajar os usuários da internet e potencializar os futuros compradores. Para isso, é utilizado a produção de conteúdos interessantes e atrativos. Essas informações postadas devem ter certo valor para quem vai recebê-las.</p><p>O marketing de conteúdo ajuda no aumento do movimento (chamado de tráfego) do site. Dessa forma, mais pessoas ao conhecer o conteúdo da empresa passam também a conhecer seus produtos e serviços. Como consequência, acabam por:</p><ul><li> Aumentar o relacionamento com a marca.</li><li> Aumentar as vendas.</li><li> Auxiliar no impulsionamento de leads.</li></ul>",
+        "img": "MKTD05.jpg",
+        "tipo": "right",
+        "itens": null 
+    }, 
+    {
+        "id": 6,
+        "titulo": "O que é um leads?",
+        "texto": "<p>Os leads é como são chamados os clientes ou potenciais clientes que mostram interesse no negócio a eles apresentados. São os contatos que, por meio de uma estratégia de Marketing de conteúdo (conteúdos atrativos produzidos para os públicos de interesse que servem como iscas para que o consumidor chegue até o produto ou serviço), deixam suas informações-chave para que você consiga identificar os seus compradores em potencial e nutri-los com informações relevantes até que eles estejam prontos para o momento de compras.</p>",
+        "img": "MKTD06.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    }, 
+    {
+        "id": 7,
+        "titulo": "Você sabe como surgem as mídias sociais?",
+        "texto": "<p>As mídias sociais surgem a partir da ação entre os atores sociais (os usuários) e os nós (os laços sociais que se formam quando duas - ou mais pessoas - interagem entre elas). Quando há o encontro desses dois elementos formam-se o Fluxo de Informação e isso que faz com que as redes sociais existam. Sem fluxo de informação, ou seja, sem interação entre usuários, a rede social deixa de existir.</p><p>Algumas destas redes ganham destaque no ciberespaço pelo grande número de usuários e especificidade das informações que nelas são compartilhadas. É possível encontrar redes de fotografia (Flickr), vídeos (Youtube, DailyMotion), música (BitTorrent), de conhecimentos enciclopédicos (Wikipedia, Freebase) e de compartilhamentos pessoais, como os blogs.</p>",
+        "img": "MKTD07.jpg",
+        "tipo": "left",
+        "itens": null 
+    },
+    {
+        "id": 8,
+        "titulo": "MÍDIAS PAGAS",
+        "texto": "<p>Assim como é feita pela publicidade e pelo marketing tradicional (offline), no ambiente virtual é possível investir recursos financeiros em mídia paga. O objetivo desse tipo de investimento e conseguir resultados em um período de tempo menor que teria com o alcance orgânico.</p><p>Nesse tipo de estratégia investe-se uma determinada quantidade em dinheiro - a quantidade varia de acordo com a plataforma, a periodicidade do anúncio e a duração - para se conseguir um alcance maior do anúncio, trazendo mais visibilidade para o negócio.</p><p>A mídia paga pode ser realizado por meio do impulsionamento de conteúdos como posts patrocinados, banners, matérias, textos e materiais do tipo publicitário.</p>",
+        "img": "MKTD08.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    },
+    {
+        "id": 9,
+        "titulo": "Você sabe o que é Otimização de Sites (SEO)?",
+        "texto": "<p>SEO (Search Engine Optimization) ou otimização para mecanismos de busca. O termo, cada vez mais comum para os interessados no marketing digital, são, na verdade, ações que contribuem para melhorar o potencial de rankeamento de suas páginas e conteúdos.</p><p>Trata-se de uma estratégia fundamental para que, quando o consumidor for buscar por determinado tipo de produto ou serviço, encontra entre as primeiras opções o negócio que se busca potencializar.</p>",
+        "img": "MKTD09.jpg",
+        "tipo": "right",
+        "itens": null 
+    },
+    {
+        "id": 10,
+        "titulo": "Quais são as estratégia usada pelo SEO?",
+        "texto": "<p>A estratégia do SEO acontece por meio de técnicas que buscam melhorar o ranking das páginas a partir dos resultados do Google. Por isso, se coloque no lugar do usuário. Imagine como ele faria a busca por determinado negócio.</p><p>A pesquisa do usuário pode acontecer quando ele já sabe o que quer descobrir, como um endereço, um telefone ou a medida de um produto.</p><p>Mas também quando quer saber algo que desconhece, como a solução de um problema tipo “o que é”. Em ambos os casos a escolha das palavras-chaves no texto ajuda com que a empresa apareça nos primeiros links de forma orgânica.</p>",
+        "img": "MKTD10.jpg",
+        "tipo": "left",
+        "itens": null 
+    }, 
+    {
+        "id": 11,
+        "titulo": "O que é Inbound marketing?",
+        "texto": "<p>Atrair o público é sempre um desafio. Cativá-lo na internet é um desafio ainda maior. O Inbound Marketing é uma estratégia que visa essa aproximação com o público de interesse da empresa, de uma maneira personalizada.</p><p>Para isso, o Inbound oferece conteúdos que buscam mostrar que a empresa quer conversar com o cliente naquela plataforma em que estão inseridos, que proporciona a sensação de um contato mais próximo, mais individualizado.</p><p>Beneficios do Inbound marketing?</p><ul><li> Alcançar o público certo</li><li> Estabelecer um relacionamento mais próximo com clientes</li><li> Aumentar o poder de persuasão</li><li> Encurtar o ciclo de vendas</li><li> Diminuição dos custos</li><li> Aumento do ticket médio</li><li> Mensuração de resultados em tempo real</li></ul>",
+        "img": "MKTD11.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    }, 
+    {
+        "id": 12,
+        "titulo": "O Inbound Marketing podem ser utilizadas então três ações:",
+        "texto": "",
+        "img": "MKTD12.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Uma conversa entre conhecidos",
+                "texto": "<p>A Empresa e o usuário trocam ideias na primeira pessoa, com interação dos dois lados.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Periodicidade",
+                "texto": "<p>A interação não é realizada uma única vez. A empresa deve se organizar para interagir com os clientes com frequência.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Maior Engajamento",
+                "texto": "<p>Quando o cliente se sente próximo da empresa ele passa a se interessar mais pelos produtos e serviços apresentados.</p>"
+            }
+        ] 
+    }, 
+    {
+        "id": 13,
+        "titulo": "E-MAIL MARKETING",
+        "texto": "<p>O e-mail marketing  já é uma tradicional ferramenta para aquelas empresas que querem conversar com seus públicos pela internet. Mas, com o aumento da relevância do marketing digital para os negócios, o e-mail marketing tem sido potencializado como importante estratégia de atração de clientes.</p>",
+        "img": "MKTD13.jpg",
+        "tipo": "left",
+        "itens": null 
+    },
+    {
+        "id": 14,
+        "titulo": "Você sabe porque vale a pena investir no e-mail marketing?",
+        "texto": "<p>A utilização de programas de personalização dos e-mails, trazendo aproximação com quem vai recebê-los e de disparos automáticos dessas é fundamental para o sucesso da ação. Os e-mails marketing mais comuns são aqueles de ofertas, confirmações de compras e inscrições, além de notícias da organização.</p><ul><li> Estratégia barata se usada em grande escala.</li<li> O formato é bastante flexível - o conteúdo pode ser maior ou menor, variando de acordo com a mensagem que se quer passar para o usuário.</li><li> Por ser personalizável, o e-mail marketing traz mais proximidade entre as empresas e seus consumidores.</li></ul>",
+        "img": "MKTD14.jpg",
+        "tipo": "right",
+        "itens": null 
+    },
+    {
+        "id": 15,
+        "titulo": "Mas então, do que se trata o Outbound Marketing?",
+        "texto": "<p>Pode-se considerar a estratégia do Outbound Marketing o mais próximo das ações realizadas pelo marketing tradicional (offline). Isso porque esse tipo de estratégia, ao contrário do Inbound Marketing, tem como objetivo atingir múltiplos públicos ao mesmo tempo. Ele segmenta menos e conversa mais com grandes grupos de usuários. Trata-se de uma estratégia que segmenta menos.</p><p>Clique nos números abaixo e veja  como Outbound Marketing pode ser considerado:</p>",
+        "img": "MKTD15.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Uma comunicação de mão única, com pouca interação, uma vez que a empresa fala, mas não busca o retorno de quem recebeu a mensagem.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Uma estratégia que não tem como objetivo criar laços com os consumidores. A fidelização, para esses casos, não é tão importante no momento.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Podemos considerar como estratégia de Outbound marketing os anúncios em sites, banners e comerciais em plataformas diversas, se assemelhando com publicações existentes em revistas e jornais impressos.</p>"
+            }
+        ] 
+    }, 
+    {
+        "id": 16,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 2. Em breve voltaremos com novidades que, com certeza, serão úteis para o desenvolvimento do seu trabalho.</p><p>Caso fique com alguma dúvida acione seu tutor e não se esqueça de assistir às videoaulas.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor</p>",
+        "img": "MKTD16.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    } 
+] 

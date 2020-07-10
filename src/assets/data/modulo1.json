@@ -1,0 +1,189 @@
+[ 
+    {
+        "id": 1,
+        "titulo": "FUNDAMENTOS DO MARKETING DIGITAL",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null 
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Seja bem-vindo ao Curso Marketing Digital. Neste módulo 1 - Fundamentos do Marketing Digital vamos estudar os elementos que compõem o marketing digital e suas possibilidades. Siga em frente!</p>",
+        "img": "002.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>A internet é indispensável para os dias atuais, seja para conversar com os amigos, se localizar e, é claro, fazer negócios. Para aqueles que querem vender produtos e serviços, conhecer o marketing feito a partir do ambiente virtual é essencial entender os fundamentos do marketing digital, seu diferencial do marketing convencional e suas aplicações no mercado.</p>",
+        "img": "003.jpg",
+        "tipo": "right",
+        "itens": null 
+    },
+    {
+        "id":  4,
+        "titulo": "OBJETIVO DE APRENDIZAGEM",
+        "texto": "<p>O objetivo deste módulo é fazer com que o aluno saiba identificar as principais características do marketing feito no ambiente digital e faça a relação do seu negócio com esse cenário. Além disso, espera-se que o aluno saiba reconhecer os diferentes caminhos que o marketing digital oferece enquanto estratégia de negócios.</p><p>Ao final do módulo, espera-se que o aluno seja capaz de:<p><ul><li> Entender as características do marketing digital.</li><li> Diferenciar o marketing online e offline.</li><li> Identificar ações de marketing digital.</li></ul>",
+        "img": "004.jpg",
+        "tipo": "right",
+        "itens": null 
+    },
+    {
+        "id":  5,
+        "titulo": "MARKETING DIGITAL",
+        "texto": "<h3>O que é marketing digital e como ele surgiu?</h3><p>O marketing digital é o conjunto de atividades que uma empresa (ou pessoa) executa online com o objetivo de atrair novos negócios, criar relacionamentos e desenvolver uma identidade de marca. O objetivo do marketing digital é desenvolver estratégias que consigam criar o diálogo entre as empresas e o ambiente virtual.</p>",
+        "img": "005.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  6,
+        "titulo": "MARKETING DIGITAL",
+        "texto": "<p>No marketing tradicional, ou offline, contamos com o Mix de Marketing. Trata-se de um conjunto de variáveis que precisam ser consideradas quando se comercializa um produto ou serviço. Para esse mix devemos considerar os 4Ps do Marketing. Clique no destaque.</p>",
+        "img": "006.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Produto  ",
+                "texto": "<p>(é aquilo que será comercializado - pode ser um produto físico, palpável ou um serviço).</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Preço  ",
+                "texto": "<p>(o valor no mercado que aquele produto ou serviço será apresentado para o consumidor final).</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Praça  ",
+                "texto": "<p>(trata-se da dinâmica de distribuição e venda do produto ou a área em que se abrange o serviço).</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Promoção  ",
+                "texto": "<p>(a divulgação do produto/serviço. É como as pessoas serão informadas sobre a existência do produto, como adquirir, seus benefícios e vantagens).</p>" 
+            }
+        ] 
+    },  
+    {
+        "id":  7,
+        "titulo": "MARKETING DIGITAL",
+        "texto": "<p>Mas, quando falamos em Marketing Digital, essas variáveis mudam. E se adaptam ao cenário mutante e volátil da internet. Passamos então a considerar o Mix de Marketing com 8 Ps, ou seja, 8 variáveis que precisam ser acompanhadas junto ao produto ou serviço a ser trabalhado.</p><p>Para melhor compreensão dos 8 Ps do Marketing Digital vamos analisar cada uma das suas variáveis.</p><p>Clique no ícone em destaque.</p>",
+        "img": "007.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Pesquisa ",
+                "texto": "<p>A Pesquisa é fundamental pois é responsável por compreender o comportamento do consumidor no ambiente virtual, direcionando o caminho da estratégia a ser adotada. Essa pesquisa deve ser feita no ambiente virtual para trabalhar, de fato, com os usuários da rede. Na pesquisa é importante incluir também a concorrência. Entender o percurso do concorrente é importante para traçar estratégias assertivas.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Planejamento ",
+                "texto": "<p>O Planejamento ajuda na definição das ações que serão desenvolvidas na rede. No módulo 4 do curso veremos mais detalhadamente como se dá o planejamento. É importante salientar que, sem um planejamento estratégico as ações de Marketing Digital se perdem no vasto cenário da internet e isso pode trazer resultados ruins. Planejar a partir de um objetivo é fundamental.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Produção ",
+                "texto": "<p>A Produção é também chamada execução e se trata da realização do planejado. É o momento de tirar as ideias do papel e colocá-las em prática.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Publicação ",
+                "texto": "<p>A Publicação trabalha os conteúdos nas plataformas que serão envolvidas nas ações. As publicações precisam ser relevantes para o relacionamento positivo entre as empresas e os consumidores.</p>"
+            },
+            {
+                "id": 5,
+                "titulo": "Promoção ",
+                "texto": "<p>A Promoção busca, no ambiente virtual, as melhores estratégias para levar a informação até o cliente. Lembrando sempre que Promoção, neste contexto vem de Promover, de divulgar o produto/serviço. Na internet é preciso promover de forma criativa, dinâmica e com uma linguagem próxima do usuário.</p>"
+            },
+            {
+                "id": 6,
+                "titulo": "Propagação ",
+                "texto": "<p>A Propagação busca, principalmente, atingir o compartilhamento das informações divulgadas por meio dos próprios consumidores.</p>"
+            },
+            {
+                "id": 7,
+                "titulo": "Personalização ",
+                "texto": "<p>A Personalização ajuda a atingir os públicos-alvo de maneira mais positiva, já que ela acontece por meio da segmentação. A partir da personalização é possível definir as melhores estratégias para cada público de forma a atingi-lo da forma mais efetiva dentro do ambiente virtual. Como na internet há um bombardeio de informações constantes, aquele que enviar a mensagem mais bem direcionada tem mais chances de acertar o receptor.</p>"
+            },
+            {
+                "id": 8,
+                "titulo": "Precisão ",
+                "texto": "<p>A Precisão ocorre por meio da mensuração dos resultados alcançados. A precisão se faz necessária para corrigir os erros e otimizar as atividades positivas. No módulo 5 do curso vamos estudar mais sobre a precisão entendendo como funcionam as métricas, os resultados e como esses números podem ser trabalhados para atingir os públicos-alvo.</p>"
+            }
+        ] 
+    },
+    {
+        "id":  8,
+        "titulo": "Você sabe como se da a mudança no comportamento do consumidor na era digital?",
+        "texto": "<p>No marketing tradicional, inicia-se a trajetória do cliente reconhecendo sua necessidade e a transformando em desejo. Em seguida, o consumidor busca por informações a respeito do produto que ele pretende comprar. O diferencial do ambiente digital é que a opinião de outros consumidores interfere, e muito, na decisão de compra - o usuário busca pela experiência de outros para decidir finalizar a compra.</p>",
+        "img": "008.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  9,
+        "titulo": "Consumidor X Comprador",
+        "texto": "<p>O consumidor busca a opinião de outras pessoas antes de efetivar a compra e que se pode perceber o quanto a interação é o diferencial no marketing digital. E o reflexo direto do momento pós-compra. A satisfação de um comprador passa a ser fundamental não só porque pretendesse fidelizar esse cliente, mas por ele estar diretamente ligado às compras de outros usuários.</p>",
+        "img": "009.jpg",
+        "tipo": "encerramento",
+        "itens": null 
+    },
+    {
+        "id": 10,
+        "titulo": "Trajetória do consumidor",
+        "texto": "<ul><li> Reconhecimento do Problema</li><li> Busca por Informações</li><li> Avaliação das Alternativas</li><li> Comportamento Pós-Compra</li></ul>",
+        "img": "010.jpg",
+        "tipo": "right",
+        "itens": null 
+    }, 
+    {
+        "id": 11,
+        "titulo": "Benefícios e vantagens do marketing digital",
+        "texto": "<p>Cada vez mais tem se tornado um desafio separar o marketing tradicional do marketing digital. Isso porque, para qualquer negócio, seja ele de produtos ou de serviços, estar fora do ambiente virtual é estar nadando contra a maré.</p><p>A sociedade se tornou uma sociedade digital. Seja para olhar o trajeto no carro, pagar um boleto, conversar com amigos ou fazer negócios. E fazer parte dessa sociedade é fundamental para os bons negócios.</p>",
+        "img": "011.jpg",
+        "tipo": "right",
+        "itens": null 
+    }, 
+    {
+        "id": 12,
+        "titulo": "Marketing Digital",
+        "texto": "<p>Vamos entender como o marketing digital ganhou tanto o interesse das pessoas nesse cenário e os principais pontos que o diferem do Marketing tradicional, visto em anúncios e promoções em supermercados. Clique no destaque abaixo.</p>",
+        "img": "012.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Alcance do público ",
+                "texto": "<p>O alcance do público é uma das principais diferenças entre o marketing digital e marketing tradicional. As estratégias trabalhadas na internet podem atingir uma infinidade de pessoas em qualquer lugar, permitindo acesso muito maior do consumidor à informação que as ações que podemos realizar no ambiente físico.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Valor das ações ",
+                "texto": "<p>O custo para realizar ações de marketing no ambiente digital é um forte diferencial quando comparado ao marketing tradicional. O marketing feito pela internet tende a ser mais barato, já que ele utiliza estratégias pouco ou nada dispendiosas. Redes sociais por exemplo, podem ser empregados em favor da empresa sem que isso represente um custo adicional.</p><p>Já as estratégias do marketing tradicional, por outro lado, costumam ter alto custo. Anúncios em jornais ou revistas e propagandas em televisão e em rádio são praticamente inviáveis para empreendimentos iniciantes ou de menor porte.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Adaptação ao público ",
+                "texto": "<p>Mesmo que a intenção seja uma, é possível adaptar as campanhas ao seus públicos e à plataforma que será utilizada, alcançando a mais pessoas com um esforço menor. Na internet, há mais espaço para informalidade e adaptações, independentemente do seu público-alvo.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Resposta do público ",
+                "texto": "<p>Outra diferença do marketing digital em relação ao marketing tradicional é que ele permite que a empresa consiga mensurar e aferir com precisão os seus resultados. Na internet, tudo é muito mais fácil de ser medido, os números são entregues pelos próprios site, o que permite interpretar a reação do público àquela estratégia. No ambiente tradicional é mais difícil mensurar a respostas dos consumidores a um anúncio ou a qualquer outro tipo de interação.</p>"
+            }
+        ] 
+    }, 
+    {
+        "id": 13,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Parabéns!</h3><p>Você finalizou este módulo 1. Esperamos que tenha aproveitado bastante este estudo.</p><p>Caso fique com alguma dúvida acione seu tutor e não se esqueça de assistir às videoaulas.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "013.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

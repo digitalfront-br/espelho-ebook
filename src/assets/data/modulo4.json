@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "titulo": "CONSTRUINDO O PLANEJAMENTO DE MARKETING DIGITAL",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Que bom revê-lo(a)! Vamos iniciar o módulo 4: Construindo o Planejamento de Marketing Digital.</p><p>O marketing digital é uma excelente ferramenta para a venda de produtos e serviços na internet. Mas, para fazê-lo é preciso planejamento.</p><p>Neste módulo vamos abordar os principais pontos que devem estar presentes dentro do planejamento de uma ação virtual. Vamos trabalhar o passo a passo para a construção de um planejamento eficiente e que traga bons resultados.</p>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVO DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Criar objetivos específicos para cada ação nas redes sociais.</li><li> Planejar a ação nas redes de acordo com o público de interesse.</li><li> Traçar estratégias de curto, médio e longo prazo nas redes sociais.</li><ul>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "O que é um planejamento de marketing digital?",
+        "texto": "<p>O Planejamento estratégico deve ser o primeiro passo para a realização de boas estratégias de marketing digital, pois ele dará sentido às ações propostas. Ele deve ser baseado no objetivo da organização naquele momento. Esse objetivo pode ser apresentar um:</p><ul><li> Novo produto.</li><li> Conquistar novos clientes.</li><li> Entrar em um novo mercado.</li><li> Fortalecer uma marca já conhecida.</li></ul><p>Os motivos são variados, o importante é cada comerciante saber identificar a sua necessidade e planejar em cima dela.</p>",
+        "img": "004.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": "O Planejamento Estratégico",
+        "texto": "<ul><li> Definição do produto/serviço</li><li> Definição das redes sociais adotadas</li><li> Objetivos e metas</li><li> Definição do público de interesse</li><ul><p>Outro passo importante é conhecer as estratégias dos principais concorrentes nesses ambientes e os resultados obtidos por elas com essas ações. Esse é um caminho interessante para avaliar se a ideia apresentada no planejamento pode dar o errado. O concorrente pode ser um bom termômetro das ação.</p><p>A ação é a execução daquilo que foi planejado. O profissional responsável estar atento a essa etapa, uma vez que ela é o contato direto com os consumidores.</p>",
+        "img": "005.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "Como é feita a pesquisa?",
+        "texto": "",
+        "img": "006.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>A pesquisa deve ser considerada a primeira etapa de um bom planejamento. No ambiente digital ela não seria diferente. É por meio do resultado de uma pesquisa bem realizada que será possível traçar os caminhos da ação que será desenvolvida.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A pesquisa deve mostrar como é o cenário atual que se quer entrar. Qual é o público certo para o meu produto/ serviço? Como a concorrência tem atuado com esse público e nesse cenário? A partir dessas perguntas se torna possível traçar os objetivos que a empresa deve buscar, além de desenvolver as metas que pretende alcançar.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>A pesquisa pode ser realizada por meio da observação dos profissionais, visitando páginas e tendo experiências como os demais consumidores. Outra estratégia é a aplicação de questionários - virtuais é o ideal, por se tratar de uma pesquisa na internet, buscando conhecer mais a fundo o interesse dos usuários.</p>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Plano de Ação",
+        "texto": "<p>Um dos momentos mais importantes do planejamento estratégico é tirar do papel as ideias e colocá-las em prática. Para que isso seja bem executado é necessário ter um bom plano de ação.</p><p>Este plano deve contar:</p><ul><li> O que (qual conteúdo será postado).</li><li> Onde (em quais plataformas será disponibilizado o conteúdo).</li><li> Para quem (qual o público quero atingir com esse conteúdo).</li><li> Quando (qual será a periodicidade do conteúdo).</li><p>Antes de começar a postar é importante já ter prontos os conteúdos e as palavras-chave que serão utilizadas (esses temas podem ser relembrados no módulo 2).</p>",
+        "img": "007.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "Cronograma",
+        "texto": "<p>O cronograma dessas ações é fundamental, pois ele ajuda na fidelização e aproximação dos usuários.</p><p>Com a periodicidade definida, os possíveis consumidores passam a perceber a empresa como parte de sua rotina, tornando-a mais próxima de sua realidade e de seu cotidiano.</p>",
+        "img": "008.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "Monitoramento",
+        "texto": null,
+        "img": "009.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O monitoramento do conteúdo na internet de modo geral, mas especialmente nas redes sociais, traduzir os resultados alcançados com a estratégia, apresentando os impactos obtidos com determinada ação. Após o monitoramento, é necessário a análise dos dados, interpretando-os de forma a traduzir a relação entre a empresa e o consumidor, a partir da determinada estratégia adotada pelo profissional de marketing.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Estabeleça uma rotina para monitorar. A frequência é fundamental para que os dados tenham uma sequência lógico, fazendo com que fiquem mais fácil de serem interpretados.</p><p>Saiba ajustar o que der errado. O monitoramento mostra o que está funcionando, mas também o que não está dando bons resultados. Quando se acompanha os números, é possível rever a estratégia se algum retorno não estiver condizente com o esperado."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Erros que você deve evitar",
+        "texto": "<p>Seguir o planejamento é fundamental para o sucesso das ações quando se fala em marketing no ambiente digital. É por meio da execução do que foi planejado que se consegue evitar erros que podem, inclusive, prejudicar os negócios. O ambiente da internet é infinito, os usuários são bombardeados diariamente com muitas informações e, para que a empresa consiga se destacar nesse cenário é preciso evitar alguns erros comuns.</p><p>Clique nos números.</p>",
+        "img": "010.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Não conversar com os consumidores: a interação é a chave da aproximação e conquista do cliente.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Usar uma única estratégia: nesse universo infinito de possibilidades que é a internet é preciso se mostrar antenado a todas elas e explorar múltiplas plataformas e ferramentas para alcançar os clientes.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Não ter frequência com os conteúdos: a periodicidade das postagens é fundamental para ser lembrado. Além disso, a frequência facilita a aproximação do usuário com o produto/ serviço.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Não acompanhar os números: é preciso monitorar as redes e os conteúdos para saber se a ação está atrativa, conhecer o retorno do público, para saber se aquela estratégia deve ser mantida ou repensada.</p>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "Encerramento",
+        "texto": "<p>Esperamos que tenha aproveitado bastante este estudo. Reveja os pontos que julgar necessário.</p><p>Caso fique com alguma dúvida acione seu tutor e não se  esqueça de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p><p>Você concluiu esse módulo com sucesso!</p>",
+        "img": "011.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+    
+] 

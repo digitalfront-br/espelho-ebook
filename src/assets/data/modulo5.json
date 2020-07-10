@@ -1,0 +1,180 @@
+[ 
+    {
+        "id": 1,
+        "titulo": "PRINCIPAIS MÉTRICAS DO MARKETING DIGITAL",
+        "texto": null,
+        "img": "001.jpg", 
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Que bom revê-lo(a)! Vamos iniciar o Módulo 5:</p><p>Principais métricas do Marketing Digital</p><p>Acompanhar as ações do marketing dentro do ambiente digital é fundamental para saber o desenvolvimento das estratégias, resultados e possíveis melhorias.</p><p>Esse módulo irá abordar a importância de conhecer os números gerados pelas ações na internet, principalmente nas redes sociais e entender como esses números são fundamentais para o alcance de bons resultados.</p>",
+        "img": "002.jpg", 
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVO DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Entender como são as métricas nas redes sociais.</li><li> Acompanhar de forma orgânica os números das redes sociais.</li><li> Conhecer aplicativos e sites para auxiliarem no acompanhamento das métricas.</li></ul>",
+        "img": "003.jpg", 
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "PANORAMA GERAL",
+        "texto": "<p>O controle do marketing digital precisa ser preventivo, uma vez que, a partir do momento em que se coloca um plano de marketing em ação podem acontecer muitas variações no mercado. Controlar, por meio das métricas é poder fazer os ajustes necessários para ter sempre bons resultados.</p><h3>Como é conhecido o tráfego orgânico?</h3>",
+        "img": "004.jpg", 
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Para se destacar no cenário digital é preciso fazer com que as pessoas se interessem pelos conteúdos disponibilizados, seja em sites, blogs ou redes sociais. Esse interesse gera um movimento nas plataformas digitais, conhecido como tráfego orgânico.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>É por meio desse tráfego, ou seja, desse movimento de pessoas na página que se torna possível se a estratégia está adequada. Para garantir o tráfego orgânico é importante conhecer o público como quem está se comunicando. Mas também é essencial a escolha das palavras-chave adequadas. Para isso deve-se pensar como o usuário: Quais palavras essa pessoa usaria em suas buscas para chegar até o meu produto?</p>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "MÉTRICAS DE ATRAÇÃO",
+        "texto": "<p>A métrica é um indicador que mostra um determinado comportamento do usuário em site, redes sociais ou blogs. Uma métrica é a forma bruta de um indicador, e geralmente não está associada a nenhuma Meta de Conversão.</p><p>Essas métricas podem ser:</p><ul><li> Visitas do Site.</li><li> Visitantes Únicos.</li><li> Taxa de Rejeição.</li></ul>",
+        "img": "006.jpg", 
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "MÉTRICAS EFICAZES",
+        "texto": "",
+        "img": "007.jpg", 
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Métricas eficazes devem ajudar nas metas e objetivos da empresa - elas devem ser um filtro para saber se está impactando positivamente ou não os usuários.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Métricas eficazes são controláveis. O que você não controla dificilmente é mensurável e 100% confiável.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Métricas eficazes são quantitativas. Exemplo: A empresa pode ter “N” reclamações sobre seu produto, mas talvez 80% delas se repitam, ou mesmo 30% sejam graves e tangíveis.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Métricas eficazes são fáceis de coletar e analisar. Se há demora 10 dias para analisar o cenário da semana passada, é preciso melhorar seu processo ou analisar outras métricas.</p>"
+            },
+            {
+                "id": 5,
+                "titulo": 5,
+                "texto": "<p>Métricas eficazes devem mostrar uma direção. Ver o progresso e ter metas são cruciais para as pessoas prestarem atenção e terem tempo de tomar decisões.</p>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "TRÍADE DAS MÉTRICAS",
+        "texto": "<p>A partir das métricas é preciso entender o feedback dos usuários da página, gerar relatórios que tragam respostas e manter a periodicidade do controle dos números. Assim é possível entender como anda a estratégia e alterar alguma ação caso os números não sejam satisfatórios.</p><ul><li> Periodicidade</li><li> Relatórios</li><li> Feedback</li></ul>",
+        "img": "008.jpg", 
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "MÉTRICAS DE CONVERSÃO",
+        "texto": "",
+        "img": "009.jpg", 
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O marketing digital é fundamental para conseguir atrair os seguidores para os produtos e serviços. Mas já é de conhecimento de todos que não adianta somente atrair os usuários da rede. É preciso fazer com que haja a conversão, ou seja, que o usuário passe de expectador para consumidor. A métrica de conversão tem como objetivo apresentar os números dessa conversão para o consumo.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Para saber se a taxa de conversão está positiva, ou seja, se está convergindo o usuário para a ação, é necessário acompanhar os indicativos como o ROI (Retorno sobre Investimento) e investir em CRO (Conversion Rate Optimization). Hoje esses cálculos podem ser feitos online, com a ajuda de links que otimizam essas informações. Você pode saber mais em: <a target='_blank' href='https://resultadosdigitais.com.br/blog/o-que-e-roi-retorno-sobre-investimento/'>https://resultadosdigitais.com.br/blog/o-que-e-roi-retorno-sobre-investimento/</a></p>"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "MÉTRICAS DE RECEITA",
+        "texto": "<p>Mesmo com a conversão do usuário para a página não é certeza que essa chegada do usuário vire retorno financeiro para o negócio disponibilizado na internet. A conversão nem sempre é sinônimo de receita. Por isso é tão importante acompanhar as métricas, pois assim é possível saber se aquilo que está sendo investido tem trazido retorno para a empresa.</p><p>Atualmente são vários indicadores que ajudam nesse acompanhamento, que podem auxiliar na interpretação e uso dessas métricas, como:</p>",
+        "img": "010.jpg", 
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>CAC - Custo de Aquisição por Cliente - indicador que aponta quanto cada consumidor custa para ser conquistado.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>LTV - Lifetime Value - conhecido como o valor permanente do cliente. Trata-se de uma previsão de quanto o consumidor irá comprar ao longo de um determinado prazo.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>MRR - Receita Mensal Recorrente - trata-se de um indicador que auxilia as empresas na organização dos gastos mensais, se baseando na média de consumo dos usuários. Essa estratégia é fundamental para saber se é necessário mudar a estratégia, se houver queda brusca nos rendimento.</p>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "Métricas de Mídias Sociais",
+        "texto": "<p>Atualmente é possível encontrar nas principais mídias sociais todos os números necessários para monitorar os dados que a organização está alcançando com as estratégias aplicadas.</p><p>Cada uma das redes possuem, em suas abas de administração/ configurações, acesso aos números que mostram. Clique no número abaixo e veja um exemplo.</p>",
+        "img": "011.jpg", 
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Quem está acessando a página (perfil demográfico completo com idade, sexo, região em que mora).</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Horários e dias da semana com mais interações (importantes dados para conhecer os horários de mais interesse dos públicos).</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Tempo de permanência nas postagens.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Alcance de determinada publicação - esse alcance mostra quantas pessoas, além daquelas que curtiram o post foram impactadas, ou seja, receberam a informação que a empresa queria transmitir.</p>"
+            },
+            {
+                "id": 5,
+                "titulo": 5,
+                "texto": "<p>O engajamento das postagens mais do que curtir, mostra como o usuário está se relacionando com a empresa. Se ele está interagindo, indo para o site ou comprando o produto/serviço ofertado.</p><p>Tratam-se de informações valiosas que ajudam as organizações a entenderem suas publicações nas redes sociais e realizar seu planejamento estratégico com assertividade.</p>"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "Encerramento",
+        "texto": "<h3>Parabéns!</h3><p>Você chegou ao final do curso Marketing Digital!</p><ul><li> Esperamos que tenha aproveitado bastante este estudo. Reveja os pontos que julgar necessário.</li><li> Caso fique com alguma dúvida, acione seu tutor e não se esqueça de assistir à videoaula.</li><li> A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</li><li> Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</li></ul>",
+        "img": "012.jpg", 
+        "tipo": "encerramento",
+        "itens": null
+    } 
+] 

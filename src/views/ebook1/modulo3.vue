@@ -5,6 +5,7 @@
             <Capa v-if="item.tipo == 'capa'" :dados="item" :modulo="url"   />
             <Left v-if="item.tipo == 'left'" :dados="item" :modulo="url" />
             <Right v-if="item.tipo == 'right'" :dados="item" :modulo="url" />
+            <Center v-if="item.tipo == 'center'" :dados="item" :modulo="url" />
             <Slideshow v-if="item.tipo == 'slideshow'" :dados="item" :modulo="url" />
             <Slidenav v-if="item.tipo == 'slidenav'" :dados="item" :modulo="url" />
             <Passos v-if="item.tipo == 'passos'" :dados="item" :modulo="url" />
@@ -20,6 +21,7 @@ import headerComponent from "@/components/header.vue";
 import Capa from "@/components/sections/capa.vue";
 import Left from "@/components/sections/left.vue";
 import Right from "@/components/sections/right.vue";
+import Center from "@/components/sections/center.vue";
 import Slideshow from "@/components/sections/slideshow.vue";
 import Slidenav from "@/components/sections/slidenav.vue";
 import Passos from "@/components/sections/passos.vue";
@@ -31,6 +33,7 @@ export default {
         Capa,
         Left,
         Right,
+        Center,
         Slideshow,
         Slidenav,
         Passos,

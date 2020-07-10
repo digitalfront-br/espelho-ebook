@@ -1,6 +1,6 @@
 <template> 
         <section 
-            class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin uk-grid uk-height-viewport" 
+            class="uk-card uk-background-muted uk-grid-collapse uk-child-width-1-2@s  uk-grid uk-height-viewport" 
             uk-grid=""
             uk-scrollspy="cls: uk-animation-fade; repeat: true">
             <div class="uk-card-media-left uk-cover-container "  uk-scrollspy="cls: uk-animation-slide-up; repeat: true">

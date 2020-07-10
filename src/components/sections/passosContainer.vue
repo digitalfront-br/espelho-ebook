@@ -19,9 +19,9 @@
                     <div 
                         uk-grid="" 
                         uk-switcher="animation: uk-animation-fade" 
-                        class="tabes uk-grid uk-grid-small uk-child-width-1-2 uk-child-width-1-2@s  uk-child-width-1-4@m uk-child-width-expand@l uk-margin-remove">
+                        class="tabes uk-light uk-grid uk-grid-small uk-child-width-1-2 uk-child-width-1-2@s  uk-child-width-1-4@m uk-child-width-expand@l uk-margin-remove">
                          <div v-for="item in dados.itens" :key="item.id" class="uk-text-center uk-text-bold uk-padding-small">
-                            <a href="#" class="uk-link-reset uk-text-uppercase uk-text-small">{{ item.titulo }}</a>
+                            <a href="#" class="uk-link-reset uk-text-uppercase uk-text-small ">{{ item.titulo }}</a>
                         </div>  
                     </div>
                     <hr class="uk-margin-remove " style="border-color: rgba(229, 229, 229, 0.1)" />

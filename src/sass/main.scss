@@ -1,7 +1,12 @@
+$overlay-default-background: #D6DFF2;
+$global-primary-background: #395eac;
+$global-muted-background: #D6DFF2;
+$global-secondary-background: #395eac;
 @import "~uikit/src/scss/variables-theme.scss";
 @import "~uikit/src/scss/mixins-theme.scss"; 
 @import "~uikit/src/scss/uikit-theme.scss";
 html {
+    background: #D6DFF2;
     letter-spacing: .1px;
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
