@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 4 – TÉCNICAS DE IDENTIFICAÇÃO E APROVEITAMENTO DE OPORTUNIDADES",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>No módulo 4 serão apresentadas as técnicas que contribuem para identificar e aproveitar oportunidades para a organização.</p>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>Conhecer as técnicas de identificação de oportunidades para a organização.</li><li>Aprender a utilizar as ferramentas para análise do ambiente organizacional.</li><li>Pensar e agir de forma estratégica em prol dos negócios da organização.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "TÉCNICAS DE IDENTIFICAÇÃO E APROVEITAMENTO DE OPORTUNIDADES",
+        "texto": "<ul><li>Conhecer as técnicas de identificação e aproveitamento de oportunidades do negócio contribui para a diminuição de incertezas.</li><li>O conjunto de ferramentas para análises do mercado e da empresa diminuem os riscos do negócio.</li></ul>",
+        "img": "004.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  5,
+        "titulo": "ANÁLISE PEST – POLÍTICO, ECONÔMICO, SOCIAL E TECNOLÓGICO",
+        "texto": "<p>A análise PEST é um modelo analítico que facilita o entendimento sobre os fatores externos (análise macro) que podem impactar as operações da empresa.</p><p>Excelente forma de monitorar o ambiente externo.</p><p>PEST é um acrônimo que une as palavras Política (P), Economia (E), Social (S) e Tecnologia (T). Veja o significado de cada análise:</p><ul><li>A <strong>análise tecnológica</strong> checa a influência de tecnologias, existentes e tendências, para o mercado da empresa de uma forma geral.</li><li>A <strong>análise política</strong> checa a influência que o governo tem sobre as atividades econômicas da empresa.</li><li>A <strong>análise social</strong> verifica peculiaridades culturais do país, como por exemplo, escolaridade da população e outros aspectos que mostram como funciona a estrutura social.</li></ul>",
+        "img": "005.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id":  6,
+        "titulo": "MATRIZ SWOT - STRENGTHS, WEAKNESSES, OPPORTUNITIES e THREATS",
+        "texto": "<p>A análise <strong>SWOT</strong> é uma ferramenta clássica da administração, um meio de monitorar os ambientes externo e interno da empresa.</p><p>SWOT é o termo em inglês que se refere a um conjunto de quatro palavras, traduzidas para o português, elas significam “Forças”, “Fraquezas”, “Oportunidades” e “Ameaças” também conhecida por “Matriz FOFA”.</p>",
+        "img": "006.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id":  7,
+        "titulo": "MATRIZ SWOT - STRENGTHS, WEAKNESSES, OPPORTUNITIES e THREATS",
+        "texto": "",
+        "img": "007.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Os pontos fortes e fracos referem-se a tudo aquilo que a empresa possui de bom e o que ela precisa melhorar, respectivamente. Como:</p><ul><li>Reputação da empresa.</li><li>Qualidade do produto.</li><li>Eficiência de preço e distribuição.</li><li>Estratégia de promoção.</li><li>Inovação.</li><li>Análises financeiras.</li></ul>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>As oportunidades e ameaças existem no ambiente, ou seja, fora da empresa, independentemente das forças e fraquezas. Oportunidades e ameaças ocorrem tipicamente dentro dos ambientes:</p><ul><li>Competitivos.</li><li>Econômico.</li><li>Político/legal.</li><li>Tecnológico.</li><li>Sociocultural.</li></ul>"
+          }
+
+        ]
+    },
+    {
+        "id":  8,
+        "titulo": "Conheça essas ferramentas, por meio do esquema:",
+        "texto": "<p>A estratégia significa um plano, método, manobras ou estratagemas usados para alcançar um objetivo. É considerada uma arte ou, até mesmo, uma filosofia, pois envolve ações que, de forma muito particular, podem conduzir à vitória ou derrota.</p><p>Estratégia é um termo amplamente utilizado no ambiente organizacional: estratégia de vendas, planejamento estratégico, estratégia de mercado, dentre outros. Significa  estabelecer metas de longo prazo e trabalhar em retrospecto para alcançá-las por meio de ações específicas, o que denomina-se táticas.</p>",
+        "img": "008.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id":  9,
+        "titulo": "ANÁLISE VRIO – VALOR BASEADO EM RECURSOS",
+        "texto": "<p>Uma empresa atinge resultados superiores quando seus recursos são valiosos, raros, difíceis de imitar e organizados (VRIO), isso gera vantagens competitivas de longo prazo.</p>",
+        "img": "009.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<ul><li>O recurso pode ter muito valor como é o caso de um produto de primeira linha protegido por patente. Pode ter valor também, quando é de grande aceitação.</li><li>Quão raro é esse recurso. Como, por exemplo, uma equipe engajada.</li><li>Esse recurso envolve dificultadores para imitabilidade.</li></ul>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<ul><li>A empresa está apta para usufruir o valor de seus recursos. Esta é uma etapa muito importante!</li><li>Várias empresas possuem recursos que são valiosos, são raros e são difíceis de imitar, mas não estão organizados para gerar oportunidades. Não adianta ter uma boa equipe e não organizar os processos de atendimento.</li></ul>"
+          }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 4. Caso tenha alguma dúvida entre em contato com o seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas, o material de estudo e as atividades avaliativas.</p><p>Até o último módulo!</p>",
+        "img": "010.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

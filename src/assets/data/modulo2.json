@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 2 – POSICIONAMENTO ESTRATÉGICO",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>No módulo 2: Posicionamento Estratégico apresentaremos:</p><ul><li>Tipos de posicionamentos.</li><li>Vantagem competitiva.</li>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "POSICIONAMENTO ESTRATÉGICO",
+        "texto": "<p>O posicionamento deve considerar as forças e fraquezas tanto do mercado, quanto na organização (análise ambiental interna e externa). Do contrário uma estratégia não passará de um slogan.</p><p>A <strong>essência da estratégia</strong> está nas atividades, ou seja, na opção por ações diferenciadas, exercendo atividades diferentes dos rivais. O correto posicionamento da empresa leva à vantagem competitiva.</p><p>Ao enfrentar as forças competitivas do ambiente, pode-se definir o posicionamento estratégico da organização para buscar superar a concorrência.</p>",
+        "img": "003.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "TIPOS DE POSICIONAMENTOS",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "005.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Oceano Azul",
+                "texto": "<p><strong>Oceano Azul</strong>: a empresa não direciona o foco em competidores.</p><p>A estratégia do Oceano Azul “se refere à busca de um mercado para produtos ou serviços, nos quais há pouca concorrência ou quase concorrência nenhuma, baseando-se na diferenciação e preço baixo para abrir e contestar esse novo espaço”.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Oceano Vermelho",
+                "texto": "<p><strong>Oceano Vermelho</strong>: a empresa compete em um mercado já existente, com ênfase em “vencer a concorrência”. Alinha toda a empresa ao conceito de trade-off (menor custo ou alto valor percebido), ou seja, na estratégia de diferenciação ou de baixo custo.</p>"
+            }
+        ]
+    }, 
+    {
+        "id":  5,
+        "titulo": "VANTAGEM COMPETITIVA",
+        "texto": "<p>Para compreender a vantagem competitiva, primeiramente, entenda o termo vantagem.</p><p>A vantagem é um tipo de condição ou uma posição que caracteriza superioridade em relação a algo, ou alguém. É uma circunstância em que há privilégios por motivos diversos.</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "006.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Para compreender a vantagem competitiva, primeiramente, entenda o termo vantagem.</p><p>A vantagem é um tipo de condição ou uma posição que caracteriza superioridade em relação a algo, ou alguém. É uma circunstância em que há privilégios por motivos diversos.</p>"
+            },
+            {
+                "id":  2,
+                "titulo": 2,
+                "texto": "<p>Vantagem competitiva, neste contexto, é portanto o posicionamento superior de uma organização frente à corrida por espaço dentro do mercado.</p><p>Em outras palavras, é o motivo que leva um cliente a escolher fazer negócio com determinada organização em detrimento a outra.</p>"
+            }
+        ]
+    }, 
+    {
+        "id": 6,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 2. Caso tenha alguma dúvida entre em contato com seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas o material de estudo e as atividades avaliativas.</p><p>Bom Estudo!</p>",
+        "img": "008.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

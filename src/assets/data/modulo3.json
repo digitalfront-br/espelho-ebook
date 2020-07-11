@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 3 – FORMAÇÃO GERENCIAL",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "",
+        "img": "002.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Neste módulo vamos apresentar:</p><ul><li>O papel do gestor.</li><li>Processos gerenciais.</li></ul>"
+            },
+            {
+                "id":  2,
+                "titulo": 2,
+                "texto": "<p>Dentro das organizações, os gestores têm um papel fundamental de guiar uma equipe, alinhado com os objetivos da empresa. Além de acompanhar o trabalho e as atividades realizadas pelos colaboradores, o gestor ainda deve auxiliar no desenvolvimento profissional de todos os integrantes do seu time e gerenciar as expectativas de cada um.</p>"
+            }
+        ]
+    },
+    {
+        "id":  4,
+        "titulo": "Formação Gerencial: Por que ela é importante para o seu negócio?",
+        "texto": "<p>O “fazer gestão” ou gerir, significa entre outras coisas, “permitir que um indivíduo de excelente atuação empresarial realize livremente o seu trabalho” (Peter Drucker).</p><p>A função do gestor se relaciona diretamente com os objetivos da gestão, que são organizar e coordenar os recursos de forma a atingir ou superar os resultados planejados.</p>",
+        "img": "004.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  5,
+        "titulo": "QUAL É O PAPEL DO GESTOR?",
+        "texto": "<ul><li>Espera-se que o gestor planeje, organize, lidere e controle pessoas e organizações.</li><li>Que motivem pessoas e grupos, que sejam lideres e que sintam, reconheçam e promovam mudanças.</li><li>Que utilizem a informação para tomar decisões que afetam direta ou indiretamente a eficácia das operações da organização.</li><li>Espera-se que o gestor desenvolva uma visão holística, que determina como os elementos interagem de forma sistêmica.</li></ul>",
+        "img": "005.jpg",
+        "tipo": "slideshow",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Porém possuir uma visão holística, apesar de importante, não é tarefa simples, pois o gestor precisa estar livre de uma visão distorcida da empresa ou das áreas de atuação.</p><p>A solução para uma visão distorcida do sistema-empresa é contar com uma visão de processos. A visão por processos requer a compreensão do conjunto de atividades e como essas atividades se interagem criando sinergia e resultados.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>Para uma melhor compreensão do conjunto de atividades são importantes recursos como: técnicas, informações e métodos. Esses recursos possuem, por assim dizer, “vida própria” e quando aplicados aos processos formam resultados.</p>"
+          }
+
+        ]
+    },
+    {
+        "id":  6,
+        "titulo": "PROCESSOS GERENCIAIS",
+        "texto": " ",
+        "img": "006.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id":  1,
+                "titulo": 1,
+                "texto": "<ul><li>São os processos estabelecidos com o objetivo de coordenar e controlar todas as atividades da empresa. São de extrema utilidade, uma vez que são responsáveis por garantir que os processos primários e os processo de suporte sejam bem executados.</li><li>A gestão de processos gerenciais permite que uma organização seja capaz de entender como seus objetivos estão relacionados com seus recursos e a capacidade produtiva e como todas as aspirações podem ser alcançadas pelas atividades desempenhadas no dia a dia.</li></ul>"
+            },
+            {
+                "id":  2,
+                "titulo": 2,
+                "texto": "<p>A visão sistêmica está intimamente ligada à gestão por processos, pois busca focar os requisitos, escopo ,características dos processos e como tornar os processos melhores. A análise, avaliação, gerenciamento e integração para melhorias exige planejamento, o que resulta em desenvolvimento do produto, mas se o resultado só virá se for eficiente o atendimento ao cliente e como consequência a entrega de valor agregado.</p>"
+            }
+        ]
+    }, 
+    {
+        "id": 8,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 3. Caso tenha alguma dúvida entre em contato com seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas, o material de estudo e as atividades avaliativas.</p><p>Até o próximo módulo!</p>",
+        "img": "010.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

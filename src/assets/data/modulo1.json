@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "titulo": "ARQUITETURA ORGANIZACIONAL",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Neste primeiro módulo,  será apresentado uma visão geral das áreas da empresa, a capacidade de analisar a organização de forma estratégica e sistêmica, além dos aspectos conceituais dos ambientes empresariais e administração dos negócios.</p>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>Apresentar os principais conceitos acerca da gestão de negócios.</li><li>Desenvolver uma visão geral das áreas da empresa.</li><li>Ser capaz de analisar a organização de forma estratégica.</li><li>Compreender melhor a dinâmica e desafios dos negócios emergentes.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "ARQUITETURA ORGANIZACIONAL",
+        "texto": "<p>A arquitetura organizacional refere-se ao modelo holístico (modelo estrela) que representa os principais componentes do projeto de uma organização. É um conjunto amplo de características organizacionais a ser considerado pelos gestores: <ul><li>estratégia,</li><li>estrutura,</li><li>processos,</li><li>pessoas,</li><li>recompensas.</li></ul><p>Com base nessas características, uma série de decisões serão tomadas pelos responsáveis pela direção da empresa.</p>",
+        "img": "004.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  5,
+        "titulo": "AMBIENTE INTERNO E EXTERNO – MICROAMBIENTE E MACROAMBIENTE",
+        "texto": "<h3>Você sabe qual é a diferença entre microambiente e o macroambiente?</h3>",
+        "img": "005.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": "Microambiente",
+              "texto": "<p>O Microambiente é composto por variáveis controláveis pela organização, como por exemplo:</p><ul><li>Política interna.</li><li>Fornecedores.</li><li>Desempenho dos colaboradores.</li><li>Processos operacionais.</li></ul>"
+          },
+          {
+              "id": 2,
+              "titulo": "Macroambiente",
+              "texto": "<p>O Macroambiente é composto por variáveis que fogem ao controle da organização, sobre elas a organização não exerce nenhuma influência, como por exemplo:</p><ul><li>A política do país.</li><li>O cenário econômico.</li><li>As condições naturais do ambiente.</li></ul><p>Assim a organização reage de acordo com as transformações que essas variáveis provocam.</p>"
+          } 
+        ]
+    },
+    {
+        "id":  6,
+        "titulo": "MISSÃO, VISÃO, VALORES",
+        "texto": "<p>Missão, visão e valores são três fatores fundamentais da gestão estratégica de negócios. Essas definições servem como direcionadores para decisões de processos, rotinas, ações e comportamentos na organização.</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "006.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>A <strong>Missão</strong> é a razão de ser da empresa. É, em essência, o propósito da organização.</p><p>A missão deve responder à pergunta mais básica que uma empresa pode se propor: para que existimos?</p> "
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A <strong>Visão</strong>: articulações das aspirações de uma organização a respeito de seu futuro. Esses sonhos deverão ser:</p><ul><li>Inspiradores.</li><li>Realizáveis.</li><li>Objetivos.</li><ul><p>Além de ter uma dimensão perceptível e, com um prazo para acontecer.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>E os <strong>valores</strong> são os princípios que regem as ações e comportamentos de todos os indivíduos que fazem parte de uma organização, como sócios, acionistas e colaboradores.</p><p><strong>Atenção</strong>: É importante que todos sigam à risca os valores da empresa, fazendo com que a organização seja reconhecida pelos seus valores.</p>"
+            }
+        ]
+    },
+    {
+        "id":  7,
+        "titulo": "ESTRUTURA, PROCESSOS E RESULTADOS",
+        "texto": "",
+        "img": "007.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p><strong>Estrutura</strong> é o arranjo definido pelas organizações para desenvolverem as suas atividades. Na verdade não existe um modelo ideal, nenhuma estrutura organizacional está completamente acabada e perfeita. O importante é que funcione de maneira eficaz, atingindo os objetivos e cumprindo a missão da organização.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Os <strong>processos</strong>, por sua vez,  são as tarefas ou etapas, que recebem insumos (materiais, informações, pessoas, máquinas, métodos) e geram produtos (produto físico, informação, serviço), usados para fins específicos. Não existem produtos e serviços sem procedimentos.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Os <strong>resultados</strong> geram vendas e satisfação aos clientes.</p>"
+            }
+        ]
+    },
+    {
+        "id":  8,
+        "titulo": "ESTRATÉGIA - TÁTICA VS ESTRATÉGIA",
+        "texto": "<p>A estratégia significa um plano, método, manobras ou estratagemas usados para alcançar um objetivo. É considerada uma arte ou, até mesmo, uma filosofia, pois envolve ações que, de forma muito particular, podem conduzir à vitória ou derrota.</p><p>Estratégia é um termo amplamente utilizado no ambiente organizacional: estratégia de vendas, planejamento estratégico, estratégia de mercado, dentre outros. Significa  estabelecer metas de longo prazo e trabalhar em retrospecto para alcançá-las por meio de ações específicas, o que denomina-se táticas.</p>",
+        "img": "008.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id":  1,
+                "titulo": 1,
+                "texto": "<p>A estratégia significa um plano, método, manobras ou estratagemas usados para alcançar um objetivo. É considerada uma arte ou, até mesmo, uma filosofia, pois envolve ações que, de forma muito particular, podem conduzir à vitória ou derrota.</p><p>Estratégia é um termo amplamente utilizado no ambiente organizacional: estratégia de vendas, planejamento estratégico, estratégia de mercado, dentre outros. Significa  estabelecer metas de longo prazo e trabalhar em retrospecto para alcançá-las por meio de ações específicas, o que denomina-se táticas.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Estratégia organizacional caracteriza a missão da organização, visão, valores, e desenvolve políticas e planejamento, criados para atingir as metas da organização. Ela também aloca recursos para implementá-los.</p><p>Uma empresa deve empregar estratégias para atuar de forma a garantir sua manutenção no mercado. Estabelecer estratégias implica:  saber aonde se quer chegar e estabelecer ações que, ao serem executadas, aproximam a empresa das metas estipuladas.</p>"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "DESAFIOS DO MERCADO CONTEMPORÂNEO",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "009.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>A Revolução Industrial (segunda metade do século XIX) possibilitou a fabricação e a distribuição em massa, conduzindo a uma sociedade de consumo, que surgiu como resultado de quatro processos simultâneos:</p><ul><li>a produção industrial,</li><li>a distribuição em massa,</li><li>a oferta de crédito,</li><li>o consumo pela população de produtos industrializados.</li></ul>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Não parou por aí, o consumo criou conexões em um nível global, conhecido como fenômeno da globalização.</p><p>Globalização: “é um processo de integração econômica, cultural, social e política. Esse fenômeno é gerado pela necessidade do capitalismo de conquistar novos mercados, principalmente se o mercado atual estiver saturado”.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Muitos produtos que consumimos, por aqui, foram produzidos em outros países. E complementando a evolução desse cenário, nos últimos anos, com a expansão das tecnologias e dos sistemas de comunicação, através da informática, da telefonia e da internet incorporada no dia a dia das pessoas, o mercado tornou-se altamente competitivo.</p>"
+            }
+        ]
+    }, 
+    
+    {
+        "id": 10,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Muito bem!</h3><p>Você finalizou o módulo 1. Não se esqueça de assistir a videoaula e acione o seu tutor sempre que tiver dúvidas.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "010.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

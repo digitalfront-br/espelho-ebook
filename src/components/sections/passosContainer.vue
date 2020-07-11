@@ -20,7 +20,7 @@
                         uk-grid="" 
                         uk-switcher="animation: uk-animation-fade" 
                         class="tabes uk-grid uk-grid-small uk-child-width-1-2 uk-child-width-1-2@s  uk-child-width-1-4@m uk-child-width-expand@l uk-margin-remove">
-                         <div v-for="item in dados.itens" :key="item.id" class="uk-text-center uk-text-bold uk-padding-small">
+                         <div v-for="item in dados.itens" :key="item.id" class="uk-text-center uk-light uk-text-bold uk-padding-small">
                             <a href="#" class="uk-link-reset uk-text-uppercase uk-text-small">{{ item.titulo }}</a>
                         </div>  
                     </div>

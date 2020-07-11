@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 5 – MAPA ESTRATÉGICO",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>Compreender o conceito de mapa estratégico.</li><li>Entender os benefícios proporcionados pelo  mapa estratégico para a organização.</li><li>Desenvolver o mapa estratégico.</li></ul>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "MAPA ESTRATÉGICO",
+        "texto": "<p>O mapa estratégico é uma ferramenta que facilita a visualização dos objetivos, estratégias e os propósitos da organização em um formato de diagrama.</p><p>Sua função é a mesma dos mapas militares que guiavam os exércitos, ou seja, mostrar  as melhores rotas e fazer com que todos marchem na mesma direção.</p>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "BENEFÍCIOS DO MAPA ESTRATÉGICO",
+        "texto": "<ul><li>O mapa estratégico pode e deve ser compartilhado com toda a empresa para direcionar as funções de cada área, tornando-se uma referência na organização.</li><li>O mapa estratégico comunica os planos da empresa e faz com que os colaboradores enxerguem o impacto de seu trabalho no sucesso da organização.</li>",
+        "img": "004.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  5,
+        "titulo": "PRINCIPAIS BENEFÍCIOS DO MAPA ESTRATÉGICO",
+        "texto": "<ul><li>Transformar planos em ações;</li><li>Mostrar a relação entre os objetivos empresariais (conectados, apresentando a relação causa-efeito);</li><li>Promover o engajamento e cooperação dos membros da organização (quando é apresentado um mapa estratégico que ilustra o futuro da empresa e o papel de cada um na trajetória, os colaboradores se sentem envolvidos e assumem o compromisso com os objetivos);</li><li>Estimular a melhoria contínua dos processos organizacionais.</li></ul>",
+        "img": "005.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  6,
+        "titulo": "COMO DESENVOLVER O MAPA ESTRATÉGICO",
+        "texto": "<h3>Modelo de negócio</h3><p>O Business Model Canvas (BMC) é uma ferramenta utilizada na formulação das estratégias, otimiza a visualização e compreensão do modelo de negócios da empresa. É um indutor do pensamento estratégico, reduzindo o foco nas atividades operacionais, ou seja, trabalha o negócio de forma sistêmica.</p>",
+        "img": "006.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "COMO DESENVOLVER O MAPA ESTRATÉGICO",
+        "texto": "<p>Nesta etapa são criados direcionadores estratégicos plurianuais. Orientam para direção da visão da empresa. (exemplo: ser a marca referência no mercado X em X período).</p>",
+        "img": "007.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "COMO DESENVOLVER O MAPA ESTRATÉGICO",
+        "texto": "<p>A metodologia do mapa estratégico é considerada uma das práticas de gestão mais importante da história, ou seja, ajuda as  empresas gerenciarem o seu desempenho e crescer de forma equilibrada. É um ponto forte a ideia de evitar passividade, inércia e ter a certeza de que se está seguindo o caminho mais seguro. Permite a empresa comparar o conteúdo que está no papel com o que está acontecendo na realidade.</p>",
+        "img": "008.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 5. Caso tenha alguma dúvida entre em contato com  o seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas, o material de estudo e as atividades avaliativas.</p>",
+        "img": "009.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]
