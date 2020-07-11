@@ -3,23 +3,23 @@
         "id": 1,
         "titulo": "ESTRATÉGIAS DE MARKETING DE RELACIONAMENTO",
         "texto": "",
-        "img": "MKTRS01.jpg",
+        "img": "001.jpg",
         "tipo": "capa",
         "itens": null
     },
     {
         "id": 2,
         "titulo": "APRESENTAÇÃO",
-        "texto": "<p>Neste quarto módulo serão apresentadas:</p><ul><li>- As estratégias de marketing de relacionamento.</li><li>- As abordagens para entender e atender as necessidades dos clientes em suas especificidades.</li><li>- As ações para fidelização do cliente que a empresa pode utilizar de acordo com o negócio.</li></ul>",
-        "img": "MKTRS02.jpg",
+        "texto": "<p>Neste quarto módulo serão apresentadas:</p><ul><li> As estratégias de marketing de relacionamento.</li><li> As abordagens para entender e atender as necessidades dos clientes em suas especificidades.</li><li> As ações para fidelização do cliente que a empresa pode utilizar de acordo com o negócio.</li></ul>",
+        "img": "002.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 3,
         "titulo": "OBJETIVOS DE APRENDIZAGEM",
-        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Conhecer as estratégias de relacionamento com o cliente.</li><li>- Prover uma visão de como as ferramentas de marketing de relacionamento são utilizadas para criar valor superior para os clientes e alcançar os objetivos organizacionais.</li><li>- Aplicar as ferramentas de marketing de relacionamento no contexto organizacional.</li></ul>",
-        "img": "MKTRS03.jpg",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Conhecer as estratégias de relacionamento com o cliente.</li><li> Prover uma visão de como as ferramentas de marketing de relacionamento são utilizadas para criar valor superior para os clientes e alcançar os objetivos organizacionais.</li><li> Aplicar as ferramentas de marketing de relacionamento no contexto organizacional.</li></ul>",
+        "img": "003.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -27,15 +27,15 @@
         "id": 4,
         "titulo": "ESTRATÉGIAS DE MARKETING DE RELACIONAMENTO",
         "texto": "<p>São as iniciativas dirigidas a públicos específicos que podem ser conjuntos de clientes ativos ou clientes potenciais.</p><p>A interação, momento em  que o cliente e o representante de uma empresa trocam informações e desenvolvem relações de aprendizagem  é a base sobre a qual as ações serão desenvolvidas.</p>",
-        "img": "MKTRS04.jpg",
+        "img": "004.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 5,
         "titulo": "O que é CRM?",
-        "texto": "<p>Gestão de Relacionamento com o cliente: CRM (customer relantionship management) – sistemas e softwares</p>",
-        "img": "MKTRS05.jpg",
+        "texto": "<p>Gestão de Relacionamento com o cliente: CRM (customer relantionship management) – sistemas e softwares</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "005.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -53,8 +53,8 @@
     {
         "id": 6,
         "titulo": "TIPOS DE CRM: CRM ANALÍTICO, CRM OPERACIONAL, CRM SOCIAL",
-        "texto": "<p>O modelo de fluxo do sistema de gestão de relacionamento com o cliente pode ser descrito como: </p>",
-        "img": "MKTRS07.jpg",
+        "texto": "<p>O modelo de fluxo do sistema de gestão de relacionamento com o cliente pode ser descrito como: </p><p>Clique nos números e veja mais informações.</p>",
+        "img": "006.jpg",
         "tipo": "passos",
         "itens": [
             {
@@ -82,8 +82,8 @@
     {
         "id": 7,
         "titulo": "CRM SOCIAL",
-        "texto": "<p>O que é Social CRM?</p>",
-        "img": "MKTRS08.jpg",
+        "texto": "<h3>O que é Social CRM?</h3><p>Clique nos números e veja mais informações.</p>",
+        "img": "007.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -107,15 +107,15 @@
         "id": 8,
         "titulo": "PROGRAMA FIDELIDADE",
         "texto": "<p>Se uma empresa identificou seus melhores clientes, ela deve fazer esforços para manter e aumentar a confiança deles.</p><p>Empresas inteligentes traçam metas para reter o cliente, prometendo o que podem oferecer e oferecendo mais do que prometeram. A chave para a conquista e retenção do cliente é equilibrar as expectativas do mesmo, com o desempenho da empresa.</p>",
-        "img": "MKTRS09.jpg",
-        "tipo": "left",
+        "img": "008.jpg",
+        "tipo": "encerramento",
         "itens": null
     },
     {
         "id": 9,
         "titulo": "ENCERRAMENTO",
         "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 4. Esperamos que você tenha compreendido os principais conceitos. Caso tenha alguma dúvida acione seu tutor, e não se  esqueça de assistir à videoaula</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
-        "img": "MKTRS10.jpg",
+        "img": "009.jpg",
         "tipo": "encerramento",
         "itens": null
     } 

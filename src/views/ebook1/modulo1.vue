@@ -5,6 +5,7 @@
             <Capa v-if="item.tipo == 'capa'" :dados="item" :modulo="url"   />
             <Left v-if="item.tipo == 'left'" :dados="item" :modulo="url" />
             <Right v-if="item.tipo == 'right'" :dados="item" :modulo="url" />
+            <Piramide v-if="item.tipo == 'piramide'" :dados="item" :modulo="url" />
             <Slideshow v-if="item.tipo == 'slideshow'" :dados="item" :modulo="url" />
             <Slidenav v-if="item.tipo == 'slidenav'" :dados="item" :modulo="url" />
             <Passos v-if="item.tipo == 'passos'" :dados="item" :modulo="url" />
@@ -23,6 +24,7 @@ import Right from "@/components/sections/right.vue";
 import Slideshow from "@/components/sections/slideshow.vue";
 import Slidenav from "@/components/sections/slidenav.vue";
 import Passos from "@/components/sections/passos.vue";
+import Piramide from "@/components/sections/piramide.vue";
 import PassosContainer from "@/components/sections/passosContainer.vue";
 import Encerramento from "@/components/sections/encerramento.vue"
 
@@ -31,6 +33,7 @@ export default {
         Capa,
         Left,
         Right,
+        Piramide,
         Slideshow,
         Slidenav,
         Passos,

@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "CONCEITOS CENTRAIS DO MARKETING",
         "texto": null,
-        "img": "MKTRS01.jpg",
+        "img": "001.jpg",
         "tipo": "capa",
         "itens": null
     },
@@ -11,23 +11,23 @@
         "id": 2,
         "titulo": "APRESENTAÇÃO",
         "texto": "<p>Estamos iniciando o módulo 1. Vamos compreender o ponto de partida do conceito de marketing, em que se desenrola o consumo, para estudarmos o relacionamento no contexto de consumo.</p><p>Desde o tempo da simples troca (escambo), passando pelo estágio da economia monetária, até os complexos sistemas de marketing de nossos dias.</p>",
-        "img": "MKTRS02.jpg",
+        "img": "002.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 3,
         "titulo": "OBJETIVO DE APRENDIZAGEM",
-        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Desenvolver o pensamento crítico sobre os conceitos centrais de marketing.</li><li>- Entender quais os motivos que leva o ser humano a consumir.</li><li>- Reconhecer os fatores que influenciam as relações de consumo.</li></ul>",
-        "img": "MKTRS03.jpg",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Desenvolver o pensamento crítico sobre os conceitos centrais de marketing.</li><li> Entender quais os motivos que leva o ser humano a consumir.</li><li> Reconhecer os fatores que influenciam as relações de consumo.</li></ul>",
+        "img": "003.jpg",
         "tipo": "right",
         "itens": null
     },
     {
         "id": 4,
         "titulo": "CONCEITOS CENTRAIS DO MARKETING",
-        "texto": "",
-        "img": "MKTRS04.jpg",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "004.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -46,21 +46,24 @@
         "id": 5,
         "titulo": "NECESSIDADE, DESEJO E DEMANDA",
         "texto": "<p>Introdução ao Marketing: proporcionar uma visão geral do marketing na contemporaneidade. Serão apresentados os conceitos, variáveis e suas inter-relações. Necessidade, desejo e demanda, apesar de apresentarem semelhança nas palavras, tem os conceitos aplicados na prática distintos.</p>",
-        "img": "MKTRS06.jpg",
-        "tipo": "slideshow",
+        "img": "005.jpg",
+        "tipo": "piramide",
         "itens": [
             {
                 "id": 1,
+                "cor": "#88b5da",
                 "titulo": "Necessidade",
                 "texto": "<p>Entende-se por exigências humanas básicas. Como qualquer pirâmide, a de Maslow inicia-se pela base, entende-se, neste caso, como necessidades fisiológicas. O marketing não inventa necessidades, elas já existem. É necessário entender como ocorre o processo das necessidades no consumidor.</p>"
             },
             {
                 "id": 2,
+                "cor": "#bcd798",
                 "titulo": "Desejo",
                 "texto": "<p>O marketing não atua diretamente nas necessidades, mas utiliza delas para criarem objetos e  desejos a serem consumidos.</p>"
             },
             {
                 "id": 3,
+                "cor": "#ee9795",
                 "titulo": "Demanda",
                 "texto": "<p>É a definição da existência de um público-alvo, com condições de adquirir os objetos desejados, ou seja, um grupo (mercado) que demande.</p>"
             }
@@ -70,7 +73,7 @@
         "id": 6,
         "titulo": "O MARKETING NAS ORGANIZAÇÕES: MARKETING DE RESPOSTA",
         "texto": "<h3>Você sabe o que é o marketing de resposta direta?</h3><p>É o marketing que responde a uma demanda, identificando e satisfazendo a necessidade, também denominado marketing ativo. Grande parte do marketing, na atualidade, trabalha com essa tradução.</p>",
-        "img": "MKTRS07.jpg",
+        "img": "006.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -78,7 +81,7 @@
         "id": 7,
         "titulo": "O MARKETING NAS ORGANIZAÇÕES: MARKETING DE PREVISÃO ",
         "texto": "<p>Reconhecer uma necessidade latente não é uma atividade simples. Para aplicar esse tipo de marketing é fundamental analisar o mercado, através de estudos de cenário, projetando futuros quadros de consumo. Denominado também de marketing antecipativo.</p><p>Deve-se considerar o risco, pois as empresas estão suscetíveis aos erros de estratégia em casos de enfrentamento de fortes influências de variáveis macroambientais.</p>",
-        "img": "MKTRS10.jpg",
+        "img": "007.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -86,7 +89,7 @@
         "id": 8,
         "titulo": "O MARKETING NAS ORGANIZAÇÕES: MARKETING DE CRIAÇÃO DE NECESSIDADES",
         "texto": "<p>Marketing mais persuasivo é o esforço que leva a empresa a lançar um produto jamais solicitado e, muitas vezes, inimaginável pelo consumidor. O conceito que parte da ideia da empresa conduzir o mercado, também denominado marketing proativo, trabalha com a abordagem da inovação radical em sua estratégia.</p>",
-        "img": "MKTRS11.jpg",
+        "img": "008.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -94,7 +97,7 @@
         "id": 9,
         "titulo": "ENCERRAMENTO",
         "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 1. Esperamos que você tenha aproveitado bastante este estudo. Caso tenha alguma dúvida, acione seu tutor e, não se  esqueça de assistir à  videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
-        "img": "MKTRS12.jpg",
+        "img": "009.jpg",
         "tipo": "encerramento",
         "itens": null
     } 

@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "A IMPORTÂNCIA DA IDENTIFICAÇÃO DE CLIENTES NO MERCADO",
         "texto": "",
-        "img": "MKTRS01.jpg",
+        "img": "001.jpg",
         "tipo": "capa",
         "itens": null
     },
@@ -11,31 +11,31 @@
         "id": 2,
         "titulo": "APRESENTAÇÃO",
         "texto": "<p>Vamos iniciar o módulo 2. Aqui discutiremos: o foco no cliente, na evolução do marketing de segmentos, na análise de mercado e nas ações de marketing, além dos benefícios adicionados aos produtos e serviços, diferenciando-os pela agregação de valor</p>",
-        "img": "MKTRS02.jpg",
+        "img": "002.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 3,
         "titulo": "OBJETIVOS DE APRENDIZAGEM",
-        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Compreender como o consumidor se comporta.</li><li>- Identificar oportunidades de consumo no mercado.</li><li>- Propor soluções para que o seu público-alvo prefira a sua marca.</li></ul>",
-        "img": "MKTRS03.jpg",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Compreender como o consumidor se comporta.</li><li> Identificar oportunidades de consumo no mercado.</li><li> Propor soluções para que o seu público-alvo prefira a sua marca.</li></ul>",
+        "img": "003.jpg",
         "tipo": "right",
         "itens": null
     },
     {
         "id": 4,
         "titulo": "Market Share",
-        "texto": "<p>É a “participação de uma determinada empresa no mercado em que ela está inserida. Também é chamada de quota de mercado, fatia de mercado, porção de mercado, participação no mercado, entre outros”</p>",
-        "img": "MKTRS04.jpg",
+        "texto": "<p>É a “participação de uma determinada empresa no mercado em que ela está inserida. Também é chamada de quota de mercado, fatia de mercado, porção de mercado, participação no mercado, entre outros”.</p>",
+        "img": "004.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 5,
         "titulo": null,
-        "texto": "<p>O Market Share possui uma série de vertentes:</p><ul><li>- Por meio de número de usuários</li><li>- Volume de vendas</li><li>- Valor da marca.</li><li>- Tamanho da operação.</li></ul><p>Analisar o negócio, sob esse aspecto, é uma forma de entender como está o seu desempenho, levando em consideração o ecossistema de outras empresas.</p>",
-        "img": "MKTRS05.jpg",
+        "texto": "<p>O Market Share possui uma série de vertentes:</p><ul><li> Por meio de número de usuários</li><li> Volume de vendas</li><li> Valor da marca.</li><li> Tamanho da operação.</li></ul><p>Analisar o negócio, sob esse aspecto, é uma forma de entender como está o seu desempenho, levando em consideração o ecossistema de outras empresas.</p>",
+        "img": "005.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -43,15 +43,15 @@
         "id": 6,
         "titulo": "Mercado-alvo",
         "texto": "<p>O mercado-alvo é um grupo de pessoas ou organizações para as quais uma empresa cria, implementa e mantém um mix de marketing destinado a atender às necessidades desse grupo, resultando trocas mutuamente satisfatórias.</p><p>Como a maioria dos mercados inclui clientes com diferentes características, estilos de vida, experiências e níveis de renda, é improvável que um único mix de marketing seduza todos os segmentos de mercado.</p>",
-        "img": "MKTRS06.jpg",
+        "img": "006.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id": 7,
         "titulo": "Segmentação de Mercado ",
-        "texto": "",
-        "img": "MKTRS07.jpg",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "007.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -62,15 +62,15 @@
             {
                 "id": 2,
                 "titulo": 2,
-                "texto": "<p>Os profissionais de marketing usam bases de segmentação ou variáveis para realizar essa divisão, que são características de indivíduos, grupos ou organizações.</p><p>Existem quatro tipos de segmentações:</p><ul><li>- Geográfica.</li><li>- Demográfica.</li><li>- Psicográfica.</li><li>- Comportamental.</li></ul>"
+                "texto": "<p>Os profissionais de marketing usam bases de segmentação ou variáveis para realizar essa divisão, que são características de indivíduos, grupos ou organizações.</p><p>Existem quatro tipos de segmentações:</p><ul><li> Geográfica.</li><li> Demográfica.</li><li> Psicográfica.</li><li> Comportamental.</li></ul>"
             }
         ]
     },
     {
         "id": 8,
         "titulo": "COMPORTAMENTO DO CONSUMIDOR",
-        "texto": "",
-        "img": "MKTRS08.jpg",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "008.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -89,7 +89,7 @@
         "id":  9,
         "titulo": "Fatores que contribuíram para o surgimento da Sociedade de Consumo atual:",
         "texto": "<p>Descrevem os processos: como o consumidor se baseia para tomar decisões de compra, bem como para usar bens e serviços adquiridos e dispor deles. Também inclui fatores que influenciam na decisão de compra e no uso de produtos.</p><p>educavam as pessoas sobre os benefícios de</p><p>Novos produtos vendidos nas lojas</p>",
-        "img": "MKTRS09.jpg",
+        "img": "009.jpg",
         "tipo": "slideshow",
         "itens": [
             {
@@ -109,7 +109,7 @@
             },
             {
                 "id": 4,
-                "tituulo": 4,
+                "titulo": 4,
                 "texto": "<p>Consumo de produtos industrializados pela população -> fomentado pela -> Influência das mensagens publicitárias.</p>"
             }
         ]
@@ -118,7 +118,7 @@
         "id":  10,
         "titulo": "FATORES QUE INFLUENCIAM O COMPORTAMENTO DO CONSUMIDOR",
         "texto": "<p>O consumidor é submetido às influências internas e influências externas.<p> ",
-        "img": "MKTRS10.jpg",
+        "img": "010.jpg",
         "tipo": "passos",
         "itens": [
             {
@@ -136,8 +136,8 @@
     {
         "id": 11,
         "titulo": "PROCESSO DE DECISÃO DE COMPRA ",
-        "texto": "<p>O processo de tomada de decisão do consumidor envolve cinco etapas de aquisição de bens e serviços por parte do consumidor. Fatores culturais, sociais, individuais psicológicos que afetam todas as etapas desse processo.</p><ul><li>- Reconhecimento do problema</li><li>- Busca de informações</li><li>- Avaliações de alternativas</li><li>- Decisão de compra</li><li>- Comportamento pós-compra</li></ul>",
-        "img": "MKTRS13.jpg",
+        "texto": "<p>O processo de tomada de decisão do consumidor envolve cinco etapas de aquisição de bens e serviços por parte do consumidor. Fatores culturais, sociais, individuais psicológicos que afetam todas as etapas desse processo.</p><p>Reconhecimento do problema <span uk-icon='icon: arrow-right'></span> Busca de informações <span uk-icon='icon: arrow-right'></span> Avaliações de alternativas <span uk-icon='icon: arrow-right'></span> Decisão de compra <span uk-icon='icon: arrow-right'></span> Comportamento pós-compra</p>",
+        "img": "011.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -145,7 +145,7 @@
         "id": 12,
         "titulo": "ENCERRAMENTO",
         "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 2. Esperamos que tenha aprendido os principais conceitos aqui abordados.</p><p>Teve alguma dúvida?  Pergunte ao seu tutor no fórum de dúvidas e, não se  esqueça, de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
-        "img": "MKTRS14.jpg",
+        "img": "012.jpg",
         "tipo": "encerramento",
         "itens": null
     } 

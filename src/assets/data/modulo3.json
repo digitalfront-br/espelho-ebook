@@ -3,7 +3,7 @@
         "id":  1,
         "titulo": "MARKETING DE RELACIONAMENTO",
         "texto": "",
-        "img": "MKTRS01.jpg",
+        "img": "001.jpg",
         "tipo": "capa",
         "itens": null
     },
@@ -11,15 +11,15 @@
         "id":  2,
         "titulo": "APRESENTAÇÃO",
         "texto": "<p>Dando continuidade ao nosso curso, neste terceiro módulo serão apresentados os aspectos conceituais de relacionamento com o cliente. Vamos compreender a satisfação e a experiência do consumidor no processo de compra, promovendo os consumidores em promotores da marca.</p>",
-        "img": "MKTRS02.jpg",
+        "img": "002.jpg",
         "tipo": "left",
         "itens": null
     },
     {
         "id":  3,
         "titulo": "OBJETIVOS DE APRENDIZAGEM",
-        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>- Conhecer os conceitos de marketing de relacionamento.</li><li>- Compreender a satisfação do consumidor.</li><li>- Entender os aspectos da experiência do consumidor.</li><li>- Entender o conceito de promotor da marca.</li></ul>",
-        "img": "MKTRS03.jpg",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Conhecer os conceitos de marketing de relacionamento.</li><li> Compreender a satisfação do consumidor.</li><li> Entender os aspectos da experiência do consumidor.</li><li> Entender o conceito de promotor da marca.</li></ul>",
+        "img": "003.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -27,7 +27,7 @@
         "id":  4,
         "titulo": "Marketing de Relacionamento",
         "texto": "<p>O marketing direto foi o precursor, se mostrou eficaz, levando as empresas a apostarem numa forma de fazer marketing menos pulverizado, mais direcionado e cobrindo distâncias.</p><p>Marketing de relacionamento com o cliente tem como objetivo entender o cliente como um indivíduo, e não como parte de um grupo, tornando a comunicação mais estreita.</p>",
-        "img": "MKTRS04.jpg",
+        "img": "004.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -35,7 +35,7 @@
         "id":  5,
         "titulo": "CONQUISTA, RETENÇÃO E FIDELIZAÇÃO DE CLIENTES DE FORMA EFETIVA",
         "texto": "<p>Se uma empresa identificou seus melhores clientes, ela deve fazer esforços para manter e aumentar a confiança deles. Empresas inteligentes traçam metas para reter o cliente. Prometendo o que podem oferecer e oferecendo mais do que prometeram. A chave para a conquista e retenção do cliente é equilibrar as expectativas do mesmo com o desempenho da empresa.</p>",
-        "img": "MKTRS05.jpg",
+        "img": "005.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -43,7 +43,7 @@
         "id":  6,
         "titulo": "Qual é a importância da fidelização de clientes?",
         "texto": "<p>A fidelidade é um compromisso profundo de comprar repetidamente, de uma mesma empresa, certo produto ou serviço, apesar de influências situacionais e esforços de marketing, potencialmente capazes de causar mudanças comportamentais. Dessa forma o cliente será leal à marca.</p>",
-        "img": "MKTRS06.jpg",
+        "img": "006.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -51,15 +51,15 @@
         "id":  7,
         "titulo": "SATISFAÇÃO DO CONSUMIDOR",
         "texto": "<p>Satisfação é a sensação de prazer ou desapontamento resultante da comparação entre o desempenho percebido de um produto ou serviço e as expectativas do comprador.</p><p>Se o desempenho faz jus às expectativas, o comprador fica satisfeito. Excede-se às expectativas, o comprador fica encantado. Clientes satisfeitos repetem suas compras e falam aos outros sobre suas boas experiências com os produtos.</p>",
-        "img": "MKTRS07.png",
-        "tipo": "right",
+        "img": "007.png",
+        "tipo": "encerramento",
         "itens": null
     },
     {
         "id":  8,
         "titulo": "EXPERIÊNCIA DO CLIENTE",
-        "texto": "",
-        "img": "MKTRS08.jpg",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "008.png",
         "tipo": "slideshow",
         "itens": [
             {
@@ -83,7 +83,7 @@
         "id":  9,
         "titulo": "COMO TRANSFORMAR CONSUMIDORES EM PROMOTORES DA MARCA?",
         "texto": "<p>O consumidor promotor é aquele que apresenta engajamento, divulga a marca de forma espontânea, sem receber nenhum incentivo em troca.</p><p>Pois passou por uma experiência de compra tão satisfatória que tornou propagador da marca, indicando para o seu ciclo de convivência. Para transformar um consumidor em promotor, a marca deve concentrar as estratégias da empresa nos parceiros e clientes.</p>",
-        "img": "MKTRS11.jpg",
+        "img": "009.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -91,7 +91,7 @@
         "id":  10,
         "titulo": "ENCERRAMENTO",
         "texto": "<h3>Parabéns!</h3><p>Você finalizou o módulo 3. Esperamos que tenha aproveitado bastante este estudo. Caso fique com alguma dúvida, acione seu tutor e não se esqueça de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
-        "img": "MKTRS12.jpg",
+        "img": "010.jpg",
         "tipo": "encerramento",
         "itens": null
     } 
