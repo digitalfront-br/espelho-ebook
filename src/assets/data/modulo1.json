@@ -3,7 +3,7 @@
         "id": 1,
         "titulo": "PANORAMA DA ÁREA DE VENDAS",
         "texto": "",
-        "img": "001.png",
+        "img": "001.jpg",
         "tipo": "capa",
         "itens": null
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "titulo": "APRESENTAÇÃO",
         "texto": "<P>Com o avanço tecnológico e as mudanças do mercado é primordial entender o novo cenário dos negócios e a transformação dos conceitos, estratégias e ferramentas de vendas. Isto exige do profissional da área, a busca constante do diferencial de negociação para obter o resultado necessário na prática e o desenvolvimento de um relacionamento de longo prazo com o cliente.</p>",
-        "img": "002.png",
+        "img": "002.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "titulo": "OBJETIVOS DE APRENDIZAGEM",
         "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Abordar a importância de conhecer a evolução do mercado e seus desafios.  </li><li> Compreender o papel do consultor de vendas nesse contexto.</li><li> Entender o panorama das vendas, se desenvolva para esses desafios e foque nos resultados esperados.</li></ul>",
-        "img": "003.png",
+        "img": "003.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "titulo": "A EVOLUÇÃO DO MERCADO",
         "texto": "<p>As empresas e as organizações não são estáticas, isso porque o mercado consumidor está em constante transformação.</p><p>Produtos e serviços de antigamente já não atendem mais as necessidades das pessoas que estão em busca de novidades e inovação.</p><p>Exemplos:</p><ul><li> O celular que servia para falar, hoje passa a ser um computador portátil.</li><li> As novas formas de serviço: Uber e Airbn.</li><li> As novas profissões.</li></ul>",
-        "img": "004.png",
+        "img": "004.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "titulo": "AS MUDANÇAS NO MUNDO",
         "texto": "",
-        "img": "005.png",
+        "img": "005.jpg",
         "tipo": "left",
         "itens": null
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "titulo": "NOVOS TEMPOS, DESAFIOS E NOVAS SOLUÇÕES",
         "texto": "Clique nos tópicos abaixo.",
-        "img": "006.png",
+        "img": "006.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -67,7 +67,7 @@
         "id": 7,
         "titulo": "AS MUDANÇAS NO TRABALHO",
         "texto": "Clique nos números e veja mais informações.",
-        "img": "007.png",
+        "img": "007.jpg",
         "tipo": "passos",
         "itens": [
             {
@@ -86,7 +86,7 @@
         "id": 8,
         "titulo": "O CLIENTE E A CONCORRÊNCIA NESSE NOVO CENÁRIO",
         "texto": "<p>O perfil do consumidor, nesse novo cenário, integrado com a tecnologia faz com que ele se torne cada vez mais exigente e com propriedade do que deseja comprar. </p><p>O cliente quando possui interesse em comprar, pesquisa em um tempo mínimo sobre o produto, sobre as marcas que o oferecem e opiniões de usuários que já adquiriram o produto de seu interesse.</p><p>O papel do consultor de vendas torna-se fundamental nesse processo. </p>",
-        "img": "008.png",
+        "img": "008.jpg",
         "tipo": "right",
         "itens": null
     },
@@ -94,7 +94,7 @@
         "id": 9,
         "titulo": "AS COMPETÊNCIAS DO CONSULTOR DE VENDAS",
         "texto": "<p>Clique nos números e veja mais informações.</p>",
-        "img": "009.png",
+        "img": "009.jpg",
         "tipo": "passos",
         "itens": [
             {
@@ -118,7 +118,7 @@
         "id": 10,
         "titulo": "AS COMPETÊNCIAS DO CONSULTOR DE VENDAS",
         "texto": "<p>Inicie o seu desenvolvimento se questionando:</p><p>Clique nos números e veja mais informações.</p>",
-        "img": "010.png",
+        "img": "010.jpg",
         "tipo": "passosContainer",
         "itens": [
             {
@@ -142,7 +142,7 @@
         "id": 11,
         "titulo": "ENCERRAMENTO",
         "texto": "<h3>Muito bem!</h3><p>Você finalizou o módulo 1. Esperamos que você  tenha aproveitado bastante este estudo.</p><p>Assista à videoaula  disponível na página principal do curso.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
-        "img": "011.png",
+        "img": "011.jpg",
         "tipo": "encerramento",
         "itens": null
     }
