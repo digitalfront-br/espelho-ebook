@@ -11,27 +11,27 @@ Vue.use(VueRouter)
     component: Home
   },
   {
-    path: '/marketing-digital/modulo1',
+    path: '/tecnicas-vendas/modulo1',
     name: 'modulo1',
     component: () => import( '../views/ebook1/modulo1.vue')
   },
   {
-    path: '/marketing-digital/modulo2',
+    path: '/tecnicas-vendas/modulo2',
     name: 'modulo2',
     component: () => import( '../views/ebook1/modulo2.vue')
   },
   {
-    path: '/marketing-digital/modulo3',
+    path: '/tecnicas-vendas/modulo3',
     name: 'modulo3',
     component: () => import( '../views/ebook1/modulo3.vue')
   },
   {
-    path: '/marketing-digital/modulo4',
+    path: '/tecnicas-vendas/modulo4',
     name: 'modulo4',
     component: () => import( '../views/ebook1/modulo4.vue')
   },
   {
-    path: '/marketing-digital/modulo5',
+    path: '/tecnicas-vendas/modulo5',
     name: 'modulo5',
     component: () => import( '../views/ebook1/modulo5.vue')
   },

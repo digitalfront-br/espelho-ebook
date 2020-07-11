@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "titulo": "FERRAMENTAS METODOLÓGICAS",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Conhecer as ferramentas mercadológicas e saber como aplicá-las pode colocar o negócio um passo à frente da concorrência. As ferramentas ajudam a conhecer o seu cliente, suas necessidades, desejos e estreitar o relacionamento com o objetivo de torná-lo duradouro.</p>",
+        "img": "002.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "EVOLUÇÃO DOS MODELOS DE MARKETING AO LONGO DAS ÚLTIMAS DÉCADAS",
+        "texto": "<p>Podemos dividir as eras do marketing em quatro grandes fases:</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "003.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Marketing 1.0",
+                "texto": "<p>A era do foco no produto: as empresas estavam focadas na produção e no seu portfólio. É a maneira tradicional de divulgar uma marca, ou seja, por meio de mídias off-line como rádio, televisão e jornais.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Marketing 2.0",
+                "texto": "<p>A era do foco no cliente: as empresas buscavam se aproximar mais dos seus clientes dando ênfase a sua satisfação e retenção. Tudo isso através de meio tradicionais e interativos.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Marketing 3.0",
+                "texto": "<p>Era dos valores: a internet surge como um grande protagonista de uma grande transformação digital. “Neste formato é o público que dita as regras do jogo”.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Marketing 4.0",
+                "texto": "<p>Era digital, humanização das marcas: vivemos em um cenário que a internet está presente em todos os momentos de nossas vidas. Clientes cada vez mais exigentes.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": null,
+        "texto": "<h3>Vamos entender como funcionam algumas ferramentas de marketing que irão lhe auxiliar no seu dia a dia?</h3><p>O mapa da empatia vai lhe trazer algumas informações sobre o seu cliente, sobre o seu serviço e negócio que são mais relevantes.</p>",
+        "img": "004.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": null,
+        "texto": "<h3>Desenhe e dê nome a este ser empático. Comece a contextualizar seu persona dentro do seu negócio, como:</h3><li> O que ele pensa e sente, </li><li> O que ele vê, </li><li> O que ele ouve,</li><li> O que ele fala.</li><p>Essas perguntas serão detalhadas mais adiante.</p>",
+        "img": "005.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "O que vê?",
+        "texto": "<p>Este primeiro quadrante fala dos estímulos visuais que sua persona recebe.</p><p>Tente responder a perguntas como:</p><ul><li> Como é o mundo em que a persona vive?</li><li> Como são seus amigos?</li><li> O que é mais comum no seu cotidiano? </li></ul><p>Nesta tela deveria aparecer o primeiro quadrante, certo?</p>",
+        "img": "006.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "O que ouve?",
+        "texto": "<p>Aqui, pense no que sua persona ouve. Não somente no sentido sonoro (músicas ou conversas), mas também nas influências que recebe de fontes diversas, como meios de comunicação, por exemplo.</p><p>Procure responder perguntas como:</p><ul><li> Quais pessoas e ideias influenciam a persona?</li><li> Quem são seus ídolos?</li><li> Quais suas marcas favoritas?</li><li> Quais os  produtos de comunicação consomem?</li></ul>",
+        "img": "007.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "O que pensa e sente?",
+        "texto": "<p>São as ideias que seu produto ou serviço desperta na mente dos consumidores.</p><ul><li> Como a persona se sente em relação ao mundo?</li><li> Quais as suas preocupações?</li><li> Quais são os seus sonhos?</li></ul>",
+        "img": "008.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "O que fala e faz?",
+        "texto": "<p>Este item diz respeito ao consumo do produto ou serviço, desde o momento que a persona toma a decisão de comprá-lo. Para entender o que sua persona fala e faz preste atenção ao comportamento dela: ao discurso que faz e ao que pratica.</p><p>Responder as seguintes perguntas poderá  lhe ajudar a construir sua persona.</p><ul><li> Sobre o que sua persona costuma falar?</li><li> Ao mesmo tempo, como age?</li><li> Quais seus hobbies?</li></ul>",
+        "img": "009.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 10,
+        "titulo": "Quais são as suas necessidades?",
+        "texto": "<p>Tem relação com o que você pode colocar em prática para surpreender seu público-alvo, mostrando possibilidades. Questione-se sobre:</p><ul><li> O que é sucesso para sua persona?</li><li> Aonde ela quer chegar?</li><li> O que acabaria com seus problemas?</li></ul>",
+        "img": "010.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 11,
+        "titulo": "Na prática!",
+        "texto": "<p>Vamos pensar em um exemplo prático: Maria tem 52 anos, é casada, tem duas filhas, não é vaidosa e teve uma vida sofrida. Ela sente a pele ressecada, mas não sabe quais são os produtos ideais para passar. A partir dessa ideação do seu ser empático dentro da sua proposta de trabalho, você vai começar a responder as seguintes questões: o que ela pensa, escuta, vê e fala. Vamos entender a Maria e responder as questões.</p>",
+        "img": "011.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Vê",
+                "texto": "<p>O que Ela vê?</p><p>Suas amigas não usam creme hidrante. Ela não tem com quem pegar informações. Como ela vai escolher o  melhor creme para a sua pele e passar?</p>" 
+            },
+            {
+                "id": 2,
+                "titulo": "Escuta",
+                "texto": "<p>O que ela escuta?</p><p>O esposo reclama que as suas mãos estão ásperas  e que ela precisa se cuidar.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Fala e faz",
+                "texto": "<p>O que Fala e Faz?</p><p>Ela fala que não usa nenhum produto, mas escondido ela vai ao armário da filha e pega um pouquinho do creme que ela usa, mesmo desconhecendo se aquele é o ideal para a sua pele.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Pensa",
+                "texto": "<p>O que ela pensa?</p><p>Ela tem vergonha de assumir que precisa, mas tem receio de perguntar o que ela vai usar.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "Persona",
+        "texto": "<p>A persona é basicamente uma representação do cliente ideal da sua empresa, ou seja, a persona é o tipo exato de pessoa que uma empresa quer atingir e conquistar como cliente. Por isso, ela deve ser criada com o máximo de detalhes possíveis, porque é ela que guiará o modo como serão feitas todas as ações.</p><p>Criar uma persona é ter a ideia real de quem são os seus clientes em potencial. São personagens reais que representam o seu cliente ideal. Parece muito com público-alvo, mas tem algumas diferenças entre eles. E quais são essas diferenças?</p>",
+        "img": "012.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 13,
+        "titulo": "E quais são essas diferenças? ",
+        "texto": null,
+        "img": "013.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Público Alvo",
+                "texto": "<p>O público-alvo é composto por segmentos da sociedade que tem características em comum. Ele é uma representação bem ampla dos clientes que você tem ou pretende ter.</p><p>Exemplo: uma mulher de 25 a 30 anos, classe média, brasileira, solteira, trabalha em uma empresa na área jurídica, mas busca uma recolocação profissional.</p> "
+            },
+            {
+                "id": 2,
+                "titulo": "Persona",
+                "texto": "<p>Já a persona é voltada para uma descrição com informações mais pessoais.</p><p>Exemplo: João um homem de 30 anos, solteiro, brasileiro, classe média alta, trabalha no escritório de advocacia do pai, mas tem interesse em uma recolocação profissional. É músico e deseja fazer uma nova faculdade para se dedicar a carreira artística, por isso, nos finais de semana ele sempre promove festas e chama os amigos para vê-lo cantar.</p> "
+            },
+            {
+                "id": 3,
+                "titulo": "Persona",
+                "texto": "<p>Por ser de classe média alta e vaidoso, ele compra produtos caros e se preocupa com a imagem. Gosta de roupas de marca. Ele é divertido e está sempre rodeado de amigos e de seus familiares.</p><p>Você viu a diferença? A persona é mais detalhada e específica.</p><p>Quais são os valores?</p> "
+            }, 
+            {
+                "id": 4,
+                "titulo": "Persona",
+                "texto": "<p>O que ele faz no seu dia a dia?</p><p>Quais as metas que ele quer alcançar?</p><p>O que ele consome no seu dia a dia?</p><p>Quais as marcas que ele gosta?</p><p>Qual o seu maior sonho?</p>"
+            } 
+        ]
+    },
+    {
+        "id": 14,
+        "titulo": "Como anda seu negócio?",
+        "texto": "<p>Agora, esboce a sua persona e pergunte para você mesmo, como o meu negócio pode impactar essa pessoa?</p><p>Você agora pode ser muito mais assertivo na sua negociação com os seus clientes.</p><p>Assim você vai conseguir entender as dores do seu cliente e propor vantagens para ele. Pense nisso!</p>",
+        "img": "014.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 15,
+        "titulo": "FUNIL DE VENDAS",
+        "texto": "<p>O funil de vendas, ou funil do marketing  é um modelo estratégico de consumo que ilustra o percurso teórico que o cliente deve seguir até efetuar a compra de um produto ou serviço.</p><p>Assim como no funil tradicional, o funil de vendas começa largo e vai diminuindo até chegar aos reais consumidores.</p><p>Qual é a dinâmica de funcionamento desse funil?</p>",
+        "img": "015.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Você atrai visitantes, esses visitantes viram leads, eles leads viram oportunidades de negócio e essas oportunidades de negócios viram clientes.</p> <p>Nessas quatro fases o seu cliente está interessado em alguma coisa. Quando ele é um visitante da sua empresa, da sua loja ou do seu site, ele está procurando alguma coisa, se não ele não estaria passando por ali. Ele pode querer dar uma olhada, estar à procura de uma informação ou de se entreter.</p> "
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Ele tem uma intenção quando ele te contata, mas ele ainda não quer comprar. Nesse caso é importante você pensar o que irá entregar para essa pessoa.<p> <p>Como será a comunicação ou a estratégia para lidar com essa pessoa?</p><p>Exemplos:</p><p>eu posso construir um blog.</p><p>oferecer um conteúdo relacionado ao meu negócio para essa pessoa.</p> "
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Na terceira parte, essa pessoa poderá se tornar uma oportunidade de negócio. O ideal é você mostrar para essa pessoa que ela tem um problema e que o seu produto vai resolver. O objetivo é “criar o desejo”. Exemplo: mostrar os problemas que a obesidade pode causar e ao tomar o chá diminuirá a retenção de líquido e ajudará na digestão. </p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Se a pessoa clicou no seu e-mail, por exemplo, ela se mostrou interessada e a última parte é transformá-la em cliente fazendo uma oferta para que a pessoa queira comprar.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 16,
+        "titulo": "Encerramento",
+        "texto": "<h3>Muito bem!</h3><p>Você finalizou o módulo 4.</p><p>Possui alguma dúvida sobre o conteúdo abordado?  Poste no fórum de dúvidas e seu tutor irá respondê-lo(a).</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no ambiente de virtual de aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo.</p>",
+        "img": "016.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+]

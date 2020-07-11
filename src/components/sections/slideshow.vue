@@ -16,7 +16,7 @@
                 </div> 
             </div>
             <div uk-slider="center: true" uk-height-match> 
-                <ul class="uk-slider-items uk-grid" >
+                <ul class="uk-slider-items uk-grid" uk-height-match="target: > li > div > .uk-card">
                     <li v-for="item in dados.itens" :key="item.id" class="uk-width-1-1@s uk-width-3-4@m" > 
                         <div class="uk-flex uk-flex-center " >
                             <div class="uk-card uk-card-default uk-card-body uk-margin-large-bottom"> 

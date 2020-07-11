@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "titulo": "DESAFIOS DA NEGOCIAÇÃO E VENDAS",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>A negociação vem assumindo uma importância cada vez maior no mundo empresarial.</p><p>A todo o momento os profissionais estão negociando, desde a hora em que acordam até a hora que estão com seus pares, líderes, liderados e com os clientes.</p><p>O profissional que domina e tem essa habilidade de negociar consegue vantagens e resultados positivos, ou seja, a negociação é uma competência indispensável ao desenvolvimento do profissional de vendas.</p>",
+        "img": "002.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "NEGOCIAÇÃO",
+        "texto": "<p>A negociação é um dos momentos mais importantes da venda.</p> <p>Clique nos números e veja mais informações.</p>",
+        "img": "003.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Vimos o passo da abordagem onde o “promotor” entra em sintonia com o cliente. Neste momento, o promotor conquista a oportunidade de fazer perguntas, permitindo assim fazer o levantamento das necessidades do cliente, como ele quer ser atendido. Desta forma se utiliza essas informações para fazer uma proposta personalizada utilizando as informações identificadas na conversa com o cliente e, a partir dessa proposta irão surgir dúvidas e questionamentos. Nesse momento inicia a negociação.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Aqui o vendedor mostra quem ele é, se ele é bom ou não é. Até agora foi seguido um roteiro, mas a partir desse momento, o “promotor” irá mostrar à sua performance, ou seja, refletirá sobre as objeções do cliente para rebatê-las com argumentos interessantes.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "O que é negociação?",
+        "texto": "<p>A negociação envolve duas partes interessadas, têm troca, argumentos e objeções para se chegar a um resultado que, em nosso caso, é fechar a venda.</p><p>Negociar não é conceder desconto. Qualquer um faz isto.</p><p>Se o “promotor” entrar em uma negociação falando que é preciso conceder desconto, a sua mente estará condicionada a isso.</p>",
+        "img": "004.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": "Como negociar?",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "005.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Como vendedor, você vai conversar com o seu cliente. No início deverá ouvir, mas atentamente. Quando ele apresenta objeções e quando você pode agregar valor.</p><p>Você vai perder alguns negócios por questão de preço. Às vezes o seu concorrente está com estoque sobrando e pode fazer promoção, ou alguma outra estratégia.</p><p>Fique atento ao número de clientes que você abordou e quantas vendas você fechou. Esse é o seu termômetro e o seu feedback. Crie os seus indicadores e extraia o melhor de cada conversa com o cliente, dessa forma, os seus argumentos ficarão cada vez mais robustos.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Mesmo com o preço mais alto você vai vender. Pense no seu processo de compra, o seu cliente olha atendimento, qualidade e entrega.</p><p>O cliente quer a sensação de estar levando um benefício.</p><p>Pode chegar uma hora que você vai ter que falar de preço.</p><p>Quando o cliente não está seguro, ele vai fazer objeções, aí é comum você ir negociar valor, mas não faça isso. Esclareça as vantagens de levar o produto.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>O cliente tem a segurança do que ele vai comprar? Você vai ter que fazê-lo ter certeza.</p><p>Quanto mais preparado você tiver em relação ao fabricante, produto, concorrência, e outros itens relacionados ao produto, melhor será o seu repertório para enfrentar as objeções.</p><p>Não adianta você vender hoje com margem nula ou negativa. A empresa está faturando, mas não está sobrando, ou seja, ela não está tendo lucro. Você como vendedor tem que pensar na saúde financeira da organização. Isso tem que estar no seu radar.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4 ,
+                "texto": "<p>Não dê mais descontos do que o cliente pede. Guarde as “cartas na manga”. Se você pode dar até 20%, comece com o mínimo, 5%. Pense no desconto como estratégia.</p><p>Você, como vendedor, e o seu cliente têm que ganhar. Essa é a relação ideal da negociação.</p><p>A fidelização do seu cliente está baseada em valor, benefício, ou seja, qual a vantagem que ele teve em comprar aquele produto?</p>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "DICA",
+        "texto": "<p>Pense como o seu cliente pensaria e a partir daí, construa os seus seguintes argumentos:</p><ul><li> Eu realmente preciso do produto?</li><li> Eu confio no vendedor?</li><li> Eu confio na empresa? Esta empresa me transmite seriedade?</li><li> Estou pagando um preço justo? Não estou sendo enganado?</li><li> Eu sinto que eu estou levando um benefício?</li><li> Compro agora? Ou posso deixar para o próximo mês? </li></ul>",
+        "img": "006.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "Questionamentos",
+        "texto": "<p>Analise esses questionamentos. Veja que somente uma pergunta é relacionado ao preço, as outras não.</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "007.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Se você for diretamente para o preço, perde a margem.",
+                "texto": "<p>O vendedor despreparado compensa o seu sinal de fraqueza através do preço. Tenha equilíbrio emocional. Se eu não sei o que o cliente realmente quer, eu fico no escuro, não fiz o meu levantamento de necessidades de forma correta.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Desenvolva os seus argumentos sobre os benefícios.",
+                "texto": "<p>Você tem que começar a estudar o seu produto, o seu cliente e o mercado. Tenha confiança em você e no seu processo. Não tenha medo de perder a venda.  A pressão pelo resultado faz com o que os vendedores deem desconto.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Se ainda tiver objeções, uma dessas perguntas não foi respondida.",
+                "texto": "<p>A grande técnica de contornar objeções e requalificar o seu levantamento de necessidades é fazer perguntas inteligentes para um resultado efetivo na sua argumentação.</p>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Parabéns!",
+        "texto": "<p>Você finalizou o módulo 5. Esperamos que tenha aprendido sobre as técnicas de vendas. Caso tenha alguma dúvida acione seu tutor e não se esqueça de assistir a videoaula.</p><p>A avaliação (20 pontos) será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p>",
+        "img": "008.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]  

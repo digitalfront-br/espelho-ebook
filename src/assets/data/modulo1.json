@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "titulo": "PANORAMA DA ÁREA DE VENDAS",
+        "texto": "",
+        "img": "001.png",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<P>Com o avanço tecnológico e as mudanças do mercado é primordial entender o novo cenário dos negócios e a transformação dos conceitos, estratégias e ferramentas de vendas. Isto exige do profissional da área, a busca constante do diferencial de negociação para obter o resultado necessário na prática e o desenvolvimento de um relacionamento de longo prazo com o cliente.</p>",
+        "img": "002.png",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Abordar a importância de conhecer a evolução do mercado e seus desafios.  </li><li> Compreender o papel do consultor de vendas nesse contexto.</li><li> Entender o panorama das vendas, se desenvolva para esses desafios e foque nos resultados esperados.</li></ul>",
+        "img": "003.png",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "A EVOLUÇÃO DO MERCADO",
+        "texto": "<p>As empresas e as organizações não são estáticas, isso porque o mercado consumidor está em constante transformação.</p><p>Produtos e serviços de antigamente já não atendem mais as necessidades das pessoas que estão em busca de novidades e inovação.</p><p>Exemplos:</p><ul><li> O celular que servia para falar, hoje passa a ser um computador portátil.</li><li> As novas formas de serviço: Uber e Airbn.</li><li> As novas profissões.</li></ul>",
+        "img": "004.png",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": "AS MUDANÇAS NO MUNDO",
+        "texto": "",
+        "img": "005.png",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "NOVOS TEMPOS, DESAFIOS E NOVAS SOLUÇÕES",
+        "texto": "Clique nos tópicos abaixo.",
+        "img": "006.png",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Novos Tempos:",
+                "texto": "<p>Era Industrial <span uk-icon='icon: arrow-right'></span> Era da informação</p><p>Estabilidade e permanência  <span uk-icon='icon: arrow-right'></span> Mudança e Transformação</p><p>Mundo Concreto e Fisico <span uk-icon='icon: arrow-right'></span> Mundo Abstrato e virtual</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Novos Desafios:",
+                "texto": "<p>Produtos <span uk-icon='icon: arrow-right'></span> Produtos + Serviços</p><p>Manutenção do status quo <span uk-icon='icon: arrow-right'></span> Criatividade + Imaginação</p><p>Capitalismo financeiro <span uk-icon='icon: arrow-right'></span> Capital Intelectual</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Novas Soluções:",
+                "texto": "<p>Tamanho <span uk-icon='icon: arrow-right'></span> Agilidade</p><p>Divisão do Trabalho <span uk-icon='icon: arrow-right'></span> Integração + Conectividade</p><p>Ordem <span uk-icon='icon: arrow-right'></span> Flexibilidade</p><p>Controle <span uk-icon='icon: arrow-right'></span>  Inovação</p>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "AS MUDANÇAS NO TRABALHO",
+        "texto": "Clique nos números e veja mais informações.",
+        "img": "007.png",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Aumento da pressão quanto ao atingimento de resultados.</p><P>O profissional que quer se destacar e conseguir uma oportunidade de emprego tem que se capacitar.</p><P>O desaparecimento de antigas profissões e o surgimento de novas.</p><P>Novas formas de trabalho.</p><P>Mudanças e incertezas.</p><P>Novas Conexões.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A Internet está impactando a maneira de fazer negócios e os próprios negócios em si.</p><p>O desenvolvimento de aplicativos e recursos para comprar online transformaram o mundo e agora os clientes podem estar em qualquer lugar.</p><p>Atualmente é possível identificar os caminhos que o usuário faz, qual informação buscou na rede, quais os links foram acessados, o alcance global, ou seja, qualquer pessoa que tenha acesso a internet pode ser público-alvo das empresas e ter a facilidade de efetivar a compra.</p>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "O CLIENTE E A CONCORRÊNCIA NESSE NOVO CENÁRIO",
+        "texto": "<p>O perfil do consumidor, nesse novo cenário, integrado com a tecnologia faz com que ele se torne cada vez mais exigente e com propriedade do que deseja comprar. </p><p>O cliente quando possui interesse em comprar, pesquisa em um tempo mínimo sobre o produto, sobre as marcas que o oferecem e opiniões de usuários que já adquiriram o produto de seu interesse.</p><p>O papel do consultor de vendas torna-se fundamental nesse processo. </p>",
+        "img": "008.png",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "AS COMPETÊNCIAS DO CONSULTOR DE VENDAS",
+        "texto": "<p>Clique nos números e veja mais informações.</p>",
+        "img": "009.png",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Foco no negócio - Aproveitar bem os recursos disponíveis, como por exemplo, o cadastro de cliente. Empenhar-se para a realização das metas, lembrando que não há rumos favoráveis para aquele que não tem planejamento. Administrar o próprio tempo é primordial para ter um melhor aproveitamento.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Capacitação Técnica - o vendedor tem que entender o mercado em que atua e a concorrência. Precisa conhecer bem o seu produto, a sua empresa e quais são os seus diferenciais.</p><p>Precisa saber quem é  o seu consumidor,  quais são os seus desejos, expectativas, o que ele procura e o que é valor para ele. Quem determina valor é o cliente.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Cuidados com o autodesenvolvimento – o bom vendedor sabe que a motivação vem de dentro e que ele precisa se desenvolver constantemente.</p><p>Tenha um momento de reflexão diária e sempre se questione:</p><p>Quais as competências necessárias hoje para eu desenvolver o meu trabalho?</p><p>Quais serão as necessárias para o futuro, quais você possui e quais você precisa se desenvolver?</p><p>Onde quer chegar? O que é necessário?</p>"
+            } 
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "AS COMPETÊNCIAS DO CONSULTOR DE VENDAS",
+        "texto": "<p>Inicie o seu desenvolvimento se questionando:</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "010.png",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Na sua atividade como vendedor consultivo,  você está fazendo o seu melhor ou tentando cumprir a sua rotina diária?</p><p>Não podemos nos conformar com o possível, e sim transformar o limão em uma limonada.</p><p>Criar oportunidades com o que você tem.</p><p>Você não pode se acomodar e permanecer em uma zona de conforto.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>O nosso objetivo é sempre procurar o melhor, ser otimista e não reclamar, e sim querer mudar!</p><p>Mudança de técnica está associada à mudança de hábito e estar aberto ao novo.</p><p>Os meus resultados não mudam da noite para o dia, faz parte de um processo, e é  preciso ter disciplina e persistência para fazer acontecer.</p><p>É necessário focar nas atividades que se propôs para controlar os seus resultados.</p>"
+            }, 
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Não foque tanto no resultado final. Veja o processo com foco em qualidade da venda.  Isso é consequência da qualidade.</p><p>Seja honesto com você mesmo. Esteja aberto ao seu feedback. Responder a ele é a melhor ferramenta para o seu desenvolvimento.</p>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<h3>Muito bem!</h3><p>Você finalizou o módulo 1. Esperamos que você  tenha aproveitado bastante este estudo.</p><p>Assista à videoaula  disponível na página principal do curso.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "011.png",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]  

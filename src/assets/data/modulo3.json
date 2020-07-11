@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "titulo": "ETAPAS DO PROCESSO DE VENDAS",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>As organizações têm como objetivo fazer seu cliente perceber o valor de sua solução e o interesse de sua parte em ajudá-lo a superar alguma dificuldade ou alcançar um objetivo.</p><p>A administração de vendas é uma área que vem assumindo cada vez mais importância nas organizações e, para que sejam bem sucedidas às empresas devem organizar, planejar e executar as etapas do processo de vendas.</p>",
+        "img": "002.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "PLANEJAMENTO E PREPARAÇÃO",
+        "texto": "<p>O processo de vendas é dividido em etapas, cada qual com a sua importância para o resultado final. Vamos conhecê-las?</p><p>Clique nos números e veja mais informações. </p>",
+        "img": "003.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Planejamento é certamente a fase mais importante e a mais negligenciada. Aqui definimos:</p><p>Quem são os nossos clientes potenciais e alvo dos nossos serviços.</p><p>Qual o ponto essencial para a nossa estratégia.</p><p>Pense em seus clientes, como eles se comportam, como eles te enxergam, como a sua empresa o tem ajudado.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Defina qual é o perfil do cliente ideal e daquele que não é ideal, isso ajudará a você a priorizar os clientes corretos e evitar gastar tempo e energia com os clientes errados.</p><p>Quando gastamos tempo com os clientes não necessários, estamos perdendo energia o que resulta na frustração com o resultado. Pode-se dizer que 80% das vendas efetivas estão concentradas aqui nessa etapa.</p><p>Quando você definir o seu cliente ideal é chegada a hora de prospectar.</p>"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "PROSPECÇÃO E ABORDAGEM",
+        "texto": "<p>Nesta fase o vendedor deve criar conexões mais próximas com os seus clientes. O mundo nunca esteve tão carente de empatia. Sentir as emoções dos clientes torna-se essencial para o início de um relacionamento de longo prazo. Para incrementar essa atividade desenvolva cinco competências:</p><ul><li> Ouça, mais com empatia. </li><li> Procure entender as necessidades e os sonhos do seu cliente.</li><li> Fale menos.</li><li> Cuide da linguagem corporal.</li><li> Demonstre empatia.</li><li> Faça as melhores perguntas.</li></ul><p>Desenvolva cada uma dessas competências, elas são essenciais para  você se conectar com o seu cliente. Foque nisso, o seu resultado vai melhorar!</p>",
+        "img": "004.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 5,
+        "titulo": "LEVANTAMENTO DE NECESSIDADES",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "005.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Antes de seguirmos adiante, preste muita atenção no que eu vou te falar:  vende mais quem faz as melhores perguntas. Então faça perguntas abrangentes e inteligentes para que você possa customizar e personalizar o seu discurso de vendas.</p><p>Utilize de perguntas abertas. São perguntas que não tem como responder sim ou não. Exemplo: Qual é o seu nível de satisfação com os seus atuais fornecedores.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Faça perguntas abertas e investigativas para entender melhor as reais necessidades e desejos dos clientes. Sempre valide o seu entendimento. Para isso utilize as mesmas frases que o cliente utilizou.</p><p>Ao entender melhor os seus desejos e sonhos, você vai se aproximar mais dos seus clientes. Em um mundo cada vez menos empático, ouça os seus clientes.</p>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "APRESENTAÇÃO E NEGOCIAÇÃO",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "006.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Agora que você já entendeu o que os seus clientes precisam, fale dos seus produtos. Procure mostrar os benefícios e resolver as dores do seu cliente.</p><p>Quanto mais assertiva for a sua abordagem realçando os seus valores competitivos, maiores são as chances de o seu cliente gostar para você fugir da guerra de preços.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Customização e preparação intensa é a chave da construção do sucesso para o excelente vendedor.</p><p>Faça uma conexão dos benefícios dos produtos e serviços com as reais necessidades do seu cliente.</p><p>Assim, você foca os seus esforços na construção de uma grande negociação.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "FECHAMENTO",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "007.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O bom fechamento é apenas uma mera consequência do trabalho já realizado nas etapas anteriores do processo de vendas.</p><p>Se você tiver um bom domínio e seguir as métricas estipuladas pela empresa, vai dar certo.</p><p>O bom fechamento é aquele que privilegia uma alta margem de venda.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Atenção: Tome cuidado com os descontos desnecessários.</p><ul><li>Evite oferecer descontos milagrosos.</li><li>O seu papel é encantar o seu cliente.</li><li>Não adianta nada você dar um show nas fases anteriores e esquecer esse relacionamento.</li><li>Antecipe-se aos desafios que o seu cliente está querendo. </li><li>Estabelecer uma relação pós-venda.</li><li>Mantenha contato constante com o cliente. </li></ul>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "PÓS-VENDA",
+        "texto": "<p>Caminhe lado a lado e construa uma relação de longo prazo.</p><p>Busque o equilíbrio entre vender para clientes já existentes e conquistar novos.</p><p>Relação sustentável é aquele vendedor que privilegia o seu cliente atual da base e atrai novos clientes.</p><p>Vender não é dom. Vender é técnica e como técnica ela pode ser aprendida.</p><p>Quanto mais você estudar e praticar cada uma dessas etapas, mais sucesso você terá.</p>",
+        "img": "008.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "Encerramento",
+        "texto": "<p>Você finalizou o módulo 3. Esperamos que tenha aprendido os processos de vendas.</p><p>Caso tenha alguma dúvida acione seu tutor e não se  esqueça de assistir à videoaula.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo, conforme a orientação do tutor.</p>",
+        "img": "009.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+]  
+

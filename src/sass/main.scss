@@ -1,3 +1,7 @@
+$overlay-default-background: #F2D3FB;
+$global-primary-background: #680e43;
+$global-muted-background: #F2D3FB;
+$global-secondary-background: #680e43;
 @import "~uikit/src/scss/variables-theme.scss";
 @import "~uikit/src/scss/mixins-theme.scss"; 
 @import "~uikit/src/scss/uikit-theme.scss";
@@ -10,7 +14,7 @@ html {
 }
 .tabes{
     .uk-active a {
-        color: #1e87f0 !important;
+        color: darken(#680e43, 20) !important;
     }
 }
 // p, li { 

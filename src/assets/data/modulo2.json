@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "titulo": "PLANEJAMENTO E GERENCIAMENTO DE VENDAS",
+        "texto": "",
+        "img": "001.png",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "002.png",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O planejamento de vendas é um desdobramento do planejamento estratégico da empresa.  A partir do momento que os objetivos e metas são definidos, esse plano é utilizado como base para que os gestores de vendas, em conjunto com a sua equipe, desenvolvam estratégias que irão se desdobrar em ações para alcançar os resultados.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>O Planejamento estabelece os rumos da Organização, ou seja, aonde ela quer chegar.  Não planejar é contar com a sorte ou improviso que transmite insegurança ao processo e falta de credibilidade ao cliente.</p>"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Entender a importância da elaboração e gestão de um Plano de Vendas para alcançar objetivos.</li><li> Acompanhar o gerenciamento de vendas e criar condições para aproveitar as oportunidades de mercado e se resguardar das ameaças.</li><li> Ter um escopo para executar os objetivos de vendas e otimizar os resultados.</li></ul>",
+        "img": "003.png",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "AMBIENTE INTERNO E EXTERNO ",
+        "texto": "Clique nos números e veja mais informações. ",
+        "img": "004.png",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Conhecer e analisar o mercado são fatores essenciais para o sucesso das vendas.  Quanto mais a empresa conhece o seu ambiente interno e o seu mercado, maior é a chance de desenvolver um produto coerente com as necessidades de seu cliente. Vender é mais que apresentar produtos ao cliente ou tirar pedidos.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Atualmente as empresas precisam ter uma estratégia de vendas eficiente, pois, a área comercial é responsável pela maior parte dos lucros do negócio.  Nesse contexto, é necessário considerar alguns pontos de maneira racional, levando em consideração a:</p><p>capacidade do negócio</p><p>potencial de mercado.</p><p>SWOT.</p><p>desafios.</p>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "MISSÃO, VISÃO E VALORES ",
+        "texto": "<P>O primeiro passo de qualquer Planejamento Estratégico é definir: Missão, Visão e Valores da organização, que são os Pilares, que irão dar sentido as atividades da empresa.</P>",
+        "img": "005.png",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "DEFINIÇÕES DOS OBJETIVOS E METAS",
+        "texto": "<p>Um dos principais propósitos de um planejamento é determinar aonde se quer chegar e qual o prazo será estipulado.</p><p>É necessário estabelecer, de maneira clara, qual é o objetivo e a meta que complementa o objetivo de forma quantificada, como por exemplo: vender cinco mil unidades a mais do produto C até 15 de dezembro de 2020.</p>",
+        "img": "006.png",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "SWOT",
+        "texto": "<p>O termo SWOT é o acrônimo para Strengths, Weaknesses, Opportunities and Threats. Ao traduzir para o português temos a sigla  FOFA que significa: Forças, Fraquezas, Oportunidades e Ameaças. É uma “técnica de planejamento estratégico utilizada para auxiliar pessoas ou organizações, a identificar forças, fraquezas, oportunidades e ameaças relacionadas à competição em negócios ou planejamento de projetos”.<ul><li> Strengths</li><li> Weaknesses</li><li> Opportunities</li><li> Threats </li></ul>",
+        "img": "007.png",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "SWOT",
+        "texto": "<p>A empresa tem que se conhecer, entender quais são os seus pontos fortes e os que são necessários ajustar.</p><p>Olhar para o mercado, entender o cenário político e econômico.</p><p>Quais os impactos desse cenário para o negócio</p><p>Conhecer, com detalhes, o seu concorrente.</p>",
+        "img": "008.png",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 9,
+        "titulo": "SWOT",
+        "texto": "<p>É papel do gestor de vendas ter uma visão sistêmica da empresa e do mercado para prever possíveis movimentos estratégicos dos concorrentes e preparar-se para enfrentá-los. Nesse cenário, sugere-se realizar um “SWOT racional”.</p><p>Às vezes os gestores têm uma visão romântica, ou seja, defendem que o seu negócio é o melhor que o do concorrente. Tem que analisar o Ambiente Interno e o Ambiente Externo, não de maneira míope, mas de maneira racional. Um bate papo com o seu próprio time de vendas é um input importante para que a partir dali seja desenvolvido um plano de ação.</p>",
+        "img": "009.png",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 10,
+        "titulo": "ACOMPANHAMENTO DE RESULTADOS",
+        "texto": "<p>Neste processo é importante definir indicadores que irão apoiar o gestor e a equipe. Verificar se as atividades estão sendo realizadas e as metas alcançadas.</p><p>Faz parte da gestão: analisar se as ações estão otimizando os resultados e estreitando ou distanciando do objetivo que foi proposto em seu planejamento.</p><p>A partir desse acompanhamento, o gestor terá oportunidade de ajustar as atividades caso algo não esteja saindo conforme o esperado, e assim direcionar os esforços para o atingimento da meta.</p>",
+        "img": "010.png",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 11,
+        "titulo": "Encerramento",
+        "texto": "<h3>Finalizamos o módulo 2.</h3><p>Assista à videoaula disponível na página principal do curso.</p><p>Você teve alguma dúvida sobre os conteúdos deste módulo?  Se sim, pergunte ao seu tutor no fórum de dúvidas.</p><p>A avaliação será realizada através da sua participação no fórum de discussão, e/ou atividades no Ambiente de Virtual de Aprendizagem.</p><p>Serão distribuídos 20 pontos ao longo do módulo.</p>",
+        "img": "011.png",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+]   
