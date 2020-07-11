@@ -52,7 +52,7 @@
         "titulo": "Net Promoter Score – NPS",
         "texto": "<p>O Net Promoter Score, NPS é uma métrica derivada de uma pergunta relacionada com a lealdade comportamental do cliente, e que mede a intenção deste recomendar a empresa.</p><p>Consiste na diferença entre a percentagem de clientes que recomendariam a empresa (promotores) e a percentagem de clientes que não recomendariam (detratores).</p>",
         "img": "005.jpg",
-        "tipo": "left",
+        "tipo": "encerramento",
         "itens": null
     },
     {

@@ -45,27 +45,27 @@
     {
         "id": 5,
         "titulo": "NECESSIDADE, DESEJO E DEMANDA",
-        "texto": "<p>Introdução ao Marketing: proporcionar uma visão geral do marketing na contemporaneidade. Serão apresentados os conceitos, variáveis e suas inter-relações. Necessidade, desejo e demanda, apesar de apresentarem semelhança nas palavras, tem os conceitos aplicados na prática distintos.</p>",
+        "texto": "<p>Introdução ao Marketing: proporcionar uma visão geral do marketing na contemporaneidade. Serão apresentados os conceitos, variáveis e suas inter-relações. Necessidade, desejo e demanda, apesar de apresentarem semelhança nas palavras, tem os conceitos aplicados na prática distintos.</p><p>Clique nos destaques NECESSIDADE, DESEJO E DEMANDA.</p>",
         "img": "005.jpg",
         "tipo": "piramide",
         "itens": [
             {
                 "id": 1,
                 "cor": "#88b5da",
-                "titulo": "Necessidade",
-                "texto": "<p>Entende-se por exigências humanas básicas. Como qualquer pirâmide, a de Maslow inicia-se pela base, entende-se, neste caso, como necessidades fisiológicas. O marketing não inventa necessidades, elas já existem. É necessário entender como ocorre o processo das necessidades no consumidor.</p>"
-            },
-            {
-                "id": 2,
-                "cor": "#bcd798",
                 "titulo": "Desejo",
                 "texto": "<p>O marketing não atua diretamente nas necessidades, mas utiliza delas para criarem objetos e  desejos a serem consumidos.</p>"
             },
             {
-                "id": 3,
-                "cor": "#ee9795",
+                "id": 2,
+                "cor": "#bcd798",
                 "titulo": "Demanda",
                 "texto": "<p>É a definição da existência de um público-alvo, com condições de adquirir os objetos desejados, ou seja, um grupo (mercado) que demande.</p>"
+            },
+            {
+                "id": 3,
+                "cor": "#ee9795",
+                "titulo": "Necessidade",
+                "texto": "<p>Entende-se por exigências humanas básicas. Como qualquer pirâmide, a de Maslow inicia-se pela base, entende-se, neste caso, como necessidades fisiológicas. O marketing não inventa necessidades, elas já existem. É necessário entender como ocorre o processo das necessidades no consumidor.</p>"
             }
         ]
     },
