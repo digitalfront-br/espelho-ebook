@@ -78,24 +78,21 @@
     {
         "id":  9,
         "titulo": "ANÁLISE VRIO – VALOR BASEADO EM RECURSOS",
-        "texto": "<p>Uma empresa atinge resultados superiores quando seus recursos são valiosos, raros, difíceis de imitar e organizados (VRIO), isso gera vantagens competitivas de longo prazo.</p>",
+        "texto": "<p>Uma empresa atinge resultados superiores quando seus recursos são valiosos, raros, difíceis de imitar e organizados (VRIO), isso gera vantagens competitivas de longo prazo.</p><ul><li>O recurso pode ter muito valor como é o caso de um produto de primeira linha protegido por patente. Pode ter valor também, quando é de grande aceitação.</li><li>Quão raro é esse recurso. Como, por exemplo, uma equipe engajada.</li><li>Esse recurso envolve dificultadores para imitabilidade.</li></ul>",
         "img": "009.jpg",
-        "tipo": "passosContainer",
-        "itens": [
-          {
-              "id": 1,
-              "titulo": 1,
-              "texto": "<ul><li>O recurso pode ter muito valor como é o caso de um produto de primeira linha protegido por patente. Pode ter valor também, quando é de grande aceitação.</li><li>Quão raro é esse recurso. Como, por exemplo, uma equipe engajada.</li><li>Esse recurso envolve dificultadores para imitabilidade.</li></ul>"
-          },
-          {
-              "id": 2,
-              "titulo": 2,
-              "texto": "<ul><li>A empresa está apta para usufruir o valor de seus recursos. Esta é uma etapa muito importante!</li><li>Várias empresas possuem recursos que são valiosos, são raros e são difíceis de imitar, mas não estão organizados para gerar oportunidades. Não adianta ter uma boa equipe e não organizar os processos de atendimento.</li></ul>"
-          }
-        ]
+        "tipo": "encerramento",
+        "itens": null
     },
     {
-        "id": 10,
+        "id":  10,
+        "titulo": "ANÁLISE VRIO – VALOR BASEADO EM RECURSOS",
+        "texto": "<ul><li>A empresa está apta para usufruir o valor de seus recursos. Esta é uma etapa muito importante!</li><li>Várias empresas possuem recursos que são valiosos, são raros e são difíceis de imitar, mas não estão organizados para gerar oportunidades. Não adianta ter uma boa equipe e não organizar os processos de atendimento.</li></ul>",
+        "img": "009.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 11,
         "titulo": "ENCERRAMENTO",
         "texto": "<p>Você chegou ao final do Módulo 4. Caso tenha alguma dúvida entre em contato com o seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas, o material de estudo e as atividades avaliativas.</p><p>Até o último módulo!</p>",
         "img": "010.jpg",
