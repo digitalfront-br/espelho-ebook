@@ -1,0 +1,235 @@
+[
+    {
+        "id": 1,
+        "titulo": "FUNDAMENTOS ESSENCIAIS DA GESTÃO FINANCEIRA EFICIENTE ",
+        "texto": "",
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Neste módulo 1, vamos estudar os Fundamentos Essenciais da Gestão Financeira.</p><p>Você sabe o que isso significa? Fique atento! Este será o nosso tema de hoje!</p>",
+        "img": "002.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Saiba mais",
+                "texto": "<p>A gestão financeira é uma das funções administrativas mais importantes em uma empresa. Responsável por planejar e controlar o uso dos recursos da organização, a gestão financeira influencia todos os setores do empreendimento, pois o funcionamento de cada um deles depende do orçamento.</p>"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM ",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Entender a importância de uma gestão financeira eficaz.</li><li> Conhecer os principais conceitos e fundamentos da administração financeira.</li><li> Compreender como são tomadas as decisões financeiras das empresas.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "ENTENDENDO AS FINANÇAS DAS EMPRESAS",
+        "texto": "",
+        "img": "004.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Como praticamente toda ciência, as finanças corporativas incorporam em seu escopo as grandes evoluções do mundo contemporâneo. Você quer saber como?</p><p>“Seus métodos de avaliação conceitual assumiram um caráter bem mais abrangente, elevando sua importância para as empresas. Deste modo, observamos que finanças têm ligações com as decisões em que o administrador financeiro está envolvido, e no que requisito dinheiro que interfere no crescimento das empresas.”</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A administração financeira envolve-se tanto com a problemática da escassez de recursos, quanto à realidade operacional e prática da gestão financeira das empresas, assumindo assim uma definição de maior amplitude. Diante deste cenário, exige do administrador uma necessidade maior de visualizar toda a empresa, realçando suas estratégias de competitividade, continuidade e crescimento futuro.</p>"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "AS RESPONSABILIDADES DA ADMINISTRAÇÃO FINANCEIRA",
+        "texto": "<p>Dentro do ambiente empresarial, a administração financeira volta-se basicamente para as seguintes funções:</p><ul><li> Planejamento Financeiro.</li><li> Controle Financeiro.</li><li> Administração de ativos.</li><li> Administração de passivos.</li></ul><p>Ao basear-se nas funções financeiras enunciadas, qualquer que seja a natureza de sua atividade operacional, uma empresa é avaliada como tomadora de duas grandes decisões financeiras.</p><ul><li> Decisão de investimento – Alocação de recursos.</li><li> Decisão de financiamento – Captação de recurso.</li></ul>",
+        "img": "006.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 6,
+        "titulo": "DINÂMICA DAS DECISÕES FINANCEIRAS E O DILEMA RISCO X RETORNO",
+        "texto": "<p>As decisões financeiras são tomadas pelas empresas de forma contínua e inevitável. A decisão de investimento, considerada como a mais importante de todas, envolve todo o processo de identificação, avaliação e seleção das alternativas de aplicações de recursos na expectativa de se auferirem benefícios econômicos futuros.</p><p>Clique nos números e veja mais informações.</p>",
+        "img": "006.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Por não se ter certeza da realização futura de lucros, a decisão de investimento envolve risco, devendo ser avaliada em termos da relação risco-retorno. As decisões de investimento têm por objetivo criar valor. Todo investimento mostra-se economicamente atraente quando o seu retorno esperado exceder a taxa de retorno exigida pelos proprietários de capital (credores e acionistas), ou seja, ao custo total do capital.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>As decisões de financiamento, por outro lado, preocupam-se principalmente com a escolha das melhores fontes de financiamento e a melhor proporção a ser mantida entre capital de terceiros (dívidas) e capital próprio. O objetivo central dessa decisão envolve a determinação da melhor estrutura de financiamento da empresa, de maneira a preservar sua capacidade de pagamento (viabilidade financeira) e dispor de fundos com custos reduzidos em relação ao retorno que se espera apurar de suas aplicações (viabilidade econômica).</p>"
+            },      
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Cabe ainda o estabelecimento de políticas que envolvem a distribuição do lucro líquido da empresa, conhecida por decisão de dividendos, estabelecendo métricas para distribuição de resultados aos investidores e/ou retenção para financiamento de outros investimentos.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Na prática, as empresas têm a sua disposição diversas fontes de financiamentos, como fornecedores, instituições financeiras, acionistas etc., às quais apresentam diferentes condições de custos, sistemas de amortizações, prazos de pagamentos e garantias exigidas. Essas condições devem ser combinadas de forma a adequar o passivo às características de rentabilidade e liquidez das aplicações desses recursos.</p>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "ADMINISTRAÇÃO FINANCEIRA E OBJETIVO EMPRESARIAL",
+        "texto": "",
+        "img": "007.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Vamos discutir como é feita a definição do processo de seleção das decisões financeiras.",
+                "texto": "<p>No processo de seleção das decisões financeiras, a empresa deve delinear seu objetivo a perseguir, de maneira que essas decisões sejam tomadas ,segundo critério mais racional. A definição de seu objetivo , deve ainda, permitir que as empresas possam avaliar os vários resultados provenientes das decisões financeiras tomadas, o que não é tarefa fácil, requerendo algumas reflexões diante de seu caráter controvertido e, muitas vezes, complexo.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Conheça agora o objetivo da empresa.",
+                "texto": "<p>Na economia de mercado, as empresas são atraídas fundamentalmente pelas possibilidades de lucros, e seus preços de venda são regidos livremente, segundo comportamento de oferta e procura dos bens e serviços. Dessa forma, sugere-se que o objetivo da empresa deve estar voltado  para a satisfação do retorno exigido por seus proprietários ou por algum parâmetro de desempenho mais abrangente, que incorpora o bem-estar de toda a sociedade.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Conheça como as empresas criam valor.",
+                "texto": "<p>Uma empresa somente cria valor, se o retorno do capital investido em sua atividade exceder o custo de suas fontes de financiamento. Ao tomar decisões de investimentos que promovam esse diferencial  economicamente favorável, a empresa passa a promover um aumento de seu valor agregado, revelando uma atraente aplicação de seus recursos.</p>"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "ANÁLISE DE VIABILIDADE ECONÔMICO-FINANCEIRA",
+        "texto": "",
+        "img": "008.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Uma fase muito importante nas decisões financeiras consiste na utilização de métodos de avaliação econômica, com o objetivo de se apurar os resultados e atratividade das aplicações de capital. As propostas de investimentos, para serem aceitas, devem oferecer um retorno mínimo definido pela empresa e/ou pelo investidor.</p>" 
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A decisão de aceitar ou rejeitar determinado investimento consiste em selecionar propostas que atendam ao critério mínimo de retorno estabelecido.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>As propostas de investimentos aceitáveis podem ser classificadas, ainda seguindo alguma medida estabelecida pela empresa, como rentabilidade, riqueza criada etc.</p> <p>A de melhor resultado é classificada em primeiro lugar, seguida das demais, até atingir a de mais baixo resultado em último.</p>"
+            },
+            {
+                "id": 4,
+                "titulo": 4,
+                "texto": "<p>Avaliações como Valor Presente Liquido, taxa Interna de retorno, playback descontado são de extrema importância para que a decisão de investimento seja feita de forma mais assertiva.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "ANÁLISE DE RISCOS",
+        "texto": "<p>É importante que se destaque, ainda, o risco associado às decisões financeiras tomadas pelas empresas, o qual pode ser identificado segundo a natureza da decisão tomada. Clique no destaque.</p>",
+        "img": "009.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Risco econômico (operacional)",
+                "texto": "<p>Risco econômico (operacional): inerente à própria atividade da empresa e às características do mercado em que opera. Esse risco independe da forma como a empresa é financiada, restringindo-se exclusivamente às decisões de investimentos (ativos). Alguns exemplos:</p><ul><li> Sazonalidade de mercado.</li><li> Tecnologia.</li><li> Concorrência.</li><li> Estrutura de custos mantida pela empresa.</li><li> Qualidade dos produtos negociados.</li><li> Variações nas taxas de juros de mercado etc.</li></ul>"
+            },
+            {
+                "id": 2,
+                "titulo": "Risco financeiro",
+                "texto": "<p>Risco financeiro: reflete o risco associado às decisões de financiamento, ou seja, a capacidade da empresa em liquidar seus compromissos financeiros assumidos. Empresas com reduzido nível de endividamento  apresentam baixo nível de risco financeiro; altos níveis de endividamento. Por outro lado, ao mesmo tempo em que podem promover maior capacidade de alavancar os resultados, denotam também maior risco financeiro.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Saiba Mais",
+                "texto": "<p>Os desempenhos desses dois componentes de risco afeta evidentemente, o risco total da empresa e o seu valor de mercado. Esses riscos não são tratados de forma independente, pois uma decisão financeira tende a afetar a outra. Em termos práticos, a administração financeira preocupa-se com o equilíbrio na relação risco-retorno de suas decisões, alcançando a máxima rentabilidade associada a um nível de risco que promova a maximização do valor de mercado da empresa.</p>"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "AMBIENTE FINANCEIRO BRASILEIRO",
+        "texto": "<p>Como isso funciona na realidade brasileira ?</p>",
+        "img": "010.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Na realidade brasileira, as decisões financeiras em condições ideais de equilíbrio são bastante prejudicadas pela persistente insuficiência de recursos em longo prazo para as empresas. Basicamente, os recursos oficiais são as grandes fontes de capital permanente e, mesmo assim, em volume bastante aquém das efetivas necessidades de mercado.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>As linhas de crédito oficiais são limitadas e geralmente direcionadas a programas específicos, atendendo a um número reduzido de empresas.</p><p>Não há, na economia brasileira, poupança a longo prazo em volume suficiente que permita às instituições financeiras financiarem investimentos de maior maturidade das empresas.</p>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "CUSTO DE CAPITAL",
+        "texto": "<p>Custo de capital diz respeito ao custo dos recursos necessários para realizar investimentos empresariais, certo?</p>",
+        "img": "011.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Todas as empresas, pequenas, médias ou grandes companhias, necessitam de capital para realizarem seus investimentos. Esse custo refere-se a remuneração do capital do empresário ou pagamento de juros ao banco.</p>"
+            }, 
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Portanto, o custo de capital afeta diretamente a vida de todas as pessoas, pois a economia, como um todo, é impactada pelas decisões e pelos  investimentos empresariais, que geram empregos , riquezas e beneficiam toda sociedade.</p>"
+            },
+            {
+                "id": 3,
+                "titulo": 3,
+                "texto": "<p>Assim, o custo de capital também poderá ser entendido como o custo dos recursos captado no mercado para financiamento da empresa.  Em outros momentos será o retorno mínimo que o investidor exigirá, para investir recursos por ele disponível nas organizações a uma taxa mínima, para fazer um aporte de capital no negócio.</p>"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "CONHECENDO O MERCADO DE CAPITAIS",
+        "texto": "",
+        "img": "012.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>“O mercado de capitais é um sistema que proporciona a distribuição de valores mobiliários para que empresas possam viabilizar a sua capitalização por meio da liquidação dos títulos emitidos por elas. Um dos objetivos para o funcionamento do mercado de capitais é a disponibilização de recursos financeiros para a indústria e comércios e outras atividades econômicas”.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>A negociação de ações é o exemplo mais conhecido no mercado de capitais. É através da Bolsa de Valores que se permite aos investidores a aquisição de ativos das empresas listadas e, consequentemente, a movimentação de capital para custear o desenvolvimento econômico. Conforme as empresas se desenvolvem é necessário ter acesso a mais recursos, havendo assim 3 meios para conseguir financiar suas atividades, a saber, o empréstimo de terceiros, reinvestimentos de lucros e participação de acionistas.</p>"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Chegamos ao final do módulo 1. Reveja os pontos que julgar necessário. Caso fique com alguma dúvida, acione seu tutor e não se esqueça de assistir à videoaula.</p><p>Acesse a página inicial do curso e faça a atividade avaliativa do módulo 1.</p><p>Como este módulo trata dos mercados financeiros, seu funcionamento e sua estrutura, recomendam-se aqui dois filmes:</p><p>1. Wall Street: poder e cobiça.</p><p>2. Wall Street: o dinheiro nunca dorme.</p><p>São dois filmes que tratam das operações em bolsa de valores, regras de mercado e discutem o que é permitido e o que não é nos mercados.</p>",
+        "img": "013.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    } 
+]  

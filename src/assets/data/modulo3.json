@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 3: ADMINISTRAÇÃO DO CAPITAL DE GIRO",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Iniciaremos o módulo 3. Neste módulo abordaremos:</p><ul><li>Os principais conceitos da administração do capital de giro.</li><li>Os indicadores de atividades e a análise dinâmica do capital de giro.</li><li>A importância da gestão dos recursos para  a saúde financeira e operacional das organizações.</li></ul>",
+        "img": "002.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>Compreender como as ações tomadas no dia a dia das empresas, impactam no capital de giro das organizações.</li><li>Compreender os indicadores de atividade e como gerenciá-los.</li><li>Mapear a estrutura de custos empresariais.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "CONCEITOS BÁSICOS DO CAPITAL DE GIRO",
+        "texto": "",
+        "img": "004.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id":  1,
+                "titulo": 1,
+                "texto": "<p>A administração do capital de giro envolve basicamente, tomada de decisão  da empresa em relação a compra, venda, além das mais diversas atividades operacionais e financeiras.</p><p>Nessa abrangência, coloca-se de forma nítida, que a administração do capital de giro deve garantir a uma empresa a adequada consecução de sua política de:</p><ul><li>Estocagem.</li><li>Compra de materiais.</li><li>Produção.</li><li>Venda de produtos.</li><li>Mercadorias e prazo de recebimento.</li></ul>"
+            },
+            {
+                "id":  2,
+                "titulo": 2,
+                "texto": "<p>Dessa forma, a administração do capital de giro se preocupa, principalmente, com as seguintes questões básicas:</p><ul><li>Qual o volume de ativos circulantes que deve ser mantido por uma empresa,</li><li>Como devem ser financiados os ativos circulantes.</li></ul>"
+            },
+            {
+                "id":  3,
+                "titulo": 3,
+                "texto": "<p>O capital de giro corresponde ao ativo circulante de uma empresa. Em sentido amplo, o capital de giro representa o valor total dos recursos demandados pela empresa para financiar seu ciclo operacional.</p>"
+            },
+            {
+                "id":  4,
+                "titulo": 4,
+                "texto": "<p>O Capital de Giro Líquido ou Capital Circulante Líquido representa o valor líquido das aplicações (deduzidas das dívidas de curto prazo) efetuadas no ativo (capital) circulante da empresa.</p><p>São os recursos de longo prazo (próprios ou de terceiros) que se encontram financiando ativos correntes (de curto prazo). Outro indicador de capital de giro utilizado na prática é o denominado capital de giro próprio.</p>"
+            }
+        ]
+    }, 
+    {
+        "id":  5,
+        "titulo": "CICLOS OPERACIONAIS E FINANCEIROS",
+        "texto": "<h3>Afinal, o que é ciclo operacional e ciclo financeiro?</h3>",
+        "img": "005.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<ul><li>As atividades operacionais de uma empresa envolvem, de forma sequencial e repetitiva, a produção de bens e serviços, estocagem, vendas e respectivos recebimentos.</li><li>Nessas operações básicas, a empresa procura  obter determinado volume de lucros, de forma a remunerar as expectativas de retorno de suas diversas fontes de financiamento (credores e proprietários).</li></ul>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<ul><li>Diante desse processo natural e permanente que sobressai o ciclo operacional da empresa, composto por todas as fases de suas atividades operacionais.</li><li>O ciclo operacional pode ser explicado como o intervalo existente entre a compra da mercadoria e o recebimento das vendas realizadas.</li></ul>"
+          },
+          {
+              "id": 3,
+              "titulo": 3,
+              "texto": "<p>O <strong>Ciclo operacional</strong> completo, para o caso de uma empresa industrial, inicia-se com a aquisição das matérias-primas, passa pela armazenagem, produção e venda e desemboca no efetivo recebimento das vendas realizadas.</p><p>O <strong>Ciclo financeiro</strong> identifica as necessidades de recursos da empresa, que ocorrem desde o momento do pagamento aos fornecedores até o efetivo recebimento das vendas realizadas.</p>"
+          },
+          {
+              "id": 4,
+              "titulo": 4,
+              "texto": "<p>O <strong>Ciclo financeiro</strong> corresponde ao tempo médio entre o pagamento das compras e o recebimento das vendas, ou seja, período em que a empresa fica descapitalizada no ciclo. Neste sentido, surgem os indicadores de atividades, pontos chaves para gestão dos ciclos operacionais e financeiros.</p>"
+          }
+        ]
+    },
+    {
+        "id":  6,
+        "titulo": "INDICADORES DE ATIVIDADES",
+        "texto": "<p>Os indicadores de atividade “visam a mensuração das diversas durações de um ciclo operacional,  o qual envolve todas as fases operacionais típicas de uma empresa, que vão desde a aquisição de insumos básicos ou mercadorias até o recebimento das vendas realizadas” . Em outras palavras, através dos indicadores  “atividade”,  é possível avaliar a velocidade em que as diversas contas são convertidas em vendas ou impactam diretamente o caixa.</p>",
+        "img": "006.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 7,
+        "titulo": "INDICADORES DE ATIVIDADES",
+        "texto": "<p>O Ciclo operacional corresponde ao tempo, normalmente em dias, e ocorre desde a aquisição da mercadoria ou matéria-prima, até o recebimento dos valores referente aos produtos vendidos.</p><p>O ciclo operacional corresponde ao intervalo de tempo gasto pela empresa para executar todas as suas atividades operacionais. Essas atividades podem ser:</p>",
+        "img": "007.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    },
+    {
+        "id": 8,
+        "titulo": "CONCEITOS BÁSICOS DO CAPITAL DE GIRO",
+        "texto": "<p>Nesse contexto, as empresas possuem operações que incorporam o tempo do ciclo operacional como:</p>",
+        "img": "008.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Prazo médio de pagamento: indica a quantidade de dias que as empresas, em média, demora para pagar seus fornecedores.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>Prazo médio de recebimento: representa o tempo médio que as empresas levam para receber de seus clientes, em relação às suas vendas a prazo.</p>"
+          },
+          {
+              "id": 3,
+              "titulo": 3,
+              "texto": "<p>Prazo médio de estocagem: corresponde à quantidade de dias que o produto ou mercadoria ficam estocados na empresa.</p>"
+          }
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "ANÁLISE DINÂMICA DO CAPITAL DE GIRO",
+        "texto": "<p>A análise dinâmica do capital de giro propõe uma reclassificação do balanço patrimonial em ativos e passivos:</p>",
+        "img": "009.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p><strong>Erráticos:</strong> correspondem aos ativos e passivos de natureza financeira de curto prazo, como disponibilidades e empréstimos.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p><strong>Cíclicos:</strong> representam os ativos e passivos operacionais como, por exemplo, clientes a receber, estoques, fornecedores  e salários a pagar.</p>"
+          },
+          {
+              "id": 3,
+              "titulo": 3,
+              "texto": "<p><strong>Não cíclicos:</strong> correspondem aos ativos e passivos não circulante e ao patrimônio líquido.</p>"
+          }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "ANÁLISE DINÂMICA DO CAPITAL DE GIRO",
+        "texto": "",
+        "img": "010.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>O ideal, na gestão dos recursos em longo prazo, é o Passivo não cíclico ser responsável pelo financiamento do Ativo não cíclico.</p><p>Dessa forma, a diferença entre o passivo não cíclico e o ativo não cíclico é a parte do recurso de longo prazo que foi investido no curto prazo, denominado de Capital de Giro.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>Sugere-se que os ativos cíclicos devem ser financiados pelos passivos cíclicos. A diferença entre o Ativo Cíclico e o Passivo Cíclico corresponde à necessidade de capital de giro da empresa.</p><p>Com esses dois indicadores, é possível verificar o capital de giro disponibilizado pela organização e a necessidade de capital de giro.</p><p>A diferença do Ativo Circulante Errático e o Passivo Circulante Errático correspondem ao saldo de tesouraria das empresas. Esse valor, também, pode ser obtido por meio da diferença do capital de giro menos a necessidade do capital de giro.</p>"
+          }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "TERMÔMETRO DO EFEITO TESOURA",
+        "texto": "<p>Ao efetuar a análise dinâmica do capital de giro por mais de dois períodos, é possível observar se existe a presença do efeito tesoura.</p><p>Efeito tesoura: o conceito, desenvolvido pelo francês Fleuriet, na década de 70, baseia-se no fato de uma empresa precisar de capital de giro cada vez maior e dispor de um saldo em tesouraria cada vez menor, negativo.</p><p>Esse efeito faz com que as empresas tenham que recorrer a empréstimos onerosos que podem comprometer sua saúde financeira.</p>",
+        "img": "011.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 12,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 3. Caso tenha alguma dúvida entre em contato com seu tutor.</p><p>Na página inicial do Ambiente Virtual de Aprendizagem -AVA, estão disponíveis os seguintes materiais que complementarão o conteúdo estudado até aqui:</p><ul><li>Videoaula.</li><li>Material de estudo.</li><li>Atividade avaliativa.</li></ul>",
+        "img": "012.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

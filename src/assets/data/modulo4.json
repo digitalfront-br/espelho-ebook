@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "titulo": "MÓDULO 4- PLANEJAMENTO E CONTROLE ORÇAMENTÁRIO",
+        "texto": null,
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<p>Chegamos ao último módulo do curso. Aqui você aprenderá:</p><ul><li>Os principais conceitos e tipos de orçamento empresarial.</li><li>A importância dessa ferramenta para o desenvolvimento sustentável das instituições.</li></ul><p>Com isso, você compreenderá como priorizar o controle orçamentário e usufruir de todas as vantagens que ele possa trazer para sua empresa.</p>",
+        "img": "002.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li>Entender o processo orçamentário.</li><li>Compreender em que situação utilizará cada tipo de orçamento.</li><li>Mapear e controlar a execução do orçamento empresarial.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  4,
+        "titulo": "INTRODUÇÃO AO ORÇAMENTO EMPRESARIAL",
+        "texto": "",
+        "img": "004.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Para que a administração financeira possa ser realmente eficiente, é preciso usar algumas ferramentas que são consideradas decisivas nesse processo, e uma delas é o planejamento orçamentário empresarial.</p><p>O orçamento é um instrumento completo, não só do ponto de vista financeiro, mas de planejamento e controle gerencial.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>O controle orçamentário empresarial, ou orçamento, como é mais conhecido, auxilia a administração financeira a compreender como estão os negócios da organização. Com o uso dessa ferramenta, são estabelecidas as metas, definindo aonde a empresa quer chegar e como ela fará isso.</p>"
+          }
+        ]
+    },
+    {
+        "id":  5,
+        "titulo": "OBJETIVOS DO ORÇAMENTO",
+        "texto": "<p>O orçamento tem como objetivo mapear as ações das empresas de forma que ela possa visualizar o caminho que se deve percorrer para alcançar seus objetivos. Ele permite monitorar, de maneira periódica, como os resultados reais estão em comparação ao que foi projetado.</p>",
+        "img": "005.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  6,
+        "titulo": "OBJETIVOS DO ORÇAMENTO",
+        "texto": "<p>Por tratar de metas de curto, médio e longo prazo, ele permite que os gestores conheçam, de maneira palpável, os reais objetivos da empresa em diferentes momentos.</p><p>Empresas, que possuem um bom controle orçamentário empresarial, podem crescer de maneira saudável e inteligente. Com o orçamento, as empresas podem direcionar os seus recursos para escolhas racionais e que maximizem os resultados das suas decisões.</p>",
+        "img": "006.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id":  7,
+        "titulo": "AMBIENTES DE INCERTEZA",
+        "texto": "",
+        "img": "007.jpg",
+        "tipo": "slideshow",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>O orçamento permite o planejamento de uma estrutura de receita e gastos de forma que a empresa alcance seu objetivo. Todavia, nem sempre as coisas saem conforme previstos, em função das incertezas e riscos que o mercado oferece. Quando isso acontece, é necessário que haja uma revisão orçamentária, traçando novas metas para que o planejamento não se perca.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>Uma das principais vantagens do orçamento são a flexibilidade e a possibilidade de corrigir rumos da empresa. Quando o gestor compreende que algo não está de acordo com o que foi estabelecido, ele pode tomar ações que façam com que a empresa entre novamente no trilho certo, permitindo que ela alcance os seus objetivos.</p>"
+          },
+          {
+              "id": 3,
+              "titulo": 3,
+              "texto": "<p>O planejamento orçamentário pode ser elaborado com base em dados históricos, previsões, dados de mercado, da economia e outros que farão parte do processo de análise e tomada de decisão. O orçamento deve contar com a previsão de outras áreas da própria organização. Entre essas previsões estão o orçamento de vendas, o de produção, o de matéria-prima, o de custos e despesas, o de caixa, os investimentos e os resultados esperados.</p>"
+          }
+        ]
+    },
+    {
+        "id":  8,
+        "titulo": "COMPONENTES DO ORÇAMENTO",
+        "texto": "<p>Um orçamento bem elaborado e executado induz todos os envolvidos no processo orçamentário ao cuidado com as escolhas efetuadas. <br />É composto por diferentes departamentos, ele integra a empresa como um todo, gerando uma sinergia para a maximização dos resultados.</p><p>Um planejamento orçamentário começa com o orçamento de vendas, em seguida são definidos os gastos de todos os setores de uma empresa de modo a ajustar seus propósitos e mapear os resultados.</p>",
+        "img": "008.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id":  9,
+        "titulo": "PROCESSO ORÇAMENTÁRIO",
+        "texto": "",
+        "img": "009.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Cada empresa desenvolve seu próprio modelo de gestão, de acordo com seus propósitos e necessidades, o orçamento deve atender às particularidades da organização.</p><p>Um formato que é bom para uma companhia nem sempre será para outra. Há situações que podem exigir uma análise distinta da tradicional.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>O processo de planejamento orçamentário deve levar em consideração as características de cada empresa. É importante conhecer o potencial de cada tipo de orçamento para apuração das suas informações financeiras e escolher qual se encaixa melhor nas necessidades da organização.</p>"
+          }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "TIPOS DE ORÇAMENTO",
+        "texto": "",
+        "img": "010.jpg",
+        "tipo": "slideshow",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": "Estático",
+              "texto": "<p>Orçamento estático é um formato muito comum nas empresas e, é elaborado antes do início do ano-calendário. Isso porque a característica principal do orçamento estático é a projeção de resultados para o período. A prática, portanto, está diretamente alinhada ao planejamento orçamentário, financeiro e estratégico do negócio.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": "Flexível",
+              "texto": "<p>O orçamento flexível é o conjunto de orçamentos que podem ser ajustados a qualquer nível de atividades. A base para elaboração do orçamento flexível é a perfeita distinção entre os gastos fixos e as variáveis, sendo que os gastos variáveis seguirão o volume de atividade, enquanto os fixos terão tratamento tradicional.</p>"
+          },
+          {
+              "id": 3,
+              "titulo": "Rolling Forecast",
+              "texto": "<p>O Rolling Forecast, chamado de orçamento contínuo, tem sua aplicação voltada para os propósitos da empresa no decorrer dos próximos 12 meses, servindo como importante instrumento estratégico. No decorrer desse período são feitas as modificações necessárias para corrigir falhas ou adequar as estratégias para aproveitar oportunidades encontradas.</p>"
+          },
+          {
+              "id": 4,
+              "titulo": "Budgeting",
+              "texto": "<p>O  Budgeting é o modelo de planejamento e controle orçamentário baseado na descentralização. Ao invés de ser um formato elaborado pela gestão geral da empresa, com foco no todo, ele é formulado pelo gestor de cada área, voltando-se para a realidade específica de cada uma delas. Atende, portanto, às necessidades de organizações que não seguem um modelo de hierarquia vertical, e, sim, horizontal.</p>"
+          },
+          {
+              "id": 5,
+              "titulo": "Modelo ajustado",
+              "texto": "<p>O controle orçamentário empresarial, baseado no modelo ajustado (conhecido como forecast), tem o objetivo de avaliar a situação atual da empresa. Para isso, deve observar o que foi projetado e o que foi realizado. O orçamento é revisado constantemente, de acordo com os resultados obtidos.</p>"
+          },
+          {
+              "id": 6,
+              "titulo": "Base Zero",
+              "texto": "<p>O modelo conhecido como orçamento de base zero que parte literalmente do zero, ou seja, considera a situação orçamentária como se a empresa estivesse sendo criada e planejada agora. Assim, mantém como foco principal os objetivos da empresa.</p>"
+          },
+          {
+              "id": 7,
+              "titulo": "Matricial",
+              "texto": "<p>O orçamento Matricial, por sua vez, é o modelo de controle orçamentário empresarial que verifica a estrutura de gastos da empresa por área, chamada, aqui, de pacotes de gastos. Esses segmentos são definidos livremente de acordo com as necessidades da organização. Pode ser, por exemplo, um pacote dedicado à análise dos gastos com recursos humanos ou, então, um pacote de despesas com diárias, entre outras unidades possíveis.</p>"
+          }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "ACOMPANHAMENTO E CONTROLE ORÇAMENTÁRIO",
+        "texto": "",
+        "img": "011.jpg",
+        "tipo": "passos",
+        "itens": [
+          {
+              "id": 1,
+              "titulo": 1,
+              "texto": "<p>Com o planejamento pronto e aprovado pela diretoria, é necessário que a empresa faça o acompanhamento, no mínimo mensalmente, comparando o que foi previsto com o que realmente está sendo realizado, sempre de acordo com as responsabilidades atribuídas e compromissos com os resultados assumidos na fase de elaboração do orçamento.</p>"
+          },
+          {
+              "id": 2,
+              "titulo": 2,
+              "texto": "<p>O ponto chave desse processo consiste em controlar o orçamento e acompanhar o equilíbrio entre o que foi planejado e o que está sendo realizado. É importante trabalhar de forma colaborativa com os demais setores da instituição, buscando a melhoria contínua dos resultados da empresa, corrigindo e redirecionando as ações com o objetivo de garantir o atingimento das metas definidas no processo de construção do planejamento, e claro, utilizando os desvios ocorridos como uma excelente forma de aprendizado corporativo.</p>"
+          }
+        ]
+    },
+    {
+        "id": 12,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 4 e do curso. Caso tenha alguma dúvida entre em contato com seu tutor.</p><p>Na página inicial do AVA, estão disponíveis os seguintes materiais que complementarão o conteúdo estudado até aqui:</p><ul><li>Videoaula.</li><li>Material de estudo.</li><li>Atividade avaliativa.</li></ul>",
+        "img": "012.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "id": 1,
+        "titulo": "Contabilidade e Finanças Corporativas",
+        "texto": "",
+        "img": "001.jpg",
+        "tipo": "capa",
+        "itens": null
+    },
+    {
+        "id": 2,
+        "titulo": "APRESENTAÇÃO",
+        "texto": "<h3>Bem vindo(a) ao Módulo 2: Contabilidade e Finanças Corporativas!</h3><p>Neste módulo, estudaremos a gestão financeira corporativa, análise e gerenciamento das demonstrações financeiras. Veremos também, como a gestão da estrutura de custos das organizações pode ser decisiva para uma boa gestão financeira empresarial.</p>",
+        "img": "002.jpg",
+        "tipo": "left",
+        "itens": null
+    },
+    {
+        "id": 3,
+        "titulo": "OBJETIVOS DE APRENDIZAGEM",
+        "texto": "<p>Ao final do módulo, espera-se que o aluno seja capaz de:</p><ul><li> Fazer uma leitura correta das demonstrações financeiras.</li><li> Extrair indicadores das demonstrações financeiras com o objetivo de tomar decisões.</li><li> Mapear a estrutura de custos empresariais.</li><li> Saber como a alavancagem operacional e financeira podem maximizar o resultada das entidades.</li></ul>",
+        "img": "003.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 4,
+        "titulo": "INFORMAÇÕES CONTÁBEIS COMO INSTRUMENTO DE GESTÃO",
+        "texto": "",
+        "img": "004.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1 ,
+                "texto": "<p>A contabilidade é um instrumento indispensável dentro da gestão financeira. Por meio dela é possível conseguir informações necessárias para a avaliação do desempenho econômico e financeiro de uma empresa. <br /> É o trabalho constante de examinar dados passados e sustentar as projeções para o futuro. Com a contabilidade, é possível pensar na elaboração e execução de todos os projetos vindouros. E, por fim, realizá-los. "
+            },
+            {
+                "id": 2,
+                "titulo": 2 ,
+                "texto": "<p>Podemos afirmar que a contabilidade é essencial para: <br /> Fornecer informações e sustentar bases para que, uma visão de médio e longo prazo, possa ser construída.</p><p>A Gestão Financeira, portanto guiará todo o negócio no âmbito “micro gerencial” no dia a dia.</p>"
+            } 
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "ENTENDENDO AS PRINCIPAIS DEMONSTRAÇÕES FINANCEIRAS",
+        "texto": "<h3>Vamos agora estudar sobre as demonstrações financeiras produzidas pela contabilidade.</h3><p>As demonstrações financeiras trazem as informações resumidas de natureza financeira, econômica e patrimonial de uma empresa, por meio dos dados colhidos pela contabilidade. O seu objetivo é mostrar os principais fatos registrados em determinado período e, assim, gerar informações úteis para tomada de decisão. Dentre as demonstrações financeiras, destacam-se o Balanço Patrimonial (BP) e a Demonstração do Resultado do Exercício (DRE).</p>",
+        "img": "005.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Balanço Patrimonial",
+                "texto": "<p>O Balanço Patrimonial reflete a situação financeira da empresa em determinado momento (normalmente no fim do ano). Ele é estático, como uma fotografia da situação patrimonial. O balanço Patrimonial é dividido em três grandes grupos, a saber: ativo, passivo e patrimônio líquido. Sua estrutura é formada por duas colunas: à esquerda, fica o ativo, que representa, de forma didática, os bens e direitos de uma entidade. À direita, ficam o passivo (obrigações) e o patrimônio líquido (recursos dos proprietários).</p><li> <span class='uk-margin-left'></span> Receita</li><li>(-) Despesa</li><li>(=) Lucro</li><p>Saiba mais sobre balanço patrimonial no material de estudo.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Demonstração do Resultado do Exercício",
+                "texto": "<p>A demonstração de resultado é um resumo ordenado das receitas e despesas da empresa em um determinado período e, tem como objetivo demonstrar a composição do lucro ou prejuízo de uma instituição.</p><p>Saiba mais sobre demonstração do resultado do exercício no material de estudo.</p>"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "INDICADORES DE ANÁLISES",
+        "texto": "",
+        "img": "006.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1 ,
+                "texto": "<p>O uso de índices constitui-se na técnica empregada com o objetivo de extrair informações fundamentais para tomada de decisão. Um índice isolado dificilmente contribui com informações relevantes para o gestor financeiro, por isso, é importante a análise de um conjunto de indicadores.  Mesmo que se tenha mensurado um conjunto de índices complementares, é necessário efetuar uma comparação temporal e setorial. Os dados básicos para a análise do desempenho econômico-financeiro baseiam-se nos diversos valores e rubricas constantes das demonstrações financeiras.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2 ,
+                "texto": "<p>Os  indicadores de liquidez visam medir a capacidade de pagamento (folga financeira) de uma empresa, ou seja, sua habilidade em cumprir corretamente as obrigações passivas assumidas.</p><p>A liquidez corrente, refere-se à relação existente entre o ativo circulante e o passivo circulante, ou seja, de $ 1,00 aplicado em bens e direitos circulantes (disponível, valores a receber e estoques, fundamentalmente), a quanto à empresa deve em curto prazo (duplicatas a pagar, dividendos, impostos e contribuições sociais, empréstimos em curto prazo etc.).</p><p>Saiba mais sobre os indicadores de análises no material de estudo.</p>"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "ENTENDENDO A GESTÃO DE CUSTOS",
+        "texto": "",
+        "img": "007.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1 ,
+                "texto": "<p>Conhecer as terminologias de custos é o caminho para que o gestor financeiro consiga mensurar de forma eficaz os elementos que compões seus gastos. Dessa forma, conseguem contribuir com melhoria de processos e, consequente, maximizar os resultados da instituição.</p> "
+            },
+            {
+                "id": 2,
+                "titulo": 2 ,
+                "texto": "<p>Essas terminologias indicam como é composto o valor de seus produtos e serviços. A partir disso, uma análise irá definir se vale ou não a pena produzir determinado produto, se um modelo de negócio funcionará e o que precisa ser melhorado (quais itens) para que a empresa se torne mais eficiente.</p><p>Veja a seguir as  principais terminologias na gestão de custos.</p> "
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "ENTENDENDO A GESTÃO DE CUSTOS",
+        "texto": "<p>Veja de forma resumida as principais terminologias de custos.</p>",
+        "img": "008.jpg",
+        "tipo": "slideshow",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": "Gasto",
+                "texto": "<p>Gasto: é uma saída financeira com a qual a organização arca para obter um produto ou serviço qualquer. É representado pela entrega ou promessa de entrega de ativos, normalmente dinheiro. Exemplos: gasto com mão de obra e gasto com compra de matéria-prima.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": "Investimento",
+                "texto": "<p>Investimento: Corresponde ao gasto com aquisição de bens e direitos na qual a empresa possui expectativa de ganhos futuros. Exemplos: compra de maquinário (investimento permanente) e compra de matéria-prima (investimento circulante).</p>"
+            },
+            {
+                "id": 3,
+                "titulo": "Custo",
+                "texto": "<p>Custo: é um gasto relacionado a um bem ou serviço utilizado para produzir outros bens ou serviços. Os custos têm subdivisões:</p><p>-Fixos (aqueles que não alteram em relação ao volume produzido: aluguel da fábrica, por exemplo).</p><p>-Variáveis (aqueles que alteram de acordo com o volume de produção:consumo de matéria prima, por exemplo).</p><p>Eles também são classificados como:</p><p>-Diretos (aqueles que estão alocados diretamente no produto: matéria prima, por exemplo) e</p><p>-Indiretos (aqueles que estão alocados nos produtos de forma indireta ou através de rateio: depreciação, aluguel, por exemplo).</p>"
+            },
+            {
+                "id": 4,
+                "titulo": "Despesas",
+                "texto": "<p>Despesa: é o bem ou serviço consumido de forma direta ou indireta para se obter receitas, seja com vendas ou administrativamente.</p><p>Também pode ser:</p><p>-Variável (altera em relação ao volume de venda: comissão sobre venda, por exemplo).</p><p>-Fixa (não altera em relação ao volume de venda: salário do pessoal administrativos, por exemplo).</p>"
+            },
+            {
+                "id": 5,
+                "titulo": "Desembolso",
+                "texto": "<p>Desembolso: é o pagamento relacionado à aquisição do bem ou serviço.</p>"
+            },
+            {
+                "id": 6,
+                "titulo": "Perda",
+                "texto": "<p>Perda: bem ou serviço consumidos de forma anormal e involuntária: perdas com incêndios, por exemplo.</p>"
+            },
+            {
+                "id":7 ,
+                "titulo":"Saiba mais",
+                "texto": "<p>A terminologia exige cuidado e atenção pois muitos elementos mudam de definição conforme o processo. O gasto com mão-de-obra, por exemplo, é um custo de produção. No entanto, se ocorre uma greve e a organização precisa contratar mão de obra externa para continuar com a produção, esse gasto será identificado como perda.</p>"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "ANÁLISE DA MARGEM DE CONTRIBUIÇÃO E DO PONTO DE EQUILÍBRIO",
+        "texto": "",
+        "img": "009.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Os produtos (fabricados e vendidos ) e os serviços ao serem prestados geram custos e despesas. Assim, há custos e despesas que ocorrem em virtude da produção e da venda: são os custos e as despesas variáveis.</p><p>Entende-se por margem a diferença entre o preço de venda líquido (livre dos impostos) e a soma das despesas e custos variáveis de um produto ou serviço. A Margem de Contribuição é, em outras palavras, a “sobra financeira” de cada produto de uma empresa para a recuperação – ou amortização – das despesas e dos custos fixos.</p> "
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>É possível conhecer quanto determinado produto ou serviço contribui para o pagamento dos gastos fixos e para a geração de lucro. A empresa só começa a ter lucro quando a margem de contribuição total dos produtos vendidos superar os custos e despesas fixas do período.  A margem de contribuição resulta do seguinte cálculo: MC = PV  – (CV + DV) :</p><ul><li>MC = Margem de Contribuição.</li><li>PV = Preço de Venda.</li><li>CV = Custo variável.</li><li>DV = Despesa Variável.</li></ul><p>Saiba mais análise da margem de contribuição e do ponto de equilíbrio no material de estudo.</p>"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "PONTO DE EQUILÍBRIO E A ANÁLISE CUSTO X VOLUME X LUCRO",
+        "texto": null,
+        "img": "010.jpg",
+        "tipo": "passosContainer",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>O ponto de equilíbrio, onde o resultado operacional se anula, é denominado ponto de equilíbrio contábil, uma vez que é baseado no lucro contábil igual à zero, ou seja, o ponto de equilíbrio contábil corresponde ao volume de vendas que uma empresa precisa operar para tornar seu lucro igual à zero. Porém, toda empresa persegue um lucro mínimo, que compense o investimento realizado.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>O nível de venda que e a empresa precisa ter para obter o lucro mínimo desejado, pode ser encontrado no ponto de equilíbrio econômico.</p><p>Também ocorre de, nem sempre, os custos e despesas fixos serem desembolsáveis, como é o caso das depreciações. Assim, uma empresa pode saber qual o volume de venda necessário para que a empresa tenha condições de arcar com os gastos desembolsáveis, mesmo operando em prejuízo (abaixo do ponto de equilíbrio contábil) Tem-se aí o ponto de equilíbrio financeiro.</p>"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "titulo": "ALAVANCAGEM",
+        "texto": "<h3>Vamos agora estudar sobre alavancagem.</h3><p>Alavancagem é uma estratégia que as empresas utilizam na busca de maximizar seus resultados. Refere-se ao uso de ativos operacionais e financeiros visando aumentar o resultado  da empresa. Dessa forma, a alavancagem pode ser Operacional ou Financeira.</p>",
+        "img": "011.jpg",
+        "tipo": "right",
+        "itens": null
+    },
+    {
+        "id": 12,
+        "titulo": "ALAVANCAGEM OPERACIONAL",
+        "texto": "",
+        "img": "012.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>A alavancagem operacional indica a capacidade de a empresa  aumentar seus lucros com acréscimos de vendas e com apoio em determinado nível de gastos fixos.</p> "
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Veja como podemos estimar a alavancagem operacional nas finanças corporativa.</p><p>Uma forma de estimar a alavancagem operacional em finanças corporativas é pelo Grau de Alavancagem Operacional (GAO), que pode ser calculado dividindo a variação percentual do lucro operacional pela variação percentual das vendas. Para exemplificar a equação do GAO, digamos que em uma determinada empresa com uma variação percentual nas Receitas e 20% de um ano para o outro o gestor consiga um aumento de 40% no Lucro operacional durante o mesmo período. Neste exemplo o GAO será igual a 2. Isso significa que para cada 1% de aumento nas vendas, o lucro operacional aumenta 2% com a manutenção dos gastos operacionais fixos.</p>"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "titulo": "ALAVANCAGEM FINANCEIRA",
+        "texto": "<p>Vamos agora estudar sobre alavancagem financeira.</p>",
+        "img": "013.jpg",
+        "tipo": "passos",
+        "itens": [
+            {
+                "id": 1,
+                "titulo": 1,
+                "texto": "<p>Alavancagem Financeira: é a utilização de recursos de terceiros em sua estrutura de capital. Uma empresa pode modificar a rentabilidade do capital próprio.</p>"
+            },
+            {
+                "id": 2,
+                "titulo": 2,
+                "texto": "<p>Uma forma de mensurar a alavancagem financeira é pelo Grau de Alavancagem Financeira (GAF), o qual pode ser calculado com a divisão da variação percentual do lucro líquido de um período para o outro, pela variação percentual do lucro operacional nesse mesmo período.</p><p>Vamos imaginar que  uma determinada empresa obteve uma variação de 20% no lucro operacional, ou seja, foi capaz de aumentar 33% seu lucro líquido. Nesse caso teremos um GAF de 1,67. Isso significa que, para cada 1% de aumento no lucro operacional, a empresa teve 1,76% de aumento no lucro líquido, considerando o volume de encargos financeiros fixos para custear sua operação. A ideia central para estimar a alavancagem financeira é perceber a mudança que ocorre no lucro líquido para cada alteração no lucro operacional.</p> "
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "titulo": "ENCERRAMENTO",
+        "texto": "<p>Você chegou ao final do Módulo 2. Caso tenha alguma dúvida entre em contato com seu tutor.</p><p>Na página inicial do curso estão disponíveis  as videoaulas e o material de estudo e as atividades avaliativas.</p><p>Veja o filme Too big to fail (“Grande demais para quebrar”), com relatos bem didáticos sobre assuntos ásperos de tesouraria.</p>",
+        "img": "014.jpg",
+        "tipo": "encerramento",
+        "itens": null
+    }
+]  
