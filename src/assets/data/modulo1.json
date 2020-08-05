@@ -34,7 +34,7 @@
     {
         "id":  5,
         "titulo": "AMBIENTE INTERNO E EXTERNO – MICROAMBIENTE E MACROAMBIENTE",
-        "texto": "<h3>Você sabe qual é a diferença entre microambiente e o macroambiente?</h3>",
+        "texto": "<p>Clique nos destaques e veja mais informações.</p>",
         "img": "005.jpg",
         "tipo": "passos",
         "itens": [

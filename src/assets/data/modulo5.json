@@ -42,7 +42,7 @@
     {
         "id":  6,
         "titulo": "COMO DESENVOLVER O MAPA ESTRATÉGICO",
-        "texto": "<h3>Modelo de negócio</h3><p>O Business Model Canvas (BMC) é uma ferramenta utilizada na formulação das estratégias, otimiza a visualização e compreensão do modelo de negócios da empresa. É um indutor do pensamento estratégico, reduzindo o foco nas atividades operacionais, ou seja, trabalha o negócio de forma sistêmica.</p>",
+        "texto": "<h3>Modelo de negócio</h3><p>O Business Model Canvas (BMC) é uma ferramenta utilizada na formulação das estratégias, otimiza a visualização e compreensão do modelo de negócios da empresa. É um indutor do pensamento estratégico, reduzindo o foco nas atividades operacionais, ou seja, trabalha o negócio de forma sistêmica.</p><p class='uk-text-small uk-text-bold'>Figura: Modelo de Negócios – Business Model Canvas.</p>",
         "img": "006.jpg",
         "tipo": "encerramento",
         "itens": null

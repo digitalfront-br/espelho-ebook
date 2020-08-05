@@ -5,7 +5,7 @@
         <div 
             uk-scrollspy="cls: uk-animation-slide-left; repeat: true" 
             class="uk-background-cover uk-height-viewport uk-flex uk-flex-middle uk-flex-collumn  " 
-            :style="`background-image: url('/img/${ modulo + dados.img }');`">
+            :style="`background-image: url('/ebook/gestaoestrategica/img/${ modulo + dados.img }');`">
             <div class="uk-container">
                 <div 
                     uk-scrollspy="cls: uk-animation-slide-right; repeat: true" 

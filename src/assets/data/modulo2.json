@@ -26,7 +26,7 @@
     {
         "id":  4,
         "titulo": "TIPOS DE POSICIONAMENTOS",
-        "texto": "Clique nos números e veja mais informações.",
+        "texto": "Clique nos destaques e veja mais informações.",
         "img": "005.jpg",
         "tipo": "passosContainer",
         "itens": [
@@ -45,7 +45,7 @@
     {
         "id":  5,
         "titulo": "VANTAGEM COMPETITIVA",
-        "texto": "<p>Para compreender a vantagem competitiva, primeiramente, entenda o termo vantagem.</p><p>A vantagem é um tipo de condição ou uma posição que caracteriza superioridade em relação a algo, ou alguém. É uma circunstância em que há privilégios por motivos diversos.</p><p>Clique nos números e veja mais informações.</p>",
+        "texto": "<p>Clique nos números e veja mais informações.</p>",
         "img": "006.jpg",
         "tipo": "passos",
         "itens": [

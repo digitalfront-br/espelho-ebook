@@ -34,7 +34,7 @@
     {
         "id":  5,
         "titulo": "ANÁLISE PEST – POLÍTICO, ECONÔMICO, SOCIAL E TECNOLÓGICO",
-        "texto": "<p>A análise PEST é um modelo analítico que facilita o entendimento sobre os fatores externos (análise macro) que podem impactar as operações da empresa.</p><p>Excelente forma de monitorar o ambiente externo.</p><p>PEST é um acrônimo que une as palavras Política (P), Economia (E), Social (S) e Tecnologia (T). Veja o significado de cada análise:</p><ul><li>A <strong>análise tecnológica</strong> checa a influência de tecnologias, existentes e tendências, para o mercado da empresa de uma forma geral.</li><li>A <strong>análise política</strong> checa a influência que o governo tem sobre as atividades econômicas da empresa.</li><li>A <strong>análise social</strong> verifica peculiaridades culturais do país, como por exemplo, escolaridade da população e outros aspectos que mostram como funciona a estrutura social.</li></ul>",
+        "texto": "<p>A análise PEST é um modelo analítico que facilita o entendimento sobre os fatores externos (análise macro) que podem impactar as operações da empresa.</p><p>PEST é um acrônimo que une as palavras Política (P), Economia (E), Social (S) e Tecnologia (T).</p>",
         "img": "005.jpg",
         "tipo": "encerramento",
         "itens": null
@@ -70,7 +70,7 @@
     {
         "id":  8,
         "titulo": "Conheça essas ferramentas, por meio do esquema:",
-        "texto": "<p>A estratégia significa um plano, método, manobras ou estratagemas usados para alcançar um objetivo. É considerada uma arte ou, até mesmo, uma filosofia, pois envolve ações que, de forma muito particular, podem conduzir à vitória ou derrota.</p><p>Estratégia é um termo amplamente utilizado no ambiente organizacional: estratégia de vendas, planejamento estratégico, estratégia de mercado, dentre outros. Significa  estabelecer metas de longo prazo e trabalhar em retrospecto para alcançá-las por meio de ações específicas, o que denomina-se táticas.</p>",
+        "texto": null,
         "img": "008.jpg",
         "tipo": "encerramento",
         "itens": null
@@ -95,7 +95,7 @@
         "id": 11,
         "titulo": "ENCERRAMENTO",
         "texto": "<p>Você chegou ao final do Módulo 4. Caso tenha alguma dúvida entre em contato com o seu tutor.</p><p>Na página inicial do curso estão disponíveis as videoaulas, o material de estudo e as atividades avaliativas.</p><p>Até o último módulo!</p>",
-        "img": "010.jpg",
+        "img": "011.jpg",
         "tipo": "encerramento",
         "itens": null
     }

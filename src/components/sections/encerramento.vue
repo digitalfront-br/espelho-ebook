@@ -5,7 +5,7 @@
             uk-scrollspy="cls: uk-animation-fade; repeat: true">
             <div class="uk-card-media-left uk-cover-container "  uk-scrollspy="cls: uk-animation-slide-up; repeat: true">
                 <canvas width="1800" height="1200"></canvas>
-                <img :src="`/img/${modulo + dados.img}`" :alt="dados.titulo" uk-cover="" class="uk-cover" >
+                <img :src="`/ebook/gestaoestrategica/img/${modulo + dados.img}`" :alt="dados.titulo" uk-cover="" class="uk-cover" >
             </div>
             <div class="uk-flex uk-flex-middle" uk-scrollspy="cls: uk-animation-scale-up; repeat: true"> 
                 <div class="uk-card-body "> 
