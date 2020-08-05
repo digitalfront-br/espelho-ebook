@@ -1,16 +1,16 @@
 .DS_Store
 node_modules
 /dist
-# public/img/modulo1/
-# public/img/modulo2/
-# public/img/modulo3/
-# public/img/modulo4/
-public/img/modulo5/
-src/assets/img/modulo1/
-src/assets/img/modulo2/
-src/assets/img/modulo3/
-src/assets/img/modulo4/
-src/assets/img/modulo5/
+# public/ebook/gestaofinanceira/img/modulo1/
+# public/ebook/gestaofinanceira/img/modulo2/
+# public/ebook/gestaofinanceira/img/modulo3/
+# public/ebook/gestaofinanceira/img/modulo4/
+public/ebook/gestaofinanceira/img/modulo5/
+src/assets/ebook/gestaofinanceira/img/modulo1/
+src/assets/ebook/gestaofinanceira/img/modulo2/
+src/assets/ebook/gestaofinanceira/img/modulo3/
+src/assets/ebook/gestaofinanceira/img/modulo4/
+src/assets/ebook/gestaofinanceira/img/modulo5/
 # src/assets/data/
 # local env files
 .env.local

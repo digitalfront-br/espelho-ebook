@@ -5,7 +5,7 @@
     <div 
         uk-scrollspy="cls: uk-animation-scale-down; repeat: true" 
         class="uk-background-cover uk-height-viewport uk-flex uk-flex-right uk-flex-middle uk-scrollspy-inview uk-animation-scale-down" 
-        :style="`background-image: url(/img/${ modulo + dados.img});`">
+        :style="`background-image: url(/ebook/gestaofinanceira/img/${ modulo + dados.img});`">
         <div 
             uk-scrollspy="cls: uk-animation-scale-up; repeat: true" 
             class="uk-overlay uk-overlay-default uk-margin-left@m uk-margin-top uk-margin-bottom uk-box-shadow-medium uk-width-1-1@s uk-width-1-2@m uk-scrollspy-inview uk-animation-scale-up" >

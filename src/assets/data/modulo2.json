@@ -52,12 +52,12 @@
             {
                 "id": 1,
                 "titulo": "Balanço Patrimonial",
-                "texto": "<p>O Balanço Patrimonial reflete a situação financeira da empresa em determinado momento (normalmente no fim do ano). Ele é estático, como uma fotografia da situação patrimonial. O balanço Patrimonial é dividido em três grandes grupos, a saber: ativo, passivo e patrimônio líquido. Sua estrutura é formada por duas colunas: à esquerda, fica o ativo, que representa, de forma didática, os bens e direitos de uma entidade. À direita, ficam o passivo (obrigações) e o patrimônio líquido (recursos dos proprietários).</p><li> <span class='uk-margin-left'></span> Receita</li><li>(-) Despesa</li><li>(=) Lucro</li><p>Saiba mais sobre balanço patrimonial no material de estudo.</p>"
+                "texto": "<p>O Balanço Patrimonial reflete a situação financeira da empresa em determinado momento (normalmente no fim do ano). Ele é estático, como uma fotografia da situação patrimonial. O balanço Patrimonial é dividido em três grandes grupos, a saber: ativo, passivo e patrimônio líquido. Sua estrutura é formada por duas colunas: à esquerda, fica o ativo, que representa, de forma didática, os bens e direitos de uma entidade. À direita, ficam o passivo (obrigações) e o patrimônio líquido (recursos dos proprietários).</p><p>Saiba mais sobre balanço patrimonial no material de estudo.</p>"
             },
             {
                 "id": 2,
                 "titulo": "Demonstração do Resultado do Exercício",
-                "texto": "<p>A demonstração de resultado é um resumo ordenado das receitas e despesas da empresa em um determinado período e, tem como objetivo demonstrar a composição do lucro ou prejuízo de uma instituição.</p><p>Saiba mais sobre demonstração do resultado do exercício no material de estudo.</p>"
+                "texto": "<p>A demonstração de resultado é um resumo ordenado das receitas e despesas da empresa em um determinado período e, tem como objetivo demonstrar a composição do lucro ou prejuízo de uma instituição.</p><li> <span class='uk-margin-left'></span> Receita</li><li>(-) Despesa</li><li>(=) Lucro</li><p>Saiba mais sobre demonstração do resultado do exercício no material de estudo.</p>"
             }
         ]
     },
